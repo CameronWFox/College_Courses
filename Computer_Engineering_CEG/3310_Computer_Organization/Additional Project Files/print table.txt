@@ -1,0 +1,23 @@
+void printTable(float monthlyPayment, float loanAmount, float annualInterestRate, int loanPerYear)
+{
+    int count = 1;
+    int month = 0;
+
+    int monthlyLoan = loanPerYear * 12;
+
+    // Titles for each column
+    printf("                  Old         Monthly     Interest   Principal       New \n");
+    printf("     Month      Balance       Payment       Paid       Paid        Balance \n");
+    printf("  ----------  -------------  ----------  ----------  ----------   ---------- \n");
+
+    // Loop used to fill in each column of the table
+    for (count = 1; count <= monthlyLoan; count++)
+    {
+        float principalPayment = loanAmount - annualInterestRate;
+        float newBalance = loanAmount - principalPayment;
+        float interestPaid = loanAmount * computeMonthlyIntrest(loanAmount, annualInterestRate);
+        month++;
+        printf("%10d %10.2f %10.2f %10.2f %10.2f %10.2f\n", month, loanAmount, monthlyPayment, interestPaid = computeMonthlyIntrest(loanAmount, annualInterestRate), principalPayment = monthlyPayment - interestPaid, newBalance = loanAmount - principalPayment);
+        loanAmount = newBalance;
+    }
+}

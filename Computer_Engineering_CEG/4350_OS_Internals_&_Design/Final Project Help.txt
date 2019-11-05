@@ -1,0 +1,24 @@
+Programming Project Addtional Information from class:
+
+- IPC: inner process communication methods
+
+1. Using a "pipe" for transfering data
+- Look at textbook section for additonal information
+This is in chapter 3
+
+2. message passing
+This is in chapter 3
+
+3. Using sockets to transfer the data
+This is in reference chapter
+
+4. Using shared memeory and semaphores
+- (sm can obtain permission to write to shared memory
+and can read the change made.)
+- (sema can be used to locking operation and then
+another is needed to be used for the unlocking operation.)
+This is on chapters 6, 7
+
+Must use a minimum of two out of four.
+If we use three, the grade is 35 instead of 30
+If we use all four then the grade bumps up to 40 max

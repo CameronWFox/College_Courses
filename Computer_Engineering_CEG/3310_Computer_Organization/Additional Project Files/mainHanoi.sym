@@ -1,0 +1,14 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ENT                     3002
+//	EndPost                 3089
+//	MidPost                 3088
+//	MoveDisk                308C
+//	SaveR7                  308D
+//	Start                   308B
+//	StartPost               3087
+//	Therty                  308A
+//	prompt1                 302D
+//	prompt2                 3041
+//	prompt3                 3052
+//	prompt4                 3068

@@ -1,0 +1,12 @@
+For my Hash Project 4, I ended up using double hashing because it can simplify down 
+the process of my coding. I was having difficulty with building the project
+but I was able to get help from a classmate and she was able to help me understand 
+how double hashing works a bit better. 
+I see that double hashing works very well and it is very effective. 
+I code is very clearly written and I see that double hashing is easy for me to 
+understand and see how everything works. From what I can tell everything operates and runs
+smoothly and cleanly. 
+I did multiple tests of inserting, finding, removing and alpha. 
+Each one works and is fully functional. 
+I tested my methods by adding in about 7 or 8 values then 
+I run through a find and remove test. Then I do a test for the alpha result. 

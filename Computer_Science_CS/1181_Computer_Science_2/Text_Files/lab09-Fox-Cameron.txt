@@ -1,0 +1,69 @@
+//You first run the server and the client on seprate python servers
+//then you type in commands on the client then they are sent to the server
+//Every time you check another option you need to change both host numbers on the server and the client
+
+Client Input 
+
+//Commands typed into the client and are sent to the server
+
+1. hello
+
+2. ls
+
+3. get
+
+4. put
+
+5. quit
+
+
+Client Output
+
+//Output after you type in commands to send to the server
+
+1. Received: Server Says... hello
+
+2. Received: Listind Directories  Volume in drive E is 64GB
+ Volume Serial Number is F5EC-0529
+
+ Directory of E:\
+
+04/21/2015  08:14 PM    <DIR>          SanDisk SecureAccess
+04/21/2015  07:03 PM           403,851 Back Up Your Files to the Cloud.pdf
+04/21/2015  07:04 PM        16,024,600 SanDiskSecureAccessV3_win.exe
+03/01/2016  05:24 PM    <DIR>          Video Games
+03/05/2016  11:45 AM    <DIR>          Computer Back Up Data For Reset
+03/05/2016  11:50 AM    <DIR>          School Files
+02/29/2016  06:24 PM    <DIR>          My Documents
+02/06/2016  01:59 PM    <DIR>          Downloads folder
+03/14/2016  07:24 PM           729,734 FullSizeRender.jpg Page 1.jpg
+03/14/2016  07:26 PM           719,305 FullSizeRender.jpg Page 2.jpg
+03/13/2016  09:21 PM    <DIR>          CS1181PA7
+03/15/2016  03:05 PM            14,011 Paper For The Streams Program.docx
+03/29/2016  08:49 PM            14,019 English Paper Common Misconception.docx
+03/31/2016  10:43 AM    <DIR>          CS1181PA9
+03/31/2016  01:18 PM
+
+3. 
+
+4. 
+
+5. Received: Server Says... quit
+
+
+Server Output
+
+//Output you get after you type in commands from the client
+
+1. Server received:  hello
+
+2. Server received:  ls
+
+3. 
+
+4. 
+
+5. Server received:  quit
+Server exiting.
+
+

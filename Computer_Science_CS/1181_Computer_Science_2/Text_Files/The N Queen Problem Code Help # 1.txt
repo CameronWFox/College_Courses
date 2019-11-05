@@ -1,0 +1,115 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package cs1181.the.n.queen.problem;
+
+import java.awt.Point;
+import java.util.Scanner;
+import java.util.Stack;
+
+/**
+ * Cameron Windsor Fox 
+ * CS 1181 
+ * Project 5 
+ * Section 3 
+ * Rick Volkers 
+ * Sai
+ */
+public class CS1181TheNQueenProblem {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) throws IndexOutOfBoundsException {
+
+        Stack<Point> Chess = new Stack();// Stack Used in the method
+
+        boolean QueenPlacementError = false;// If true then the Queen is not to be placed here!
+
+        Scanner input = new Scanner(System.in);
+        System.out.println("Please Enter The Number Of Queens you want to use: ");
+
+        int n = input.nextInt();
+        Chess.setSize(n);
+
+        int[] column = new int[n];// Array used for all the columns
+        int[] row = new int[n];// Array used for all the rows 
+        int[] diagonalUpperRightLowLeft = new int[2 * n - 1];// Array for all the diagonals
+        int[] diagonalUpperLeftLowRight = new int[2 * n - 1];// Array for all the diagonals
+
+        if (n < 4 || n > 10) {
+            throw new IndexOutOfBoundsException(" This N Value Will Not Work With This Project!! "
+                    + "It Must Be Between 4 and 10!!");
+        }
+
+        //Method Call
+        forLoop(n, column, row, diagonalUpperRightLowLeft, diagonalUpperLeftLowRight, Chess, QueenPlacementError);
+        printMethod(Chess, n);
+
+    }
+
+    /**
+     *
+     * @param n total number
+     * @param column a column on the board
+     * @param row a row on the board
+     * @param diagonalUpperRightLowLeft one of the two ways of diagonal
+     * @param diagonalUpperLeftLowRight the other way of diagonal
+     * @param Chess name of the stack
+     * @param QueenPlacementError boolean to check if a queen can or cant be placed
+     */
+    public static void forLoop(int n, int[] column, int[] row, int[] diagonalUpperRightLowLeft, int[] diagonalUpperLeftLowRight, Stack Chess, boolean QueenPlacementError) {
+
+        for (int i = 0; i < n; i++) {
+
+            for (int j = 0; j < n; j++) {
+
+                Point point = new Point(i, j);
+
+                if (row[i] == 0 && column[j] == 0 && diagonalUpperLeftLowRight[j - i + (n - 1)] == 0 && diagonalUpperRightLowLeft[j + i] == 0) {
+                    
+                    row[j] = 1;
+                    column[i] = 1;
+                    diagonalUpperLeftLowRight[j - i + (n - 1)] = 1;
+                    diagonalUpperRightLowLeft[j + i] = 1;
+                    Chess.push(point);
+                    System.out.println("Added: " + point.getX() + "," + point.getY());
+
+                    if (!Chess.empty()) {
+                        point = (Point) Chess.pop();
+                        i = point.x;
+                        j = point.y + 1;
+                        System.out.println(point.x + "," + point.y);
+                    }
+                }
+            }
+        }
+    }
+
+    /**
+     *
+     * @param Chess
+     * @param n
+     */
+    public static void printMethod(Stack<Point> Chess, int n) {
+
+        System.out.println(Chess);
+        for (int i = 0; i < n; i++) {
+
+            for (int j = 0; j < n; j++) {
+
+                if (Chess.get(i).y == j) {
+                    System.out.println("Q");
+                } else {
+                    System.out.println("X");
+                }
+
+                System.out.print("");
+            }
+            System.out.println("");
+        }
+
+    }
+}

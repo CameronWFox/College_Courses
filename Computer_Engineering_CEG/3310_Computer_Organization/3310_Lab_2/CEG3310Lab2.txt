@@ -1,0 +1,102 @@
+CEG 3310 Lab2 
+John Gallagher
+By Cameron Fox
+10/07/2016
+
+Password 1: pincer
+Password 2: coil
+
+I was able to find these passwords by looking at the code and finding where the program checks my input
+for what the is stored in the system as the passwords I need. 
+With the first password the checking process occurs in the lines x3017 to x3021 as it checks 
+each letter from what stored in memory to what the user typed in. 
+The second password was more difficult because it was encrypted. 
+The second password starts out encrypted but does a check between the encrypted password 
+and the decrypted code. So you can see what each letter of the password is by watching 
+it decrypt step by step. The password was hidden by having each address adding 14 so the encryption 
+takes action and you see diffrent addresses and diffrent characters. That is how the second password
+was hidden in the code.
+This code checking and decryption all happens in the lines x3023 till x3028. 
+These are the solutions to solving both passwords and defusing Dr. Dooms bitbomb. 
+
+
+Registers:
+R0   x7FFF  32767
+R1   xFFFF  -1
+R2   x3046  12358
+R3   x0000  0
+R4   x0000  0
+R5   x0000  0
+R6   x0001  1
+R7   xFD75  -651
+PC   xFD79  -647
+IR   xB02C  -20436
+CC   P
+
+Memory:
+x3000  0101110110100000  x5DA0            AND    R6, R6, #0     
+x3001  1110001001000110  xE246            LEA    R1, x3048      // Set R1 with the address x3048
+x3002  0110000001000000  x6040            LDR    R0, R1, #0     
+x3003  0000010000000011  x0403            BRZ    x3007          
+x3004  1111000000100001  xF021            TRAP   OUT            // print a starting string
+x3005  0001001001100001  x1261            ADD    R1, R1, #1     
+x3006  0000111111111011  x0FFB            BRNZP  x3002          // Loops the beginning print statement
+x3007  0101000000100000  x5020            AND    R0, R0, #0     // Adding zero and reinitialize the CC
+x3008  1110001010011101  xE29D            LEA    R1, x30A6      // Set R1 with the address x30A6
+x3009  1111000000100000  xF020            TRAP   GETC           // getting a character from user
+x300A  1111000000100001  xF021            TRAP   OUT            // printing the character out
+x300B  0111000001000000  x7040            STR    R0, R1, #0     
+x300C  0001001001100001  x1261            ADD    R1, R1, #1     // Adding 1 to R1 
+x300D  0010010000111001  x2439            LD     R2, x3047      // Setting x3047 to R2
+x300E  1001010010111111  x94BF            NOT    R2, R2         // Notting R2
+x300F  0101010010000000  x5480            AND    R2, R2, R0     
+x3010  0000101111111000  x0BF8            BRNP   x3009          // going back to x3009 again
+x3011  0001001001111111  x127F            ADD    R1, R1, #-1    // Subtracting 1 from R1
+x3012  0111010001000000  x7440            STR    R2, R1, #0     
+x3013  1110001010010010  xE292            LEA    R1, x30A6      // Sets R1 with the address x30A6
+x3014  1110010001111110  xE47E            LEA    R2, x3093      // Sets R2 with the address x3093
+x3015  0001110110100000  x1DA0            ADD    R6, R6, #0     // Adding zero and reinitialize the CC
+x3016  0000001000001011  x020B            BRP    x3022          // Branch instruction
+x3017  0110011001000000  x6640            LDR    R3, R1, #0     // loading input from R1 into R3
+x3018  0110100010000000  x6880            LDR    R4, R2, #0     // loading memory from R2 into R4
+x3019  1001100100111111  x993F            NOT    R4, R4         // Notting R4
+x301A  0001100100100001  x1921            ADD    R4, R4, #1     // adding 1 to NOT R4
+x301B  0001100011000100  x18C4            ADD    R4, R3, R4     // does the comparison
+x301C  0000101000010110  x0A16            BRNP   x3033          // Branch instruction
+x301D  0001011011100000  x16E0            ADD    R3, R3, #0     // Adding zero and reinitialize the CC
+x301E  0000010000001100  x040C            BRZ    x302B          // Branch instruction
+x301F  0001001001100001  x1261            ADD    R1, R1, #1     
+x3020  0001010010100001  x14A1            ADD    R2, R2, #1     
+x3021  0000111111110101  x0FF5            BRNZP  x3017          // loops back to check again
+x3022  1110010000011111  xE41F            LEA    R2, x3042      
+x3023  0110000010000000  x6080            LDR    R0, R2, #0     
+x3024  0000010000000100  x0404            BRZ    x3029          // Branch instruction
+x3025  0001000000110010  x1032            ADD    R0, R0, #-14   // decrypted second password
+x3026  0111000010000000  x7080            STR    R0, R2, #0     
+x3027  0001010010100001  x14A1            ADD    R2, R2, #1     // Adding 1 to R2
+x3028  0000111111111010  x0FFA            BRNZP  x3023          // Branch instruction
+x3029  1110010000011000  xE418            LEA    R2, x3042      
+x302A  0000111111101100  x0FEC            BRNZP  x3017          // loops back to check again
+x302B  1110001001000100  xE244            LEA    R1, x3070      
+x302C  0110000001000000  x6040            LDR    R0, R1, #0     
+x302D  0000010000000011  x0403            BRZ    x3031          // Branch instruction
+x302E  1111000000100001  xF021            TRAP   OUT            // Print to the console
+x302F  0001001001100001  x1261            ADD    R1, R1, #1     
+x3030  0000111111111011  x0FFB            BRNZP  x302C          
+x3031  0101000000100000  x5020            AND    R0, R0, #0     // Adding zero and reinitialize the CC
+x3032  0000111000001000  x0E08            BRNZP  x303B          
+x3033  1110001000110110  xE236            LEA    R1, x306A      
+x3034  0110000001000000  x6040            LDR    R0, R1, #0     
+x3035  0000010000000011  x0403            BRZ    x3039          
+x3036  1111000000100001  xF021            TRAP   OUT            // Prints out a character to the console
+x3037  0001001001100001  x1261            ADD    R1, R1, #1     
+x3038  0000111111111011  x0FFB            BRNZP  x3034          
+x3039  0101000000100000  x5020            AND    R0, R0, #0     
+x303A  1111000000100101  xF025            TRAP   HALT           
+x303B  0001110110100000  x1DA0            ADD    R6, R6, #0     // Adding zero and reinitialize the CC
+x303C  0000001000000010  x0202            BRP    x303F          
+x303D  0001110110100001  x1DA1            ADD    R6, R6, #1     // Adding 1 to R6/ check 2nd password
+x303E  0000111111000010  x0FC2            BRNZP  x3001          
+x303F  1110000001000100  xE044            LEA    R0, x3084      
+x3040  1111000000100010  xF022            TRAP   PUTS           
+x3041  1111000000100101  xF025            TRAP   HALT           // Stops the program

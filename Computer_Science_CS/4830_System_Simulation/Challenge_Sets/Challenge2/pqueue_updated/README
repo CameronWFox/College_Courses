@@ -1,0 +1,29 @@
+This directory contains source code for a library that can be used to 
+build and maintain priority queues needed to implement discrete event queue
+based simulations.  If you define the symbol "COMPILE_SAMPLE_CODE" in the
+source file pqueue.c and compile it with something like:
+
+cc pqueue.c -lm 
+
+When compiled in sample code mode, you can run it like this
+
+a.out < ARRIVE_DATA_FRACTIONAL
+
+as the code expects to get guest arrival times from the standard input.  You 
+can use the data file I provide or use one you generated from your work
+in challenge problem #1.
+
+it will create an executable that computes the average wait time with 
+respect to time of day for the situation described in challenge problem 
+set #2.  If that symbol is not defined, then the file pqueue.c will compile
+as a library you would need to link to your own code.  The header 
+definitions for all user callable functions would be contained in 
+pqueue.h
+
+The sample code is exactly what I used to generate figure one in 
+the challenge problem #2 set.  Of course, I edited the number of gates
+and recompiled for each run.  Note that the sample code is not at this 
+time commented.  This is on purpose.  We'll add comments as a class as 
+we consider the techniques involved in more detail.
+
+

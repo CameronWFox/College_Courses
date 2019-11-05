@@ -1,0 +1,69 @@
+/**
+     *
+     * @param rowStartPoint
+     * @param columnStartPoint
+     * @param numRegion
+     * @return
+     * @throws FileNotFoundException
+     * @throws Exception
+     */
+    public int recursionMethod(int rowStartPoint, int columnStartPoint, int numRegion) throws Exception {
+
+        int regionElementTotal = 0;
+        if (Grid[rowStartPoint][columnStartPoint] != -1) {
+
+            return 1;
+        }
+
+        regionElementTotal++;
+
+        if (rowStartPoint - 1 >= 0 && Grid[rowStartPoint - 1][columnStartPoint] == -1) {
+            Grid[rowStartPoint - 1][columnStartPoint] = numRegion;
+            recursionMethod(rowStartPoint ++, columnStartPoint ++, numRegion);
+        }
+        
+        
+        if (columnStartPoint - 1 >= 0 && Grid[rowStartPoint][columnStartPoint - 1] == -1) {
+            Grid[rowStartPoint][columnStartPoint - 1] = numRegion;
+            recursionMethod(rowStartPoint ++, columnStartPoint ++, numRegion);
+        }
+        
+        
+        if (rowStartPoint + 1 < Grid.length && Grid[rowStartPoint + 1][columnStartPoint] == -1) {
+            Grid[rowStartPoint + 1][columnStartPoint] = numRegion;
+            recursionMethod(rowStartPoint ++, columnStartPoint ++, numRegion);
+        }
+        
+        
+        if (columnStartPoint + 1 < Grid[0].length && Grid[rowStartPoint][columnStartPoint + 1] == -1) {
+            Grid[rowStartPoint][columnStartPoint + 1] = numRegion;
+            recursionMethod(rowStartPoint ++, columnStartPoint ++, numRegion);
+        }
+        
+        
+        if (rowStartPoint - 1 >= 0 && columnStartPoint - 1 >= 0 && Grid[rowStartPoint - 1][columnStartPoint - 1] == -1) {
+            Grid[rowStartPoint - 1][columnStartPoint - 1] = numRegion;
+            recursionMethod(rowStartPoint ++, columnStartPoint ++, numRegion);
+        }
+        
+        
+        if (rowStartPoint + 1 < Grid.length && columnStartPoint + 1 < Grid[0].length && Grid[rowStartPoint + 1][columnStartPoint + 1] == -1) {
+            Grid[rowStartPoint + 1][columnStartPoint + 1] = numRegion;
+            recursionMethod(rowStartPoint ++, columnStartPoint ++, numRegion);
+        }
+        
+        
+        if (rowStartPoint - 1 >= 0 && columnStartPoint + 1 < Grid[0].length && Grid[rowStartPoint - 1][columnStartPoint + 1] == -1) {
+            Grid[rowStartPoint - 1][columnStartPoint + 1] = numRegion;
+            recursionMethod(rowStartPoint ++, columnStartPoint ++, numRegion);
+        }
+        
+        
+        if (rowStartPoint + 1 < Grid.length && columnStartPoint - 1 >= 0 && Grid[rowStartPoint + 1][columnStartPoint - 1] == -1) {
+            Grid[rowStartPoint + 1][columnStartPoint - 1] = numRegion;
+            recursionMethod(rowStartPoint ++, columnStartPoint ++, numRegion);
+        }
+
+        return regionElementTotal;
+
+    }

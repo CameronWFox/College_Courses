@@ -1,0 +1,281 @@
+Grid Class Code
+
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package cs1181pa7;
+
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Scanner;
+import java.io.PrintWriter;
+import java.util.ArrayList;
+
+/**
+ * Cameron Windsor Fox 
+ * CS 1181 
+ * Section 3 
+ * Project 7 
+ * Rick Volkers 
+ * Sai
+ */
+public class GridClass {
+
+    int r; // stands for rows
+    int c; // stands for columns
+    int[][] Grid; // name of the 2d array
+    ArrayList<Integer> DataList = new ArrayList<>(); // name of the array list
+    int numRegion = 0; // number of diffrent regions
+    int regionElementTotal = 0; // number of values in each region
+
+    /**
+     * This is the load method that loads the data from the files 
+     * pre: we do not know what is from the files
+     * post: we now know what is in the files
+     *
+     * @param inputFilename This is a string value for the name of the input file
+     * 
+     * @throws FileNotFoundException This exception is thrown when a file is not found
+     * 
+     */
+    public void load(String inputFilename) throws FileNotFoundException { 	// loads the initial data from a text file  
+
+        File gridFile = new File(inputFilename);
+        Scanner readFromFile = new Scanner(gridFile);
+
+        r = readFromFile.nextInt();
+        c = readFromFile.nextInt();
+        readFromFile.nextLine();
+        Grid = new int[r][c];
+        try {
+
+            for (int i = 0; i < r; i++) {
+
+                for (int j = 0; j < c; j++) {
+                    Grid[i][j] = readFromFile.nextInt();
+                    if (Grid[i][j] == 1) {
+                        Grid[i][j] = -1;
+                    }
+
+                    System.out.printf("%3d", Grid[i][j]);
+                }
+                readFromFile.nextLine();
+                System.out.println("");
+
+            }
+
+        } catch (Exception e) {
+        }
+
+    }
+
+    /**
+     * This is the recursive method used to repeat as many times as needed 
+     * pre: we do not have the recursion 
+     * post: we have the recursion
+     * 
+     * @param rowStartPoint the first row
+     * @param columnStartPoint the first column
+     * @param numRegion number of regions
+     */
+    public void recursionMethod(int rowStartPoint, int columnStartPoint, int numRegion) {
+
+        if (rowStartPoint < -1 || rowStartPoint > Grid.length || columnStartPoint < -1 || columnStartPoint > Grid[0].length) {
+            return;
+        } else {
+            regionElementTotal++;
+
+            if (rowStartPoint - 1 >= 0 && Grid[rowStartPoint - 1][columnStartPoint] == -1) {
+                Grid[rowStartPoint - 1][columnStartPoint] = numRegion;
+                recursionMethod(rowStartPoint - 1, columnStartPoint, numRegion);
+
+            }
+
+            if (columnStartPoint - 1 >= 0 && Grid[rowStartPoint][columnStartPoint - 1] == -1) {
+                Grid[rowStartPoint][columnStartPoint - 1] = numRegion;
+                recursionMethod(rowStartPoint, columnStartPoint - 1, numRegion);
+
+            }
+
+            if (rowStartPoint + 1 < Grid.length && Grid[rowStartPoint + 1][columnStartPoint] == -1) {
+                Grid[rowStartPoint + 1][columnStartPoint] = numRegion;
+                recursionMethod(rowStartPoint + 1, columnStartPoint, numRegion);
+
+            }
+
+            if (columnStartPoint + 1 < Grid[0].length && Grid[rowStartPoint][columnStartPoint + 1] == -1) {
+                Grid[rowStartPoint][columnStartPoint + 1] = numRegion;
+                recursionMethod(rowStartPoint, columnStartPoint + 1, numRegion);
+
+            }
+
+            if (rowStartPoint - 1 >= 0 && columnStartPoint - 1 >= 0 && Grid[rowStartPoint - 1][columnStartPoint - 1] == -1) {
+                Grid[rowStartPoint - 1][columnStartPoint - 1] = numRegion;
+                recursionMethod(rowStartPoint - 1, columnStartPoint - 1, numRegion);
+
+            }
+
+            if (rowStartPoint + 1 < Grid.length && columnStartPoint + 1 < Grid[0].length && Grid[rowStartPoint + 1][columnStartPoint + 1] == -1) {
+                Grid[rowStartPoint + 1][columnStartPoint + 1] = numRegion;
+                recursionMethod(rowStartPoint + 1, columnStartPoint + 1, numRegion);
+
+            }
+
+            if (rowStartPoint - 1 >= 0 && columnStartPoint + 1 < Grid[0].length && Grid[rowStartPoint - 1][columnStartPoint + 1] == -1) {
+                Grid[rowStartPoint - 1][columnStartPoint + 1] = numRegion;
+                recursionMethod(rowStartPoint - 1, columnStartPoint + 1, numRegion);
+
+            }
+
+            if (rowStartPoint + 1 < Grid.length && columnStartPoint - 1 >= 0 && Grid[rowStartPoint + 1][columnStartPoint - 1] == -1) {
+                Grid[rowStartPoint + 1][columnStartPoint - 1] = numRegion;
+                recursionMethod(rowStartPoint + 1, columnStartPoint - 1, numRegion);
+
+            }
+
+        }
+
+    }
+
+    /**
+     * this is the find regions method 
+     * pre: we do not know the different regions
+     * post: we now know the different regions
+     */
+    public void findRegions() { 			// generate and store the results in the object  
+
+        for (int i = 0; i < r; i++) {
+
+            for (int j = 0; j < c; j++) {
+
+                if (Grid[i][j] == -1) {
+                    numRegion++;
+
+                    recursionMethod(i, j, numRegion);
+                    DataList.add(regionElementTotal);
+                    regionElementTotal = 0;
+                }
+
+            }
+        }
+    }
+
+    /**
+     * this is the save method to take the information and send it to an output file
+     *  
+     * pre: we do not have the data sent 
+     * post: the data is sent to a file
+     *
+     * @param outputFilename the name of the output file
+     * @throws java.io.FileNotFoundException the exception throw if the file is
+     * not found
+     */
+    public void save(String outputFilename) throws FileNotFoundException, IOException { 	// saves the results to a text file  
+
+        FileWriter outputFile = new FileWriter(outputFilename, true);
+        try {
+            PrintWriter outputDataToFile = new PrintWriter(outputFile);
+            outputDataToFile.println(outputFilename);
+            outputDataToFile.println("Region \t RegionSize");
+
+            for (int i = 0; i < DataList.size(); i++) {
+                outputDataToFile.println(i + 1 + "\t" + DataList.get(i));
+
+            }
+            outputDataToFile.println();
+
+            outputDataToFile.println("Output From File");
+            outputDataToFile.println();
+            for (int i = 0; i < r; i++) {
+
+                for (int j = 0; j < c; j++) {
+
+                    outputDataToFile.printf("%3d", Grid[i][j]);
+                }
+                outputDataToFile.println();
+            }
+            outputFile.close();
+            outputDataToFile.close();
+        } catch (Exception e) {
+
+        }
+
+    }
+
+    /**
+     * this is the display method that output 
+     * pre: the data is not send to the consol
+     * post: the data is sent to the consol
+     */
+    public void display() {
+        System.out.println("Region / RegionSize");
+
+        for (int i = 0; i < DataList.size(); i++) {
+            System.out.println(i + 1 + "\t" + DataList.get(i));
+        }
+        System.out.println();
+
+        System.out.println("Output From File");
+        System.out.println();
+        for (int i = 0; i < r; i++) {
+
+            for (int j = 0; j < c; j++) {
+                System.out.printf("%3d", Grid[i][j]);
+            }
+            System.out.println();
+        }
+    }
+}
+
+
+
+
+Main Code
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package cs1181pa7;
+
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
+/**
+ * Cameron Windsor Fox CS 1181 Section 3 Project 7 Rick Volkers Sai
+ */
+public class CS1181PA7 extends GridClass {
+
+    /**
+     * @param args the command line arguments
+     * @throws java.io.FileNotFoundException
+     */
+    public static void main(String[] args) throws FileNotFoundException, Exception {
+
+        GridClass GridObject = new GridClass();
+
+//        GridObject.display();
+        Scanner keyboard = new Scanner(System.in);
+        System.out.print("Please enter the name of the file: ");
+        
+        String user = keyboard.next();
+        GridObject.load(user);
+        GridObject.findRegions();
+        for (int i = 0; i < 3; i++) {
+            System.out.println("");
+        }
+        GridObject.display();
+        System.out.print("Please enter the name of an outputFile: ");
+        String outputFile = keyboard.next();
+        GridObject.save(outputFile);
+        GridObject.save("outputFile.txt");
+
+    }
+
+}

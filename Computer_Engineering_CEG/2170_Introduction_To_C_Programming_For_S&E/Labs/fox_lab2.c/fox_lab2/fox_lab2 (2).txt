@@ -1,0 +1,56 @@
+#include <stdio.h>
+/*
+Author: Cameron Windsor Fox;
+Lab: 2;
+Class: CEG 2170;
+Lecture Section: 01;
+Lab Section: 05;
+File Name: fox_lab2_problem1.c;
+Instructor: Hutchison;
+Due Date: September 9th, 2016;
+
+Overview: This lab will be showing the amount of time it will take to cut the grass of a rectangle yard.
+This lab will take input data use it for calculations and then display results of the calculations.
+
+Known Issues:
+*/
+
+int main()
+{
+Known Values:
+
+
+    Rate of square feet per Second: 2;
+    Rate of squared feet per minute: rate of feet per second * 60;
+
+Inputs:             // The inputs used for the calculations
+
+    Get the yardWidth in feet;
+    Get the yardLength in feet;
+
+    Get the houseWidth in feet;
+    Get the houseLength in feet;
+
+Calculations:       // The calculations using the input values gathered from the user
+
+Determine the HouseArea:
+    houseLength ft * houseWidth ft;
+
+Determine the TotalArea:
+    yardLength ft * yardWidth ft;
+
+    Determine the Yard Area (With out the houseArea):yardArea = totalArea ft^2 - houseArea ft^2;
+
+    Determine the amount of time it takes to cut the grass in minutes:
+        grassCutTime = ((yardArea ft^2 / Rate of square feet per Second);
+
+Results:            // The time it took to cut the grass for the whole yard and the Area of the Yard.
+
+The Area of the yard itself not including the house:
+        YardArea ft^2;
+
+The time it took to cut the grass in minutes:
+        GrassCutTime;
+
+        This algorithm was designed by Cameron Fox.
+    }

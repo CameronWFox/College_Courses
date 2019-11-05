@@ -1,0 +1,17 @@
+Included in this directory is a simple random number generation library written in ANSI C. 
+
+If you want to use it "stand alone" in test mode, uncomment the line "#define RNG_TEST_BLOC' in the file
+rng.c and complie with something like:
+
+cc rng.c -lm -o rng_test
+
+Assuming that rng.h is in the same directory with rng.c, this will compile the library as a stand
+alonetest program.  See the rng.c for details in the definition of main()
+
+If you want to use it as a library, make sure the line '#define RNG_TEST_BLOC' in rng.c is commented and
+build it with something like the included Makefile.  That make file will copy the header rng.h into the 
+directory ./include and place the compiled binary (for linking to your code) in ./objs.  You can modify the
+included makefile to put the headder and object files in places more convenient to you, or just copy them
+there manually.
+
+jcg

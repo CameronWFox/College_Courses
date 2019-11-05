@@ -1,0 +1,405 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package maintestprogram;
+
+/**
+ * Cameron Windsor Fox 
+ * CS1181 
+ * Project 4 
+ * Section 3 
+ * Teacher Rick Volkers 
+ * TA Sai
+ */
+public class MainTestProgram {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+
+        FunctionTimer Timer = new FunctionTimer();
+        
+        int n = 40000;
+        long[] repeat = new long[4];
+        Timer.setCount(500);
+
+        for (int i = 3; i >= 0; i--) {
+            Timer.finalMethod(n, 1);
+            repeat[i] = Timer.finalMethod(n, 1);
+            n = n - 2;
+        }
+        averageGrowthRateCalculation(repeat, 1);
+        
+        
+        
+        int n2 = 400;
+        long[] repeat2 = new long[4];
+        Timer.setCount(500);
+
+        for (int i = 3; i >= 0; i--) {
+            Timer.finalMethod(n2, 2);
+            repeat2[i] = Timer.finalMethod(n2, 2);
+            n2 = n2 - 2;
+        }
+        averageGrowthRateCalculation(repeat2, 2);
+        
+        
+        
+        int n3 = 40000;
+        long[] repeat3 = new long[4];
+        Timer.setCount(500);
+
+        for (int i = 3; i >= 0; i--) {
+            Timer.finalMethod(n3, 3);
+            repeat3[i] = Timer.finalMethod(n3, 3);
+            n3 = n3 - 2;
+        }
+        averageGrowthRateCalculation(repeat3, 3);
+        
+        
+        
+        int n4 = 64;
+        long[] repeat4 = new long[4];
+        Timer.setCount(250);
+
+        for (int i = 3; i >= 0; i--) {
+            Timer.finalMethod(n4, 4);
+            repeat4[i] = Timer.finalMethod(n4, 4);
+            n4 = n4 - 2;
+        }
+        averageGrowthRateCalculation(repeat4, 4);
+        
+        
+        
+        int n5 = 400;
+        long[] repeat5 = new long[4];
+        Timer.setCount(500);
+
+        for (int i = 3; i >= 0; i--) {
+            Timer.finalMethod(n5, 5);
+            repeat5[i] = Timer.finalMethod(n5, 5);
+            n5 = n5 / 2;
+        }
+        averageGrowthRateCalculation(repeat5, 5);
+        
+        
+        
+        int n6 = 16;
+        long[] repeat6 = new long[4];
+        Timer.setCount(50);
+
+        for (int i = 3; i >= 0; i--) {
+            Timer.finalMethod(n6, 6);
+            repeat6[i] = Timer.finalMethod(n6, 6);
+            n6 = n6 / 2;
+        }
+        averageGrowthRateCalculation(repeat6, 6);
+        
+        
+        
+        int n7 = 800000;
+        long[] repeat7 = new long[4];
+        Timer.setCount(500);
+
+        for (int i = 3; i >= 0; i--) {
+            Timer.finalMethod(n7, 7);
+            repeat7[i] = Timer.finalMethod(n7, 7);
+            n7 = n7 / 2;
+        }
+        averageGrowthRateCalculation(repeat7, 7);
+        
+        
+        
+        int n8 = 10;
+        long[] repeat8 = new long[4];
+        Timer.setCount(500);
+
+        for (int i = 3; i >= 0; i--) {
+            Timer.finalMethod(n, 8);
+            repeat8[i] = Timer.finalMethod(n8, 8);
+            n8 = n8 - 2;
+        }
+        averageGrowthRateCalculation(repeat8, 8);
+        
+
+    }
+
+    /**
+     * This method is used to calculate the average growth rate for each code fragment
+     * pre: 
+     * post: 
+     * @param repeat this is the name of the array
+     * @param n this is the int variable Used to store the starting value of N
+     */
+    public static void averageGrowthRateCalculation(long[] repeat, int n) {
+        
+        double averageGrowthRate;
+        
+        averageGrowthRate =  1 + ((double)(repeat[1] - repeat[0]) / (double)repeat[0] + (double)(repeat[2] - repeat[1]) / (double)repeat[1] + (double)(repeat[3] - repeat[2]) / (double)repeat[2]) / (double)3.0;
+        System.out.println(averageGrowthRate);
+        
+    }
+
+}
+
+
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package maintestprogram;
+
+/**
+ * Cameron Windsor Fox 
+ * CS1181 
+ * Project 4 
+ * Section 3 
+ * Teacher Rick Volkers 
+ * TA Sai
+ */
+public class FunctionTimer extends MainTestProgram {
+
+    final int REP_COUNT = 25;
+    volatile long sum;
+    volatile long x;
+    private int count;
+
+    /**
+     *
+     * @param count
+     * @throws IllegalArgumentException
+     */
+    public void setCount(int count) throws IllegalArgumentException {
+        if (count < 0) {
+            throw new IllegalArgumentException("This is an Illegal Argument!!");
+        }
+        this.count = count;
+    }
+
+    /**
+     *
+     * @param n
+     */
+    private void fragment1(int n) {
+        // fragment #1
+        for (int i = 1; i <= n; i++) {
+            sum = 0;
+            for (x = 0; x < REP_COUNT; x++) {
+                sum += x;
+            }
+        }
+        //end fragment #1
+
+    }
+
+    /**
+     *
+     * @param n
+     */
+    private void fragment2(int n) {
+        // fragment #2
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= n; j++) {
+                sum = 0;
+                for (x = 0; x < REP_COUNT; x++) {
+                    sum += x;
+                }
+            }
+        }
+        //end fragment #2
+
+    }
+
+    /**
+     *
+     * @param n
+     */
+    private void fragment3(int n) {
+        // fragment #3
+        for (int i = 1; i <= n; i++) {
+            sum = 0;
+            for (x = 0; x < REP_COUNT; x++) {
+                sum += x;
+            }
+        }
+        for (int j = 1; j <= n; j++) {
+            sum = 0;
+            for (x = 0; x < REP_COUNT; x++) {
+                sum += x;
+            }
+        }
+        //end fragment #3
+
+    }
+
+    /**
+     *
+     * @param n
+     */
+    private void fragment4(int n) {
+        // fragment #4
+        int nsquared = n * n;
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= nsquared; j++) {
+                sum = 0;
+                for (x = 0; x < REP_COUNT; x++) {
+                    sum += x;
+                }
+            }
+        }
+        //end fragment #4
+
+    }
+
+    /**
+     *
+     * @param n
+     */
+    private void fragment5(int n) {
+        // fragment #5
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= i; j++) {
+                sum = 0;
+                for (x = 0; x < REP_COUNT; x++) {
+                    sum += x;
+                }
+            }
+        }
+        //end fragment #5
+
+    }
+
+    /**
+     *
+     * @param n
+     */
+    private void fragment6(int n) {
+        // fragment #6
+        int nsquared = n * n;
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= nsquared; j++) {
+                for (int k = 1; k <= nsquared; k++) {
+                    sum = 0;
+                    for (x = 0; x < REP_COUNT; x++) {
+                        sum += x;
+                    }
+                }
+            }
+        }
+        //end fragment #6
+
+    }
+
+    /**
+     *
+     * @param n
+     */
+    private void fragment7(int n) {
+        // fragment #7
+        while (n >= 1) {
+            sum = 0;
+            for (x = 0; x < 100 * REP_COUNT; x++) {
+                sum += x;
+            }
+            n /= 2;
+        }
+        //end fragment #7
+
+    }
+
+    /**
+     *
+     * @param n
+     */
+    private void fragment8(int n) {
+        // fragment #8
+        int end = (int) Math.pow(2, n);
+        for (int i = 1; i <= end; i++) {
+            sum = 0;
+            for (x = 0; x < 100 * REP_COUNT; x++) {
+                sum += x;
+            }
+        }
+        //end fragment #8
+
+    }
+
+    /**
+     *
+     * @param n
+     * @param functionNumber
+     * @return
+     */
+    public long finalMethod(int n, int functionNumber) {
+
+        if (n < 0 || functionNumber < 1 || functionNumber > 8) {
+            throw new IllegalArgumentException("This Argument is Illegal!!");
+        }
+        long startTime;
+        long stopTime;
+        long iterationTimeOfExecution = 0;
+
+        for (int i = 0; i < count; i++) {
+            try {
+                Thread.sleep(5);
+            } catch (InterruptedException e) {
+            }
+
+            System.gc();
+            startTime = System.nanoTime();
+            switch (functionNumber) {
+                case 1:
+                    fragment1(n);
+                    stopTime = System.nanoTime();
+                    iterationTimeOfExecution += stopTime - startTime;
+                    break;
+                case 2:
+                    fragment2(n);
+                    stopTime = System.nanoTime();
+                    iterationTimeOfExecution += stopTime - startTime;
+                    break;
+                case 3:
+                    fragment3(n);
+                    stopTime = System.nanoTime();
+                    iterationTimeOfExecution += stopTime - startTime;
+                    break;
+                case 4:
+                    fragment4(n);
+                    stopTime = System.nanoTime();
+                    iterationTimeOfExecution += stopTime - startTime;
+                    break;
+                case 5:
+                    fragment5(n);
+                    stopTime = System.nanoTime();
+                    iterationTimeOfExecution += stopTime - startTime;
+                    break;
+                case 6:
+                    fragment6(n);
+                    stopTime = System.nanoTime();
+                    iterationTimeOfExecution += stopTime - startTime;
+                    break;
+                case 7:
+                    fragment7(n);
+                    stopTime = System.nanoTime();
+                    iterationTimeOfExecution += stopTime - startTime;
+                    break;
+                case 8:
+                    fragment8(n);
+                    stopTime = System.nanoTime();
+                    iterationTimeOfExecution += stopTime - startTime;
+                    break;
+
+                    
+            }
+
+        }
+        long averageIterationTimeOfExecution = (iterationTimeOfExecution / count);
+        return averageIterationTimeOfExecution;
+    }
+
+}

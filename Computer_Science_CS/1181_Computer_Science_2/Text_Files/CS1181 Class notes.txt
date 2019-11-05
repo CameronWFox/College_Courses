@@ -1,0 +1,89 @@
+Abstract Data Types
+
+- To effectivly organize data
+
+	- Store Data		(Memory to store and speed of writing code)
+	- Retreving Data	(Speed of writing code)
+	- Manipulating Data	(Speed of writing code)
+
+Abstract Data Type
+- Collection of related items with an associated oporation setto manipulate data
+- Data and oporation relationships 
+
+Implementaion of ADT
+- Make choices about storeing the data, selecting the data storage, implementating the algorithums
+
+What a list is
+
+- collection of items
+
+- All items have the same data type
+
+Linked List
+
+- ordered collection of elements called nodes each with two parts
+
+	- Data part: Information of the element in the list
+	- Next part: Stores a link (reference) to the next node in the list
+
+- can be anywhere in the program
+
+- 
+
+External List
+- an external list must be able to refer to the first node in the list
+
+
+
+Ex:	class Node{
+		String data;
+		Node text;
+	}
+	Node first; Used to locate the first node of the list;
+
+
+Traversing
+- Give a reference of the first node and thn step through each node in the loop
+
+Basic Operation
+
+Construction: 	first = null
+Empty: 		first == null
+
+Traverse
+Node:		ptr = first;
+while		(ptr != null)
+{
+//Process ptr.data
+ptr = ptr.next;
+}
+
+Inserting nodes works in the middle and at the end of the list but not at the beginning
+ to add at the beginning it is a little diffrent
+
+
+
+Deleting Nodes
+
+
+Coping Linked List Data
+	- copy constructor
+		: must traverse list
+
+Circular List
+	- Last node points to first node(only diffrence to linked lists)
+	- each node has a predesesor
+	- add a new node: make a new node and refer it to itself
+
+
+
+
+		Genarics
+			- a mechanisum that allows a class/method to work with diffrent types of data
+		Java uses type erasure to facilitate this mechanism
+			- 
+
+
+	
+	
+

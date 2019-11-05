@@ -1,0 +1,415 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package cs1181project2;
+
+/**
+ * Cameron Windsor Fox 
+ * Section 3
+ * Project 2
+ * CS1181 
+ * Rick Volkers
+ * TA: Sai Polamarasetty
+ */
+public class CS1181Project2 {
+
+    /**
+     * @param args the command line arguments
+     * @throws java.lang.Exception
+     */
+    public static void main(String[] args) throws Exception {
+        String payload = null;
+        int keyValue = 0;
+        OrderedLinkedList list = new OrderedLinkedList();
+        
+            list.insert("Cameron", 1);
+            
+            list.insert("Amelia", 2);
+            
+            list.insert("Austin", 3);
+            
+            list.insert("Sammantha", 4);
+            
+            list.insert("Christopher", 5);
+            
+            System.out.println("This is the full list");
+            System.out.println(list.toString());
+            System.out.println(list.listCount());
+            System.out.println(list.getValue(2));
+            
+        
+        //Method Call
+        try{
+            System.out.println("This is the first node removed from the list");
+        list.getFirst();
+        }catch(Exception e){
+            System.out.println("The List is Empty!!");
+        }
+        
+        try{
+            System.out.println("");
+            System.out.println("This is the last node removed from the list");
+        list.getLast();
+        }catch(Exception e){
+            System.out.println("The List is Empty!!");
+        }
+        try{
+            System.out.println("");
+        list.insert(payload, keyValue);
+        }catch(Exception e){
+            System.out.println("This link is already in the List!!");
+        }
+        try{
+            System.out.println("");
+            System.out.println("This removes the third node from the list");
+        list.remove(3);
+        }catch(Exception e){
+            System.out.println(" ERROR ");
+        }
+        
+        System.out.println("This prints the list after the other methods run and the list count");
+        System.out.println(list.toString());
+        System.out.println(list.listCount());
+        
+        
+        try{
+            
+        list.getValue(3);
+        }catch(Exception e){
+            System.out.println("");
+        }
+        
+        //System.out.println(list.toString());
+        
+        
+    }
+}
+
+
+
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package cs1181project2;
+
+/**
+ * Cameron Windsor Fox 
+ * Section 3
+ * Project 2
+ * CS1181 
+ * Rick Volkers
+ * TA: Sai Polamarasetty
+ */
+public class OrderedLinkedList {
+
+    private class Node {
+
+        OrderedLinkedList list = new OrderedLinkedList();
+        public String payload;
+        public int keyValue;
+        public Node next;
+
+        public Node(String payload, int keyValue) {
+            this.payload = payload;
+            this.keyValue = keyValue;
+
+        }
+    }
+    private Node first;
+
+    /**
+     * This is just a simple constructor
+     */
+    public OrderedLinkedList() {
+        
+    }
+
+    /**
+     * This method is a simple method that returns empty if there is nothing in
+     * the list 
+     * pre We do not know if the list is empty or not 
+     * post We now know
+     * if the list is empty or not
+     *
+     * @return it returns empty only if first is equal to null meaning that the
+     * list is empty
+     */
+    public boolean empty() {
+
+        return first == null;
+    }
+
+    /**
+     * This getFirst method is used to find the first node in the list and
+     * printing it out and remove the node from the list 
+     * pre We do not know the
+     * first node in the list 
+     * post We now know the first node in the list
+     *
+     * @return @throws Exception This is an exception that is thrown when a
+     * specific action takes place
+     */
+    public String getFirst() throws Exception {
+        String data;
+        data = first.payload;
+        Node tmp;
+        first = first.next;
+        tmp = first;
+        while (tmp != null) {
+            tmp = tmp.next;
+        }
+        if(first == null){
+            throw new Exception("The List is Empty!!");
+        }
+        System.out.println(data);
+        return data;
+    }
+
+    /**
+     * This getLast method is used to find the last node in the list and remove
+     * it but still returning the payload of that node 
+     * pre We do not know what
+     * the last node is in the list 
+     * post We now know the last node in the list
+     *
+     * @return @throws Exception This is an exception that is thrown when a
+     * specific action takes place
+     */
+    public String getLast() throws Exception {
+        Node tmp = first;
+        while (tmp.next != null) {
+            tmp = tmp.next;
+        }
+        if(tmp == null){
+            throw new Exception("The List is Empty!!");
+        }
+        String data;
+        data = tmp.payload;
+        System.out.println(data);
+        return data;
+    }
+
+    /**
+     * This insert method is used to transition through the list of nodes and
+     * check for any faults or errors that could be present while going from
+     * node to node in the list 
+     * pre We do not know if the list is checked
+     * through the insert method 
+     * post We now know the list is all checked
+     * through the insert method and is sent to the toString to be printed to
+     * the console
+     *
+     * @param payload this is a String variable used when creating a node to use
+     * in the list
+     * @param keyValue this is an int variable used to order the nodes in the
+     * list
+     * @throws java.lang.Exception This is an exception that is thrown when a
+     * specific action takes place
+     */
+    public void insert(String payload, int keyValue) throws Exception {
+
+        Node tmp = first;
+        Node addNode = new Node(payload, keyValue);
+
+        if (first == null) {
+            first = addNode;
+        }
+
+        if (tmp != null) {
+            if (tmp.next == null) {
+                tmp.next = addNode;
+            } else {
+
+                while (tmp.next != null && tmp.next.keyValue < keyValue) {
+                    tmp = tmp.next;
+
+                }
+                if (tmp.next == null) {
+                    tmp.next = addNode;
+                }
+
+                if (tmp.keyValue == keyValue) {
+                    throw new Exception("This link is already in the List!!");
+                }
+            }
+        }
+    }
+
+    /**
+     * This remove method is used to remove items from the list
+     * pre We do not know what is removed
+     * post We now know what is removed
+     * @param keyValue this is the keyValue which is the number or placement a
+     * specific node is located in the list
+     * @throws Exception This is an exception that is thrown when a specific
+     * action takes place
+     */
+    public void remove(int keyValue) throws Exception {
+        Node tmp = first;
+        if (tmp == null)
+        {
+            throw new Exception("Empty list");
+        }
+
+        while (tmp.next != null && tmp.next.keyValue != keyValue) {
+            
+                tmp = tmp.next;
+                
+            }
+        if (tmp.next == null)
+        {
+            throw new Exception ("Item not found");
+            
+        }
+        else 
+        {
+            tmp.next = tmp.next.next;
+        }
+        
+        if(tmp == null){
+            throw new Exception("The List is Empty!!");
+        }
+        
+    }
+
+    /**
+     * This listCount method is used to count the total number of nodes in a
+     * list 
+     * pre We do not know how many nodes are in the list 
+     * post We now know
+     * how many nodes are in the list
+     *
+     * @return this returns the number of nodes in the given list
+     */
+    public int listCount() {
+        Node tmp = first;
+        int count = 0;
+        while (tmp != null) {
+            count++;
+            tmp = tmp.next;
+
+        }
+        return count;
+    }
+
+    /**
+     * This getValue method is used to go through the list until an indicated
+     * point and then a node is inserted at that point 
+     * pre We do not know what
+     * Node is being inserted into the list 
+     * post We now know what Node is being
+     * inserted into the list
+     *
+     * @param keyValue this is the keyValue which is the number or placement a
+     * specific node is located in the list
+     * @return
+     * @throws Exception
+     */
+    public String getValue(int keyValue) throws Exception {
+        Node tmp = first;
+        String data = "";
+        while(tmp.next != null ){
+            if(tmp.keyValue == keyValue){
+                data = tmp.payload;
+            }
+            tmp = tmp.next;
+        }
+        if(tmp == null){
+            throw new Exception("The List is Empty!!");
+        }
+        
+        return data;
+    }
+
+    /**
+     * This toString method is used to output data in the list to the console
+     * pre We do not know what is being printed 
+     * post We now know what is being
+     * printed
+     *
+     * @return Th returns a String containing the information that is to be
+     * printed
+     */
+    @Override
+    public String toString() {
+        StringBuilder data = new StringBuilder();
+        Node tmp = first;
+        while (tmp != null) {
+            data.append("This Person: " + tmp.payload + " Has a keyValue of: " + tmp.keyValue + " \n");
+            tmp = tmp.next;
+
+        }
+        return data.toString();
+
+    }
+}
+
+
+HTML Files
+
+public boolean empty()
+This method is a simple method that returns empty if there is nothing in the list pre We do not know if the list is empty or not post We now know if the list is empty or not
+Returns:
+it returns empty only if first is equal to null meaning that the list is empty 
+
+
+
+public String getFirst() throws Exception
+This getFirst method is used to find the first node in the list and printing it out and remove the node from the list pre We do not know the first node in the list post We now know the first node in the list
+Returns:
+@throws Exception This is an exception that is thrown when a specific action takes place
+
+
+
+public String getLast() throws Exception
+This getLast method is used to find the last node in the list and remove it but still returning the payload of that node pre We do not know what the last node is in the list post We now know the last node in the list
+Returns:
+@throws Exception This is an exception that is thrown when a specific action takes place 
+
+
+
+public void insert(String payload, int keyValue) throws Exception
+This insert method is used to transition through the list of nodes and check for any faults or errors that could be present while going from node to node in the list pre We do not know if the list is checked through the insert method post We now know the list is all checked through the insert method and is sent to the toString to be printed to the console
+Parameters:
+payload - this is a String variable used when creating a node to use in the list keyValue - this is an int variable used to order the nodes in the list 
+
+
+
+public void remove(int keyValue) throws Exception
+This remove method is used to remove items from the list pre We do not know what is removed post We now know what is removed
+Parameters:
+keyValue - this is the keyValue which is the number or placement a specific node is located in the list 
+Throws:
+Exception - This is an exception that is thrown when a specific action takes place 
+
+
+
+public int listCount()
+This listCount method is used to count the total number of nodes in a list pre We do not know how many nodes are in the list post We now know how many nodes are in the list
+Returns:
+this returns the number of nodes in the given list 
+
+
+
+public String getValue(int keyValue) throws Exception
+This getValue method is used to go through the list until an indicated point and then a node is inserted at that point pre We do not know what Node is being inserted into the list post We now know what Node is being inserted into the list
+Parameters:
+keyValue - this is the keyValue which is the number or placement a specific node is located in the list 
+Returns:
+returns a string called data 
+Throws:
+Exception 
+
+
+
+public String toString()
+This toString method is used to output data in the list to the console pre We do not know what is being printed post We now know what is being printed
+Returns:
+Th returns a String containing the information that is to be printed 
+
+

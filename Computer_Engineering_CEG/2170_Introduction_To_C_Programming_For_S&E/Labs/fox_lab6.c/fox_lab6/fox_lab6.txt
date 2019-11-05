@@ -1,0 +1,19 @@
+
+Part I, question 1
+
+a.	int x, int y
+b.	int *xp, int *yp
+c.	The int x stores the value 8
+d.	The int y stores the value 3
+e.	The address of x is stored in xp
+f.	The address of y is stored in yp
+g.	The result of *xp is 24
+h.	The result of *yp is 11
+
+
+Part I, question 2
+
+a.	Warning - *ip is uninitialized so this print statement will give you a warning but there is no error
+b.	Error - This statement does not need that ampersand when setting two ints equal to each other
+c.	Error - This statement is missing the ampersand and there is no asterisk needed: ip = &m
+d.	Warning - *ip is uninitialized and will give you a warning but there is no error

@@ -1,0 +1,297 @@
+Main Code
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package cs1181pa10;
+
+import java.util.Scanner;
+
+/**
+ * Cameron Windsor Fox
+ * CS1181
+ * Lab 10
+ * Section 3
+ * Rick Volkers
+ * Sai
+ */
+public class CS1181PA10 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) throws Exception {
+        
+        Scanner userInput = new Scanner(System.in);
+        String postFixExpresstion = userInput.nextLine();
+        ExpClass Exp = new ExpClass(postFixExpresstion);
+        
+        //Method call
+        Exp.methodCall();
+    }
+    
+}
+
+
+
+
+ExpClass Code
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package cs1181pa10;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Stack;
+
+/**
+ * Cameron Windsor Fox 
+ * CS1181 
+ * Lab 10 
+ * Section 3 
+ * Rick Volkers 
+ * Sai
+ */
+public class ExpClass {
+
+    private String postFix;
+    private treeNode root;
+
+    /**
+     * This postFix method calls a private method to do the postFix order
+     * pre: we do not know the order
+     * post: we know the order
+     * @param postFix this is the type of order the items in the stack will be ordered as
+     */
+    public ExpClass(String postFix) {
+
+        Stack treeStack = new Stack();
+        treeStack.add(postFix);
+        this.postFix = postFix;
+
+    }
+
+    private static class treeNode {
+
+        treeNode left;
+        String token;
+        treeNode right;
+
+        /**
+         * This constructor is for the inner class 
+         * pre: we do not have the constructor
+         * post: we have the constructor
+         * @param token this is the string used to store the data
+         * @param left the left subtree
+         * @param right the right subtree
+         */
+        public treeNode(treeNode left, String token, treeNode right) {
+
+            this.left = left;
+            this.token = token;
+            this.right = right;
+
+        }
+    }
+
+    /**
+     * This method is used for calling the methods in this program so it all runs
+     * pre: we do not have the methods called
+     * post: we have the methods called
+     * @throws Exception this is thrown in case an error occurs
+     */
+    public void methodCall() throws Exception {
+        creatingArithmeticTree();
+        System.out.println(arithmeticValue(root));
+        System.out.println(height(root));
+        System.out.println(postFixNode());
+        displayTree(root);
+    }
+
+    /**
+     * this method checks to find what character is being used
+     * pre: we do not know what character it is
+     * post: we know what character it is
+     * @param c the name of the string used
+     * @return this returns what character that is used
+     */
+    private boolean isOperator(String c) {
+        return c.equals("+") || c.equals("-") || c.equals("*") || c.equals("/");
+    }
+
+    /**
+     * This method is used to create the tree
+     * pre: we do not have the tree created
+     * post: we have the tree created
+     */
+    public void creatingArithmeticTree() {
+        String[] data = postFix.split(" ");
+        Stack<treeNode> tree = new Stack<treeNode>();
+        for (int i = 0; i < data.length; i++) {
+            String r = data[i];
+
+            if (isOperator(r)) {
+                treeNode right = tree.pop();
+                treeNode left = tree.pop();
+                tree.push(new treeNode(left, r, right));
+            } else {
+                tree.push(new treeNode(null, r, null));
+            }
+        }
+        root = tree.pop();
+    }
+
+    /**
+     * this method finds the arithmetic value 
+     * pre: we do not have the value
+     * post: we have the value
+     * @param root this private treeNode used
+     * @return returns what ever value is created or returns 0
+     */
+    public double arithmeticValue(treeNode root) {
+
+        if (root.left == null && root.right == null) {
+            return Double.parseDouble(root.token);
+        } else {
+            double left = arithmeticValue(root.left);
+            double right = arithmeticValue(root.right);
+
+            if (root.token.equals("+")) {
+                //System.out.println(arithmeticValue(root.left) + arithmeticValue(root.right));
+                return arithmeticValue(root.left) + arithmeticValue(root.right);
+            }
+            if (root.token.equals("-")) {
+                //System.out.println(arithmeticValue(root.left) - arithmeticValue(root.right));
+                return arithmeticValue(root.left) - arithmeticValue(root.right);
+
+            }
+            if (root.token.equals("*")) {
+                //System.out.println(arithmeticValue(root.left) * arithmeticValue(root.right));
+                return arithmeticValue(root.left) * arithmeticValue(root.right);
+
+            }
+            if (root.token.equals("/")) {
+                //System.out.println(arithmeticValue(root.left) / arithmeticValue(root.right));
+                return arithmeticValue(root.left) / arithmeticValue(root.right);
+            }
+            return 0;
+        }
+
+    }
+
+    /**
+     * this method finds the height of the tree
+     * pre: we do not have the height
+     * post: we have the height
+     * @param tree the name of the treeNode used
+     * @return returns the height
+     * @throws Exception thrown is there is an error
+     */
+    public int height(treeNode tree) {
+
+        if (tree == null) {
+            return 0;
+        } else {
+            return 1 + Math.max(height(tree.left), height(tree.right));
+        }
+    }
+
+    /**
+     * Calls the private method to do the postFix implementation
+     * pre: we do not have it working
+     * post: we have it working
+     * @return returns a string builder to String
+     */
+    public String postFixNode() {
+
+        StringBuilder sb = new StringBuilder();
+        postFix(root, sb);
+        return sb.toString();
+    }
+
+    /**
+     * this is the private method used to work with the postFix implementation
+     * pre: we do not have it working
+     * post: we have it working
+     * @param ptr the treeNode used for ordering things in postfix
+     * @param sb a string builder name
+     */
+    private void postFix(treeNode ptr, StringBuilder sb) {
+
+        if (ptr != null) {
+            postFix(ptr.left, sb);
+            sb.append(" ");
+
+            postFix(ptr.right, sb);
+            sb.append(" ");
+            
+            sb.append(ptr.token);
+            sb.append(" ");
+        }
+    }
+
+    /**
+     * this method is used to find all the levels of the tree
+     * pre: we do not have the levels
+     * post: we have the levels
+     * @param root the private treeNode
+     * @param listOfNodes name of the ArrayList
+     * @param queue name if the Queue
+     */
+    private void levelWalkThrough(treeNode root, ArrayList<treeNode> listOfNodes, Queue<treeNode> queue) {
+
+        try{
+            queue.add(root);
+            listOfNodes.add(root);
+            while (!queue.isEmpty()) {
+                root = queue.poll();
+                if (root.left != null) {
+                    listOfNodes.add(root.left);
+                    queue.add(root.left);
+                }
+                if (root.right != null) {
+                    listOfNodes.add(root.right);
+                    queue.add(root.right);
+                }
+            }
+        } catch(NullPointerException e){
+            listOfNodes.add(new treeNode(null, null, null));
+            queue.add(new treeNode (null, null, null));
+        }
+    }
+
+    /**
+     * this method displays all the information
+     * pre: we do not have everything displayed
+     * post: we have everything displayed
+     * @param rootthe name of the private treeNode
+     */
+    public void displayTree(treeNode root) {
+
+        Queue<treeNode> queue = new LinkedList<>();
+        ArrayList<treeNode> listOfNodes = new ArrayList<treeNode>();
+        levelWalkThrough(root, listOfNodes, queue);
+        int level = 1;
+        int count = 0;
+        int j = 1;
+        while (count < listOfNodes.size()) {
+            StringBuilder sb = new StringBuilder();
+            int printLen = (int) Math.pow(2, level++);
+            
+            for (int i = count; i < printLen - 1 && i < listOfNodes.size(); i++) {
+                sb.append(listOfNodes.get(i).token + " ");
+            }
+
+            System.out.println("Level " + j + ":" + sb.toString());
+            j++;
+            count = printLen - 1;
+        }
+    }
+}

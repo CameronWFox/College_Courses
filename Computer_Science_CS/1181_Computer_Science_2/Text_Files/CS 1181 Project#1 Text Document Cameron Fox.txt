@@ -1,0 +1,478 @@
+/*
+ * This is the TestDriveClass used to test cases of the variables inside this project to 
+ * test cases that work and tests cases that do not work as well as throwing exceptions to cases that do not work
+ * with each case there is comments that explain what each case is for and what they do
+ */
+package cs1181.project;
+
+/**
+ * CS1181 Section 3
+ * Project 1
+ * Teacher: Rick Volkers
+ * TA: Sai Polamarasetty
+ * Cameron Windsor Fox
+ */
+public class TestDriverClass {
+
+    /**
+     * @param args the command line arguments
+     * @throws java.lang.Exception
+     */
+    public static void main(String[] args) throws Exception {
+
+        ResistorClass resistA;
+        ResistorClass resistB;
+        VariableResistorClass variableC;
+        VariableResistorClass variableD;
+        try{
+            /**
+             * This test case looks to test and make sure that the variables in in the ResistorClass work with no errors
+             * This also checks to see that the PowerDrop and the PowerDraw is lower that the Power Rating
+             */
+        resistA = new ResistorClass(100, 0.10, 50);
+        resistA.powerFromVoltageDrop(10);
+        resistA.powerFromCurrentDraw(0.1);
+        System.out.println("In the ResistorClass.  " + resistA.toString());
+        }catch(IllegalArgumentException e){
+            System.out.println("These ResistorClass variables are out of bounds!!");
+            System.out.println("The PowerDrop is greater than the Power Rating!!");
+            System.out.println("The PowerDraw is greater than the Power Rating!!");
+        }
+        System.out.println("\n");
+        try{
+            /**
+             * This test case looks to test and make sure that the variables in in the ResistorClass do not work and throws the exception
+             * This also checks and shows that the PowerDraw and the PowerDrop are greater than the Power Rating so it will throw an exception
+             */
+        resistB = new ResistorClass(-4, 0.1, 0);
+        resistB.powerFromVoltageDrop(0);
+        resistB.powerFromCurrentDraw(0);
+        System.out.println("In the ResistorClass.  " + resistB.toString());
+        }catch(IllegalArgumentException e){
+            System.out.println("These ResistorClass variables are out of bounds!!");
+            System.out.println("The PowerDrop is greater than the Power Rating!!");
+            System.out.println("The PowerDraw is greater than the Power Rating!!");
+        }
+        System.out.println("\n");
+        try{
+            /**
+             * This test case looks to test and make sure that the variables in in the VariableResistorClass work with no errors
+             * This also checks to see that the PowerDrop and the PowerDraw is lower that the Power Rating
+             */
+        variableC = new VariableResistorClass(10, 0.2, 25, 1);
+        variableC.powerFromVoltageDrop(10);
+        variableC.powerFromCurrentDraw(1);
+        System.out.println("In the VariableResistourClass. " + variableC.toString());
+        }catch(IllegalArgumentException e){
+            System.out.println("These VariableResistorClass variables are out of bounds!!");
+            System.out.println("The PowerDrop is greater than the Power Rating!!");
+            System.out.println("The PowerDraw is greater than the Power Rating!!");
+        }
+        System.out.println("\n");
+        try {
+            /**
+             * This test case looks to test and make sure that the variables in in the VariableResistorClass does not work and throws the exception
+             * This also checks and shows that the PowerDraw and the PowerDrop are greater than the Power Rating so it will throw an exception
+             */
+            variableD = new VariableResistorClass(-1, 2, 0, 1);
+            variableD.powerFromVoltageDrop(10);
+            variableD.powerFromCurrentDraw(10);
+            System.out.println("In the VariableResistorClass. " + variableD.toString());
+
+        } catch (IllegalArgumentException e) {
+            System.out.println("These VariableyResistorClass variables are out of bounds!!");
+            System.out.println("The PowerDrop is greater than the Power Rating!!");
+            System.out.println("The PowerDraw is greater than the Power Rating!!");
+        }
+
+    }
+
+}
+
+
+/*
+ * This is the interface that has no code except for the two methods given in the rubric
+ * and these methods will be implemented into the other methods where the codes will be put to use
+ */
+package cs1181.project;
+
+/**
+ * CS1181 Section 3
+ * Project 1
+ * Teacher: Rick Volkers
+ * TA: Sai Polamarasetty
+ * Cameron Windsor Fox
+ */
+public interface PowerDissipation {
+
+    /**
+     * this method is overwritten from the interface and finds the amount of
+     * power drop of volts 
+     * pre: we do not know the power drop 
+     * post: we now know the power drop
+     * @param volts this is the amount of volts that are used
+     * @return this returns the power drop of volts
+     * @throws Exception this is a thrown exception when an error is found
+     */
+    double powerFromVoltageDrop(double volts) throws Exception;
+    
+
+    /**
+     * this method is overwritten from the interface and finds the amount of
+     * power drawn from the current 
+     * pre: we do not know the power draw 
+     * post: we now know the power draw
+     * @param current this is the current or speed that the volts will travel
+     * @return this returns the current speed
+     * @throws Exception this is a thrown exception when an error is found
+     */
+    double powerFromCurrentDraw(double current) throws Exception;
+
+}
+
+
+/*
+ * This is the ResistorClass, this is used to see what the value of the resistance, tolerance, 
+ * and the power rating as well as the min and max amont or resistance that can be used
+ * Then it implements an interface and has a toString to print out the data
+ */
+package cs1181.project;
+
+/**
+ * CS1181 Section 3
+ * Project 1
+ * Teacher: Rick Volkers
+ * TA: Sai Polamarasetty
+ * Cameron Windsor Fox
+ */
+public class ResistorClass implements PowerDissipation {
+
+    private final double resistanceValue;
+    private final double toleranceValue;
+    private final double powerRating;
+
+    /**
+     * This is the constructor of the class and it holds all the variables that
+     * will be used in this class 
+     * pre: we do not know what variables will be
+     * used 
+     * post: we now know what variables will be used
+     *
+     * @param resistanceValue this is the value of how much resistance will be
+     * used
+     * @param toleranceValue this is the amount of tolerance
+     * @param powerRating this is the amount of power that is generated
+     * @throws java.lang.Exception
+     */
+    public ResistorClass(double resistanceValue, double toleranceValue, double powerRating) throws Exception{
+        this.resistanceValue = resistanceValue;
+        this.toleranceValue = toleranceValue;
+        this.powerRating = powerRating;
+        
+        if (resistanceValue < 0) {
+            throw new IllegalArgumentException("The resistanceValue is out of bounds!");
+        }
+
+        if (toleranceValue < 0 || toleranceValue > 1) {
+            throw new IllegalArgumentException("The toleranceValue is out of bounds!");
+        }
+
+        if (powerRating < 0) {
+            throw new IllegalArgumentException("The powerRating is out of bounds!");
+        }
+    }
+
+    /**
+     * this is a getter method for the resistance value
+     *
+     * @return this returns the resistance value
+     */
+    public double getResistanceValue() {
+        return resistanceValue;
+    }
+
+    /**
+     * this is a getter method for the tolerance value
+     *
+     * @return this returns the tolerance value
+     */
+    public double getToleranceValue() {
+        return toleranceValue;
+    }
+
+    /**
+     * this is a getter method for the power rating
+     *
+     * @return this returns the power rating
+     */
+    public double getPowerRating() {
+        return powerRating;
+    }
+
+    /**
+     * this is the toString method that will output the results 
+     * pre: we do not
+     * know the results 
+     * post: we now know the results
+     *
+     * @return this returns the String of results
+     */
+    @Override
+    public String toString() {
+        String output;
+        output = "The ResistanceValue is: " + resistanceValue + " ohms and the ToleranceValue is: " + toleranceValue + " ohms and the PowerRating is: " + powerRating + " ohms";
+        return output;
+    }
+
+    /**
+     * this is a method to calculate the minimum resistance 
+     * pre: we do not know
+     * the minimum resistance 
+     * post: we now know the minimum resistance
+     *
+     * @return this returns the minimum resistance
+     */
+    public double minResistance() {
+        double minResistance = resistanceValue - (resistanceValue * toleranceValue);
+        return minResistance;
+    }
+
+    /**
+     * this is a method to calculate the maximum resistance 
+     * pre: we do not know
+     * the maximum resistance 
+     * post: we now know the maximum resistance
+     *
+     * @return this returns the maximum resistance
+     */
+    public double maxResistance() {
+        double maxResistance = resistanceValue + (resistanceValue * toleranceValue);
+        return maxResistance;
+    }
+
+    /**
+     * this method is overwritten from the interface and finds the amount of
+     * power drop of volts 
+     * pre: we do not know the power drop 
+     * post: we now know
+     * the power drop
+     *
+     * @param volts this is the amount of volts that are used
+     * @return this returns the power drop of volts
+     * @throws Exception this is a thrown exception when an error is found
+     */
+    @Override
+    public double powerFromVoltageDrop(double volts) throws Exception {
+        
+        double powerDrop = volts * volts / minResistance();
+        if(powerDrop < powerRating){
+            System.out.println("The PowerDrop is Good");
+        }
+        if(powerDrop > powerRating){
+            throw new IllegalArgumentException("The PowerDrop is greater then the Power Rating");
+        }
+        return powerDrop;
+    }
+
+    /**
+     * this method is overwritten from the interface and finds the amount of
+     * power drawn from the current 
+     * pre: we do not know the power draw 
+     * post: we
+     * now know the power draw
+     *
+     * @param current this is the current or speed that the volts will travel
+     * @return this returns the current speed
+     * @throws Exception this is a thrown exception when an error is found
+     */
+    @Override
+    public double powerFromCurrentDraw(double current) throws Exception {
+        
+        double powerDraw = current * current * maxResistance();
+        if(powerDraw < powerRating){
+            System.out.println("The PowerDraw is good");
+        }
+        if(powerDraw > powerRating){
+            throw new IllegalArgumentException("The PowerDraw is greater then the Power Rating");
+        }
+        return powerDraw;
+    }
+
+}
+
+
+/*
+ * This VariableResistorClass takes the information from the ResistorClass and adds on an additional
+ * value which is a controlSettinf the set the amount of resistance used
+ * and it overides the methods of the ResistorClass as well and takes all the resistance method and overides them 
+ * adds the controlSetting on them to give diffrent values when ran
+ */
+package cs1181.project;
+
+/**
+ * CS1181 Section 3
+ * Project 1
+ * Teacher: Rick Volkers
+ * TA: Sai Polamarasetty
+ * Cameron Windsor Fox
+ */
+public class VariableResistorClass extends ResistorClass {
+
+    private double controlSetting;
+
+    /**
+     * This is the constructor of the class and it holds all the variables that
+     * will be used in this class 
+     * pre: we do not know what variables will be used
+     * post: we now know what variables will be used
+     * @param resistanceValue this is the value of how much resistance will be used
+     * @param toleranceValue this is the amount of tolerance
+     * @param powerRating this is the amount of power that is generated
+     * @param controlSetting this is an additional setting that will control the
+     * amount of resistance used
+     * @throws java.lang.Exception
+     */
+    public VariableResistorClass(double resistanceValue, double toleranceValue, double powerRating, double controlSetting) throws Exception {
+        super(resistanceValue, toleranceValue, powerRating);
+        this.controlSetting = controlSetting;
+        
+        if (resistanceValue < 0) {
+            throw new IllegalArgumentException("The resistanceValue is out of bounds!");
+        }
+
+        if (toleranceValue < 0 || toleranceValue > 1) {
+            throw new IllegalArgumentException("The toleranceValue is out of bounds!");
+        }
+
+        if (powerRating < 0) {
+            throw new IllegalArgumentException("The powerRating is out of bounds!");
+        }
+        if (controlSetting < 0 || controlSetting > 1){
+            throw new IllegalArgumentException("The controlSetting is out of bounds!");
+        }
+    }
+
+    /**
+     * this is a getter method for the resistance value
+     *
+     * @return this returns the resistance value
+     */
+    @Override
+    public double getResistanceValue() {
+        return super.getResistanceValue() * controlSetting;
+    }
+
+    /**
+     * this is a method to calculate the minimum resistance but it overwrites
+     * the method of the ResisterClass 
+     * pre: we do not know the minimum resistance
+     * post: we now know the minimum resistance
+     * @return this returns the minimum resistance
+     */
+    @Override
+    public double minResistance() {
+        return super.minResistance()*controlSetting;
+    }
+
+    /**
+     * this is a method to calculate the maximum resistance but it overwrites
+     * the method of the ResisterClass 
+     * pre: we do not know the maximum
+     * resistance 
+     * post: we now know the maximum resistance
+     *
+     * @return this returns the maximum resistance
+     */
+    @Override
+    public double maxResistance() {
+        return super.maxResistance()*controlSetting;
+    }
+
+    /**
+     * this is a getter method for the controlSetting to change the amount of
+     * resistance used
+     *
+     * @return returns the controlSetting
+     */
+    public double getcontrolSetting() {
+        return controlSetting;
+    }
+
+    /**
+     * this is a setter method for the controlSetting to change the amount of
+     * resistance used
+     *
+     * @param controlSetting this is used to change the amount of resistance
+     * used
+     */
+    public void setcontrolSetting(double controlSetting) {
+        this.controlSetting = controlSetting;
+        if(controlSetting < 0 || controlSetting > 1){
+            throw new IllegalArgumentException("The controlSetting is out of bounds!!");
+        }
+    }
+
+    /**
+     * this is the toString method used to print out output to the console and
+     * over writes the toString method of the ResistorClass 
+     * pre: we do not know
+     * what results will be printed 
+     * post: we now know the results that are
+     * printed
+     *
+     * @return this returns the String that shows the results
+     */
+    @Override
+    public String toString() {
+        String output;
+        output = "The ResistanceValue is: " + super.getResistanceValue()*controlSetting + " ohms and the ToleranceValue is: " + super.getToleranceValue() + " ohms and the PowerRating is: " + super.getPowerRating() + " ohms and a control setting of: "+controlSetting;
+        return output;
+    }
+
+    /**
+     * this method overwrites from the ResistorClass and finds the amount of
+     * power drop of volts 
+     * pre: we do not know the power drop 
+     * post: we now know
+     * the power drop
+     *
+     * @param volts this is the amount of volts that are used
+     * @return this returns the power drop of volts
+     * @throws Exception this is a thrown exception when an error is found
+     */
+    @Override
+    public double powerFromVoltageDrop(double volts) throws Exception {
+        
+        double powerDrop = volts * volts / minResistance()*controlSetting;
+        if(powerDrop < super.getPowerRating()){
+            System.out.println("The PowerDrop is Good");
+        }
+        if(powerDrop > super.getPowerRating()){
+            throw new IllegalArgumentException("The PowerDrop is greater then the Power Rating");
+        }
+        return powerDrop;
+    }
+
+    /**
+     * this method overwrites the method from the ResisterClass and finds the
+     * amount of power drawn from the current 
+     * pre: we do not know the power draw
+     * post: we now know the power draw
+     *
+     * @param current this is the current or speed that the volts will travel
+     * @return this returns the current speed
+     * @throws Exception this is a thrown exception when an error is found
+     */
+    @Override
+    public double powerFromCurrentDraw(double current) throws Exception {
+        
+        double powerDraw = current * current * maxResistance()*controlSetting;
+        if(powerDraw < super.getPowerRating()){
+            System.out.println("The PowerDraw is good");
+        }
+        if(powerDraw > super.getPowerRating()){
+            throw new IllegalArgumentException("The PowerDraw is greater then the Power Rating");
+        }
+        return powerDraw;
+    }
+}

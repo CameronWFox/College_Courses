@@ -1,0 +1,152 @@
+	Main Code
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package cs1181pa8;
+
+/**
+ * Cameron Windsor Fox
+ * CS1181 
+ * Project 8
+ * Section 3
+ * Rick Volkers
+ * Sai
+ */
+public class CS1181PA8 extends RadixSortClass {
+
+    public static void main(String[] args) {
+
+        //Object for the RadixSortClass
+        RadixSortClass RadixSort = new RadixSortClass();
+        //Calls the input method from the RadixSortClass with the object
+        RadixSort.Input();
+        
+    }
+
+}
+
+
+	RadixClass Code
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package cs1181pa8;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+/**
+ * Cameron Windsor Fox 
+ * CS1181 
+ * Project 8 
+ * Section 3 
+ * Rick Volkers 
+ * Sai
+ */
+public class RadixSortClass {
+
+    int[] RadixArray;// the array for the program
+
+    /**
+     * This is the input method that takes user input for the size of the array 
+     * and then fills that array with random numbers from 0 to 10,000
+     * post: we have the array size from user input and the array filled
+     * pre: we do not have input yet or have the array filled
+     */
+    public void Input() {
+
+        Scanner userInput = new Scanner(System.in);
+
+        System.out.println("Please enter the Size of the Array: ");
+        int size = userInput.nextInt();
+        RadixArray = new int[size];
+
+        System.out.println("Please enter the size of the Radix the same as the size of the Array: ");
+        int radixSize = userInput.nextInt();
+        for (int i = 0; i < size; i++) {
+            RadixArray[i] = (int) (Math.random() * (10000) + 1);
+        }
+
+        //Method call
+        System.out.println("The Array Before it is Sorted");
+        displaySort();
+        System.out.println("");
+        System.out.println("The Array After it is Sorted");
+        radixSorting(size);
+        displaySort();
+
+    }
+
+    /**
+     * This is the Display Method that will display the array of random integers
+     * post: we have the array printed
+     * pre: we do not have the array printed
+     */
+    public void displaySort() {
+
+        for (int i = 0; i < RadixArray.length; i++) {
+            if (i % 10 == 0) {
+                System.out.println("");
+                System.out.print(RadixArray[i] + "\t");
+            } else {
+                
+                System.out.print(RadixArray[i] + "\t");
+            }
+
+        }
+
+    }
+
+    /**
+     * This is the sort method used to sort the numbers in the array in a temp
+     * array then place the sorted numbers in to the main array
+     * post: we have the array sorted
+     * pre: we do not have the array sorted
+     * @param radixSize this is the size of the radix given from user input
+     */
+    public void radixSorting(int radixSize) {
+
+        int maxDigit = 0;
+        int numDigit = (int) (Math.log(maxDigit) / Math.log(radixSize) + 1);
+
+        //The array of arraylists is made here
+        ArrayList<Integer>[] array = new ArrayList[radixSize];
+        for (int i = 0; i < radixSize; i++) {
+            array[i] = new ArrayList<>();
+        }
+
+        for (int i = 0; i < RadixArray.length; i++) {
+            if (RadixArray[i] > maxDigit) {
+                maxDigit = RadixArray[i];
+            }
+        }
+        int maxLength = (int) (Math.floor(Math.log(maxDigit) / Math.log(radixSize)) + 1);
+
+        for (int i = 0; i < maxLength; i++) {
+
+            for (int j = 0; j < RadixArray.length; j++) {
+                int bucketIndex = (RadixArray[j] / (int) Math.pow(radixSize, i)) % radixSize;
+                array[bucketIndex].add(RadixArray[j]);
+            }
+
+            int count = 0;
+            for (int j = 0; j < array.length; j++) {
+                ArrayList<Integer> temp = array[j];
+                for (int k = 0; k < temp.size(); k++) {
+                    RadixArray[count] = temp.get(k);
+                    count++;
+                }
+            }
+            for (int j = 0; j < radixSize; j++) {
+                array[j].clear();
+            }
+        }
+
+    }
+
+}

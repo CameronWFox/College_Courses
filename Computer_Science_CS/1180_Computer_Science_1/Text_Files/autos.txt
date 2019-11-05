@@ -1,0 +1,16332 @@
+Aston Martin
+DB9
+12
+16.1
+Aston Martin
+DB9
+12
+25.8
+Aston Martin
+Rapide S
+12
+17.3
+Aston Martin
+Rapide S
+12
+29.9
+Aston Martin
+V12 Vantage S
+12
+14.8
+Aston Martin
+V12 Vantage S
+12
+25.3
+Aston Martin
+V8 VANTAGE
+8
+16
+Aston Martin
+V8 VANTAGE
+8
+26.5
+Aston Martin
+V8 VANTAGE S
+8
+16.7
+Aston Martin
+V8 VANTAGE S
+8
+28.8
+Aston Martin
+Vanquish
+12
+16.5
+Aston Martin
+Vanquish
+12
+28.7
+AUDI
+A4
+4
+30.3
+AUDI
+A4
+4
+44.6
+AUDI
+A4
+4
+28.7
+AUDI
+A4
+4
+23.7
+AUDI
+A4
+4
+24.1
+AUDI
+A4
+4
+27.4
+AUDI
+A4
+4
+43.7
+AUDI
+A4
+4
+24.1
+AUDI
+A4
+4
+24.1
+AUDI
+A4
+4
+29.4
+AUDI
+A4
+4
+28.2
+AUDI
+A4
+4
+44.4
+AUDI
+A6
+4
+28.6
+AUDI
+A6
+4
+26.2
+AUDI
+A6
+4
+26.6
+AUDI
+A6
+4
+31.4
+AUDI
+A6
+4
+46.9
+AUDI
+A6
+6
+23.7
+AUDI
+A6
+6
+22.6
+AUDI
+A6
+6
+38.1
+AUDI
+A6
+6
+24.4
+AUDI
+A6
+6
+23.4
+AUDI
+A6
+6
+18.1
+AUDI
+A6
+6
+19.8
+AUDI
+A6
+6
+24.3
+AUDI
+A6
+6
+22.7
+AUDI
+A6
+6
+37.6
+AUDI
+A6 quattro
+4
+21
+AUDI
+A6 quattro
+4
+25.7
+AUDI
+A6 quattro
+4
+20.6
+AUDI
+A6 quattro
+4
+24.8
+AUDI
+A6 quattro
+4
+40.5
+AUDI
+A7
+6
+34.3
+AUDI
+A7
+6
+34.3
+AUDI
+A7
+6
+34.3
+AUDI
+A7
+6
+30.9
+AUDI
+A7
+6
+30.9
+AUDI
+A7
+6
+30.9
+AUDI
+A7
+6
+24.8
+AUDI
+A7
+6
+24.8
+AUDI
+A7
+6
+24.8
+AUDI
+A7
+6
+28.4
+AUDI
+A7
+6
+28.4
+AUDI
+A7
+6
+28.4
+AUDI
+A7
+6
+32.9
+AUDI
+A7
+6
+32.9
+AUDI
+A7
+6
+32.9
+AUDI
+A7
+6
+52.5
+AUDI
+A7
+6
+52.5
+AUDI
+A7
+6
+52.5
+AUDI
+A7
+6
+30.5
+AUDI
+A7
+6
+30.5
+AUDI
+A7
+6
+30.5
+AUDI
+Q5
+6
+22.9
+AUDI
+Q5
+6
+23.2
+AUDI
+Q5
+6
+18.6
+AUDI
+Q5
+6
+22.9
+AUDI
+Q5
+6
+19.2
+AUDI
+Q5
+6
+22.5
+AUDI
+Q5
+6
+35.5
+AUDI
+Q5
+4
+24.8
+AUDI
+Q5
+4
+38.6
+AUDI
+Q5
+4
+27.1
+AUDI
+Q5
+4
+17.4
+AUDI
+Q5
+6
+24.4
+AUDI
+Q5
+6
+24.4
+AUDI
+Q5
+6
+24.4
+AUDI
+Q5
+6
+28.2
+AUDI
+Q5
+6
+28.2
+AUDI
+Q5
+6
+28.2
+AUDI
+Q5
+6
+28.4
+AUDI
+Q5
+6
+28.4
+AUDI
+Q5
+6
+28.4
+AUDI
+Q5
+6
+28.5
+AUDI
+Q5
+6
+28.5
+AUDI
+Q5
+6
+28.5
+AUDI
+Q5
+6
+44
+AUDI
+Q5
+6
+44
+AUDI
+Q5
+6
+44
+AUDI
+Q5
+6
+29
+AUDI
+Q5
+6
+29
+AUDI
+Q5
+6
+29
+AUDI
+Q5
+6
+29.9
+AUDI
+Q5
+6
+29.9
+AUDI
+Q5
+6
+29.9
+AUDI
+Q5 Hybrid
+4
+27.5
+AUDI
+Q5 Hybrid
+4
+27.5
+AUDI
+Q5 Hybrid
+4
+23.1
+AUDI
+Q5 Hybrid
+4
+30.4
+AUDI
+Q5 Hybrid
+4
+39.9
+AUDI
+Q7
+6
+19.4
+AUDI
+Q7
+6
+30
+AUDI
+Q7
+6
+25.3
+AUDI
+Q7
+6
+25.3
+AUDI
+Q7
+6
+25.3
+AUDI
+Q7
+6
+20.3
+AUDI
+Q7
+6
+20.3
+AUDI
+Q7
+6
+20.3
+AUDI
+Q7
+6
+21.2
+AUDI
+Q7
+6
+21.2
+AUDI
+Q7
+6
+21.2
+AUDI
+Q7
+6
+22.8
+AUDI
+Q7
+6
+22.8
+AUDI
+Q7
+6
+22.8
+AUDI
+Q7
+6
+39.1
+AUDI
+Q7
+6
+39.1
+AUDI
+Q7
+6
+39.1
+AUDI
+Q7
+6
+23.6
+AUDI
+Q7
+6
+23.6
+AUDI
+Q7
+6
+23.6
+AUDI
+Q7
+6
+20.7
+AUDI
+Q7
+6
+20.7
+AUDI
+Q7
+6
+20.7
+AUDI
+Q7
+6
+26.2
+AUDI
+Q7
+6
+26.2
+AUDI
+Q7
+6
+26.2
+AUDI
+Q7
+6
+24.1
+AUDI
+Q7
+6
+24.1
+AUDI
+Q7
+6
+24.1
+AUDI
+Q7
+6
+41
+AUDI
+Q7
+6
+41
+AUDI
+Q7
+6
+41
+AUDI
+R8
+10
+13.7
+AUDI
+R8
+10
+22.7
+AUDI
+R8
+10
+18.2
+AUDI
+R8
+10
+12.8
+AUDI
+R8
+10
+11.8
+AUDI
+R8
+8
+12
+AUDI
+R8
+8
+13.6
+AUDI
+R8
+8
+23.8
+AUDI
+R8
+8
+19.1
+AUDI
+R8
+8
+12.2
+AUDI
+R8
+8
+13.7
+AUDI
+R8
+8
+24.9
+AUDI
+R8
+8
+20
+AUDI
+R8
+8
+12.6
+AUDI
+R8
+8
+12.1
+AUDI
+R8
+10
+15.4
+AUDI
+R8
+10
+28.6
+AUDI
+R8
+10
+21
+AUDI
+R8
+10
+15.4
+AUDI
+R8
+10
+13.7
+AUDI
+R8
+10
+15.5
+AUDI
+R8
+10
+29.1
+AUDI
+R8
+10
+21.1
+AUDI
+R8
+10
+13.9
+AUDI
+R8
+10
+15.1
+AUDI
+RS5
+8
+16.4
+AUDI
+RS5
+8
+18.4
+AUDI
+RS5
+8
+21.3
+AUDI
+RS5
+8
+19.2
+AUDI
+RS5
+8
+28.9
+AUDI
+RS5
+8
+19.1
+AUDI
+RS5
+8
+30
+AUDI
+RS5
+8
+22.4
+AUDI
+RS5
+8
+16.1
+AUDI
+RS5
+8
+17.2
+AUDI
+RS7
+8
+19.1
+AUDI
+RS7
+8
+18.9
+AUDI
+RS7
+8
+23.6
+AUDI
+RS7
+8
+15.5
+AUDI
+RS7
+8
+35.3
+AUDI
+RS7
+8
+16.8
+AUDI
+RS7
+8
+31.3
+AUDI
+RS7
+8
+21.2
+AUDI
+RS7
+8
+13.5
+AUDI
+RS7
+8
+17
+AUDI
+S5
+6
+22.4
+AUDI
+S5
+6
+35.8
+AUDI
+S5
+6
+24.9
+AUDI
+S5
+6
+19.8
+AUDI
+S5
+6
+19.4
+AUDI
+S5
+6
+23.5
+AUDI
+S5
+6
+19.3
+AUDI
+S5
+6
+18.7
+AUDI
+S5
+6
+22.1
+AUDI
+S5
+6
+34.7
+AUDI
+S5
+6
+20
+AUDI
+S5
+6
+33.4
+AUDI
+S5
+6
+24.5
+AUDI
+S5
+6
+19.3
+AUDI
+S5
+6
+19.3
+AUDI
+S7
+8
+18.4
+AUDI
+S7
+8
+32.2
+AUDI
+S7
+8
+23.7
+AUDI
+S7
+8
+16.8
+AUDI
+S7
+8
+20.3
+AUDI
+S7
+8
+18.1
+AUDI
+S7
+8
+17.1
+AUDI
+S7
+8
+25.2
+AUDI
+S7
+8
+20.9
+AUDI
+S7
+8
+36
+AUDI
+S7
+8
+20.9
+AUDI
+S7
+8
+36.9
+AUDI
+TT Coupe
+4
+24
+AUDI
+TT Coupe
+4
+23.1
+AUDI
+TT Coupe
+4
+42.2
+AUDI
+TT Coupe
+4
+28.5
+AUDI
+TT Coupe
+4
+28.4
+AUDI
+TT Coupe
+4
+24.1
+AUDI
+TT Coupe
+4
+23.3
+AUDI
+TT Coupe
+4
+29
+AUDI
+TT Coupe
+4
+43.5
+AUDI
+TT Coupe
+4
+30.2
+BENTLEY
+Continental GT
+8
+15.9
+BENTLEY
+Continental GT
+8
+14.2
+BENTLEY
+Continental GT
+8
+20.6
+BENTLEY
+Continental GT
+8
+31.7
+BENTLEY
+Continental GT
+8
+17.3
+BENTLEY
+Continental GT
+8
+16.8
+BENTLEY
+Continental GT
+8
+14.8
+BENTLEY
+Continental GT
+8
+23
+BENTLEY
+Continental GT
+8
+19.1
+BENTLEY
+Continental GT
+8
+33.6
+BENTLEY
+Continental GT
+12
+17.4
+BENTLEY
+Continental GT
+12
+14.2
+BENTLEY
+Continental GT
+12
+13.6
+BENTLEY
+Continental GT
+12
+14.4
+BENTLEY
+Continental GT
+12
+26.7
+BENTLEY
+Continental GT
+12
+15.4
+BENTLEY
+Continental GT
+12
+18.3
+BENTLEY
+Continental GT
+12
+28.3
+BENTLEY
+Continental GT
+12
+10.5
+BENTLEY
+Continental GT
+12
+20.5
+BENTLEY
+Continental GT
+12
+12.9
+BENTLEY
+Continental GT
+12
+9.5
+BENTLEY
+Continental GT
+12
+9.4
+BENTLEY
+Continental GT
+12
+10.5
+BENTLEY
+Continental GT
+12
+20.8
+BENTLEY
+Continental GT
+12
+13.3
+Bentley
+Mulsanne
+8
+12.9
+Bentley
+Mulsanne
+8
+21.8
+Bentley
+Mulsanne
+8
+15.9
+Bentley
+Mulsanne
+8
+11.4
+Bentley
+Mulsanne
+8
+11.4
+BMW
+228i
+4
+30.5
+BMW
+228i
+4
+51.6
+BMW
+228i
+4
+29.8
+BMW
+228i
+4
+51.6
+BMW
+228i
+4
+30.5
+BMW
+228i
+4
+49.3
+BMW
+228i
+4
+29.1
+BMW
+228i
+4
+49.2
+BMW
+228i
+4
+27.8
+BMW
+228i
+4
+47.7
+BMW
+228i
+4
+46.4
+BMW
+228i
+4
+27.2
+BMW
+320i
+4
+30.4
+BMW
+320i
+4
+51
+BMW
+320i
+4
+30.7
+BMW
+320i
+4
+52.7
+BMW
+320i
+4
+28.2
+BMW
+320i
+4
+49.4
+BMW
+320i xDrive
+4
+29.9
+BMW
+320i xDrive
+4
+49.6
+BMW
+320i xDrive
+4
+28.6
+BMW
+320i xDrive
+4
+49.9
+BMW
+320i xDrive
+4
+29.9
+BMW
+320i xDrive
+4
+49.3
+BMW
+320i xDrive
+4
+48.3
+BMW
+320i xDrive
+4
+28.7
+BMW
+328d
+4
+42.2
+BMW
+328d
+4
+42.2
+BMW
+328d
+4
+42.2
+BMW
+328d
+4
+42.2
+BMW
+328d
+4
+64
+BMW
+328d
+4
+64
+BMW
+328d
+4
+64
+BMW
+328d
+4
+64
+BMW
+328d
+4
+41
+BMW
+328d
+4
+41
+BMW
+328d
+4
+41
+BMW
+328d
+4
+41
+BMW
+328d
+4
+65.6
+BMW
+328d
+4
+65.6
+BMW
+328d
+4
+65.6
+BMW
+328d
+4
+65.6
+BMW
+328d
+4
+42.4
+BMW
+328d
+4
+42.4
+BMW
+328d
+4
+42.4
+BMW
+328d
+4
+42.4
+BMW
+328d
+4
+64.4
+BMW
+328d
+4
+64.4
+BMW
+328d
+4
+64.4
+BMW
+328d
+4
+64.4
+BMW
+328d
+4
+65.2
+BMW
+328d
+4
+65.2
+BMW
+328d
+4
+65.2
+BMW
+328d
+4
+65.2
+BMW
+328d
+4
+40.7
+BMW
+328d
+4
+40.7
+BMW
+328d
+4
+40.7
+BMW
+328d
+4
+40.7
+BMW
+328d Sports Wagon xDrive
+4
+61.3
+BMW
+328d Sports Wagon xDrive
+4
+61.3
+BMW
+328d Sports Wagon xDrive
+4
+61.3
+BMW
+328d Sports Wagon xDrive
+4
+61.3
+BMW
+328d Sports Wagon xDrive
+4
+41
+BMW
+328d Sports Wagon xDrive
+4
+41
+BMW
+328d Sports Wagon xDrive
+4
+41
+BMW
+328d Sports Wagon xDrive
+4
+41
+BMW
+328d Sports Wagon xDrive
+4
+59.8
+BMW
+328d Sports Wagon xDrive
+4
+59.8
+BMW
+328d Sports Wagon xDrive
+4
+59.8
+BMW
+328d Sports Wagon xDrive
+4
+59.8
+BMW
+328d Sports Wagon xDrive
+4
+40
+BMW
+328d Sports Wagon xDrive
+4
+40
+BMW
+328d Sports Wagon xDrive
+4
+40
+BMW
+328d Sports Wagon xDrive
+4
+40
+BMW
+328d Sports Wagon xDrive
+4
+58.5
+BMW
+328d Sports Wagon xDrive
+4
+58.5
+BMW
+328d Sports Wagon xDrive
+4
+58.5
+BMW
+328d Sports Wagon xDrive
+4
+58.5
+BMW
+328d Sports Wagon xDrive
+4
+39.7
+BMW
+328d Sports Wagon xDrive
+4
+39.7
+BMW
+328d Sports Wagon xDrive
+4
+39.7
+BMW
+328d Sports Wagon xDrive
+4
+39.7
+BMW
+328d Sports Wagon xDrive
+4
+38
+BMW
+328d Sports Wagon xDrive
+4
+38
+BMW
+328d Sports Wagon xDrive
+4
+38
+BMW
+328d Sports Wagon xDrive
+4
+38
+BMW
+328d Sports Wagon xDrive
+4
+57.8
+BMW
+328d Sports Wagon xDrive
+4
+57.8
+BMW
+328d Sports Wagon xDrive
+4
+57.8
+BMW
+328d Sports Wagon xDrive
+4
+57.8
+BMW
+328d xDrive
+4
+60.9
+BMW
+328d xDrive
+4
+60.9
+BMW
+328d xDrive
+4
+60.9
+BMW
+328d xDrive
+4
+60.9
+BMW
+328d xDrive
+4
+40.8
+BMW
+328d xDrive
+4
+40.8
+BMW
+328d xDrive
+4
+40.8
+BMW
+328d xDrive
+4
+40.8
+BMW
+328d xDrive
+4
+61.3
+BMW
+328d xDrive
+4
+61.3
+BMW
+328d xDrive
+4
+61.3
+BMW
+328d xDrive
+4
+61.3
+BMW
+328d xDrive
+4
+40.8
+BMW
+328d xDrive
+4
+40.8
+BMW
+328d xDrive
+4
+40.8
+BMW
+328d xDrive
+4
+40.8
+BMW
+328d xDrive
+4
+41.3
+BMW
+328d xDrive
+4
+41.3
+BMW
+328d xDrive
+4
+41.3
+BMW
+328d xDrive
+4
+41.3
+BMW
+328d xDrive
+4
+62
+BMW
+328d xDrive
+4
+62
+BMW
+328d xDrive
+4
+62
+BMW
+328d xDrive
+4
+62
+BMW
+328d xDrive
+4
+61.7
+BMW
+328d xDrive
+4
+61.7
+BMW
+328d xDrive
+4
+61.7
+BMW
+328d xDrive
+4
+61.7
+BMW
+328d xDrive
+4
+39.3
+BMW
+328d xDrive
+4
+39.3
+BMW
+328d xDrive
+4
+39.3
+BMW
+328d xDrive
+4
+39.3
+BMW
+328d xDrive
+4
+59.8
+BMW
+328d xDrive
+4
+59.8
+BMW
+328d xDrive
+4
+59.8
+BMW
+328d xDrive
+4
+59.8
+BMW
+328i
+4
+50.9
+BMW
+328i
+4
+29.2
+BMW
+328i
+4
+50.2
+BMW
+328i
+4
+29.9
+BMW
+328i
+4
+28.7
+BMW
+328i
+4
+50.7
+BMW
+328i
+4
+28.4
+BMW
+328i
+4
+50.4
+BMW
+328i
+4
+30.4
+BMW
+328i
+4
+50.2
+BMW
+328i
+4
+29.8
+BMW
+328i
+4
+50.1
+BMW
+328i
+4
+31.7
+BMW
+328i
+4
+48.3
+BMW
+328i
+4
+28.3
+BMW
+328i
+4
+49.9
+BMW
+328i
+4
+27.5
+BMW
+328i
+4
+46.6
+BMW
+328i
+4
+29.5
+BMW
+328i
+4
+49.9
+BMW
+328i
+4
+28.9
+BMW
+328i
+4
+48.9
+BMW
+328i xDrive
+4
+29.1
+BMW
+328i xDrive
+4
+49.6
+BMW
+328i xDrive
+4
+28.7
+BMW
+328i xDrive
+4
+49.8
+BMW
+328i xDrive
+4
+28.6
+BMW
+328i xDrive
+4
+47.4
+BMW
+328i xDrive
+4
+47.2
+BMW
+328i xDrive
+4
+28.5
+BMW
+328i xDrive
+4
+29.6
+BMW
+328i xDrive
+4
+47.5
+BMW
+328i xDrive
+4
+47
+BMW
+328i xDrive
+4
+29.4
+BMW
+328i xDrive
+4
+28.4
+BMW
+328i xDrive
+4
+48.2
+BMW
+328i xDrive
+4
+28.1
+BMW
+328i xDrive
+4
+47.4
+BMW
+328i xDrive Gran Turismo
+4
+28.5
+BMW
+328i xDrive Gran Turismo
+4
+46.2
+BMW
+328i xDrive Gran Turismo
+4
+28.5
+BMW
+328i xDrive Gran Turismo
+4
+46.2
+BMW
+328i xDrive Gran Turismo
+4
+27.1
+BMW
+328i xDrive Gran Turismo
+4
+46
+BMW
+328i xDrive Gran Turismo
+4
+27.1
+BMW
+328i xDrive Gran Turismo
+4
+46
+BMW
+328i xDrive Sports Wagon
+4
+27.1
+BMW
+328i xDrive Sports Wagon
+4
+45.8
+BMW
+328i xDrive Sports Wagon
+4
+28.8
+BMW
+328i xDrive Sports Wagon
+4
+45.1
+BMW
+328i xDrive Sports Wagon
+4
+29
+BMW
+328i xDrive Sports Wagon
+4
+46
+BMW
+328i xDrive Sports Wagon
+4
+27.6
+BMW
+328i xDrive Sports Wagon
+4
+45.2
+BMW
+335i
+6
+26.2
+BMW
+335i
+6
+43.2
+BMW
+335i
+6
+26.3
+BMW
+335i
+6
+42.3
+BMW
+335i
+6
+28.9
+BMW
+335i
+6
+46.6
+BMW
+335i
+6
+28.8
+BMW
+335i
+6
+46.9
+BMW
+335i
+6
+28.7
+BMW
+335i
+6
+45.6
+BMW
+335i
+6
+29.1
+BMW
+335i
+6
+26.5
+BMW
+335i
+6
+45.7
+BMW
+335i
+6
+26.8
+BMW
+335i
+6
+45.7
+BMW
+335i xDrive
+6
+25.2
+BMW
+335i xDrive
+6
+39.7
+BMW
+335i xDrive
+6
+25.2
+BMW
+335i xDrive
+6
+40
+BMW
+335i xDrive
+6
+41.7
+BMW
+335i xDrive
+6
+42.9
+BMW
+335i xDrive
+6
+26.3
+BMW
+335i xDrive
+6
+26.3
+BMW
+335i xDrive
+6
+25.3
+BMW
+335i xDrive
+6
+42
+BMW
+335i xDrive
+6
+26
+BMW
+335i xDrive
+6
+25
+BMW
+335i xDrive
+6
+41.9
+BMW
+335i xDrive
+6
+25
+BMW
+335i xDrive
+6
+43.1
+BMW
+335i xDrive Gran Turismo
+6
+25.5
+BMW
+335i xDrive Gran Turismo
+6
+43.2
+BMW
+335i xDrive Gran Turismo
+6
+24.2
+BMW
+335i xDrive Gran Turismo
+6
+43.2
+BMW
+428i Convertible
+4
+28.8
+BMW
+428i Convertible
+4
+50.1
+BMW
+428i Convertible
+4
+49.6
+BMW
+428i Convertible
+4
+26.7
+BMW
+428i Convertible
+4
+28.5
+BMW
+428i Convertible
+4
+48.2
+BMW
+428i Convertible
+4
+27.2
+BMW
+428i Convertible
+4
+47.7
+BMW
+428i Convertible xDrive
+4
+27.6
+BMW
+428i Convertible xDrive
+4
+46.4
+BMW
+428i Convertible xDrive
+4
+26.4
+BMW
+428i Convertible xDrive
+4
+46.9
+BMW
+428i Convertible xDrive
+4
+26.8
+BMW
+428i Convertible xDrive
+4
+46.5
+BMW
+428i Convertible xDrive
+4
+26
+BMW
+428i Convertible xDrive
+4
+45
+BMW
+428i Coupe
+4
+28
+BMW
+428i Coupe
+4
+49.6
+BMW
+428i Coupe
+4
+27.7
+BMW
+428i Coupe
+4
+47.8
+BMW
+428i Coupe
+4
+51
+BMW
+428i Coupe
+4
+31.6
+BMW
+428i Coupe
+4
+29.5
+BMW
+428i Coupe
+4
+51.1
+BMW
+428i Coupe
+4
+31.2
+BMW
+428i Coupe
+4
+50.2
+BMW
+428i Coupe
+4
+28.7
+BMW
+428i Coupe
+4
+49.6
+BMW
+428i xDrive
+4
+29.5
+BMW
+428i xDrive
+4
+47.5
+BMW
+428i xDrive
+4
+27.9
+BMW
+428i xDrive
+4
+48.4
+BMW
+428i xDrive
+4
+29.1
+BMW
+428i xDrive
+4
+46.3
+BMW
+428i xDrive
+4
+27.8
+BMW
+428i xDrive
+4
+46.9
+BMW
+428i xDrive Gran Coupe
+4
+28.8
+BMW
+428i xDrive Gran Coupe
+4
+28.8
+BMW
+428i xDrive Gran Coupe
+4
+48.5
+BMW
+428i xDrive Gran Coupe
+4
+48.5
+BMW
+428i xDrive Gran Coupe
+4
+27.8
+BMW
+428i xDrive Gran Coupe
+4
+27.8
+BMW
+428i xDrive Gran Coupe
+4
+48.5
+BMW
+428i xDrive Gran Coupe
+4
+48.5
+BMW
+428i xDrive Gran Coupe
+4
+28.3
+BMW
+428i xDrive Gran Coupe
+4
+28.3
+BMW
+428i xDrive Gran Coupe
+4
+47.2
+BMW
+428i xDrive Gran Coupe
+4
+47.2
+BMW
+428i xDrive Gran Coupe
+4
+27.2
+BMW
+428i xDrive Gran Coupe
+4
+27.2
+BMW
+428i xDrive Gran Coupe
+4
+47.2
+BMW
+428i xDrive Gran Coupe
+4
+47.2
+BMW
+435i Convertible
+6
+26
+BMW
+435i Convertible
+6
+44.4
+BMW
+435i Convertible
+6
+26
+BMW
+435i Convertible
+6
+44.6
+BMW
+435i Convertible
+6
+25.3
+BMW
+435i Convertible
+6
+42.9
+BMW
+435i Convertible
+6
+24.9
+BMW
+435i Convertible
+6
+44.5
+BMW
+435i Coupe
+6
+25
+BMW
+435i Coupe
+6
+41.7
+BMW
+435i Coupe
+6
+26.8
+BMW
+435i Coupe
+6
+45.5
+BMW
+435i Coupe
+6
+24.9
+BMW
+435i Coupe
+6
+44.3
+BMW
+435i Gran Coupe
+6
+27
+BMW
+435i Gran Coupe
+6
+45.7
+BMW
+435i Gran Coupe
+6
+25.6
+BMW
+435i Gran Coupe
+6
+45
+BMW
+435i Gran Coupe
+6
+44.6
+BMW
+435i Gran Coupe
+6
+26.2
+BMW
+435i Gran Coupe
+6
+25.4
+BMW
+435i Gran Coupe
+6
+44.1
+BMW
+435i xDrive Coupe
+6
+24.2
+BMW
+435i xDrive Coupe
+6
+39.5
+BMW
+435i xDrive Coupe
+6
+26
+BMW
+435i xDrive Coupe
+6
+43.4
+BMW
+435i xDrive Coupe
+6
+24.4
+BMW
+435i xDrive Coupe
+6
+43.5
+BMW
+528i
+4
+30.5
+BMW
+528i
+4
+49.4
+BMW
+528i
+4
+31.1
+BMW
+528i
+4
+46
+BMW
+528i
+4
+46.8
+BMW
+528i
+4
+28.1
+BMW
+528i
+4
+47
+BMW
+528i
+4
+27.7
+BMW
+528i
+4
+45.4
+BMW
+528i xDrive
+4
+29.4
+BMW
+528i xDrive
+4
+46.6
+BMW
+528i xDrive
+4
+27.4
+BMW
+528i xDrive
+4
+46.6
+BMW
+535d
+6
+33.4
+BMW
+535d
+6
+33.4
+BMW
+535d
+6
+33.4
+BMW
+535d
+6
+33.4
+BMW
+535d
+6
+53.2
+BMW
+535d
+6
+53.2
+BMW
+535d
+6
+53.2
+BMW
+535d
+6
+53.2
+BMW
+535d
+6
+32.4
+BMW
+535d
+6
+32.4
+BMW
+535d
+6
+32.4
+BMW
+535d
+6
+32.4
+BMW
+535d
+6
+53.8
+BMW
+535d
+6
+53.8
+BMW
+535d
+6
+53.8
+BMW
+535d
+6
+53.8
+BMW
+535d
+6
+33.6
+BMW
+535d
+6
+33.6
+BMW
+535d
+6
+33.6
+BMW
+535d
+6
+33.6
+BMW
+535d
+6
+55
+BMW
+535d
+6
+55
+BMW
+535d
+6
+55
+BMW
+535d
+6
+55
+BMW
+535d
+6
+33.9
+BMW
+535d
+6
+33.9
+BMW
+535d
+6
+33.9
+BMW
+535d
+6
+33.9
+BMW
+535d
+6
+56.5
+BMW
+535d
+6
+56.5
+BMW
+535d
+6
+56.5
+BMW
+535d
+6
+56.5
+BMW
+535d xDrive
+6
+33.1
+BMW
+535d xDrive
+6
+33.1
+BMW
+535d xDrive
+6
+33.1
+BMW
+535d xDrive
+6
+33.1
+BMW
+535d xDrive
+6
+51.9
+BMW
+535d xDrive
+6
+51.9
+BMW
+535d xDrive
+6
+51.9
+BMW
+535d xDrive
+6
+51.9
+BMW
+535d xDrive
+6
+33.5
+BMW
+535d xDrive
+6
+33.5
+BMW
+535d xDrive
+6
+33.5
+BMW
+535d xDrive
+6
+33.5
+BMW
+535d xDrive
+6
+31.6
+BMW
+535d xDrive
+6
+31.6
+BMW
+535d xDrive
+6
+31.6
+BMW
+535d xDrive
+6
+31.6
+BMW
+535d xDrive
+6
+52.4
+BMW
+535d xDrive
+6
+52.4
+BMW
+535d xDrive
+6
+52.4
+BMW
+535d xDrive
+6
+52.4
+BMW
+535d xDrive
+6
+33.5
+BMW
+535d xDrive
+6
+33.5
+BMW
+535d xDrive
+6
+33.5
+BMW
+535d xDrive
+6
+33.5
+BMW
+535d xDrive
+6
+55
+BMW
+535d xDrive
+6
+55
+BMW
+535d xDrive
+6
+55
+BMW
+535d xDrive
+6
+55
+BMW
+535d xDrive
+6
+33.1
+BMW
+535d xDrive
+6
+33.1
+BMW
+535d xDrive
+6
+33.1
+BMW
+535d xDrive
+6
+33.1
+BMW
+535d xDrive
+6
+51.9
+BMW
+535d xDrive
+6
+51.9
+BMW
+535d xDrive
+6
+51.9
+BMW
+535d xDrive
+6
+51.9
+BMW
+535i
+6
+26.5
+BMW
+535i
+6
+42.8
+BMW
+535i
+6
+26.4
+BMW
+535i
+6
+41.8
+BMW
+535i
+6
+24.3
+BMW
+535i
+6
+40.9
+BMW
+535i
+6
+22.9
+BMW
+535i
+6
+40.9
+BMW
+535i
+6
+26.9
+BMW
+535i
+6
+44.2
+BMW
+535i
+6
+40.9
+BMW
+535i
+6
+23.3
+BMW
+535i
+6
+23.3
+BMW
+535i
+6
+39.8
+BMW
+535i
+6
+25.1
+BMW
+535i
+6
+44.3
+BMW
+535i
+6
+24.5
+BMW
+535i
+6
+42
+BMW
+535i Gran Turismo
+6
+37.7
+BMW
+535i Gran Turismo
+6
+24.4
+BMW
+535i Gran Turismo
+6
+23.7
+BMW
+535i Gran Turismo
+6
+38.8
+BMW
+535i Gran Turismo
+6
+23.5
+BMW
+535i Gran Turismo
+6
+38.8
+BMW
+535i Gran Turismo
+6
+24.3
+BMW
+535i Gran Turismo
+6
+38.3
+BMW
+535i xDrive
+6
+25.2
+BMW
+535i xDrive
+6
+39.7
+BMW
+535i xDrive
+6
+25.1
+BMW
+535i xDrive
+6
+39.4
+BMW
+535i xDrive
+6
+23.1
+BMW
+535i xDrive
+6
+39.9
+BMW
+535i xDrive
+6
+23.5
+BMW
+535i xDrive
+6
+39.3
+BMW
+535i xDrive
+6
+26.6
+BMW
+535i xDrive
+6
+42.4
+BMW
+535i xDrive
+6
+27
+BMW
+535i xDrive
+6
+41.5
+BMW
+535i xDrive
+6
+27.2
+BMW
+535i xDrive
+6
+23.7
+BMW
+535i xDrive
+6
+40
+BMW
+535i xDrive
+6
+23.7
+BMW
+535i xDrive
+6
+40.3
+BMW
+535i xDrive Gran Turismo
+6
+23.1
+BMW
+535i xDrive Gran Turismo
+6
+35.8
+BMW
+535i xDrive Gran Turismo
+6
+21.7
+BMW
+535i xDrive Gran Turismo
+6
+35.3
+BMW
+535i xDrive Gran Turismo
+6
+22.8
+BMW
+535i xDrive Gran Turismo
+6
+36.9
+BMW
+535i xDrive Gran Turismo
+6
+23.6
+BMW
+535i xDrive Gran Turismo
+6
+37.1
+BMW
+550i
+8
+21.6
+BMW
+550i
+8
+35.7
+BMW
+550i
+8
+20.1
+BMW
+550i
+8
+32.6
+BMW
+550i
+8
+35.6
+BMW
+550i
+8
+22.1
+BMW
+550i
+8
+36.1
+BMW
+550i
+8
+20.6
+BMW
+550i
+8
+35.9
+BMW
+550i Gran Turismo
+8
+20.4
+BMW
+550i Gran Turismo
+8
+32.6
+BMW
+550i Gran Turismo
+8
+32.4
+BMW
+550i Gran Turismo
+8
+19.2
+BMW
+550i Gran Turismo
+8
+20.7
+BMW
+550i Gran Turismo
+8
+32.8
+BMW
+550i Gran Turismo
+8
+19.5
+BMW
+550i Gran Turismo
+8
+32.3
+BMW
+550i xDrive
+8
+34.8
+BMW
+550i xDrive
+8
+21.2
+BMW
+550i xDrive
+8
+34.4
+BMW
+550i xDrive
+8
+19.8
+BMW
+550i xDrive
+8
+34.6
+BMW
+550i xDrive
+8
+21.2
+BMW
+550i xDrive
+8
+19.8
+BMW
+550i xDrive
+8
+34.2
+BMW
+550i xDrive Gran Turismo
+8
+18.8
+BMW
+550i xDrive Gran Turismo
+8
+31.3
+BMW
+550i xDrive Gran Turismo
+8
+19.2
+BMW
+550i xDrive Gran Turismo
+8
+18.1
+BMW
+550i xDrive Gran Turismo
+8
+31.3
+BMW
+550i xDrive Gran Turismo
+8
+19.8
+BMW
+550i xDrive Gran Turismo
+8
+31.7
+BMW
+550i xDrive Gran Turismo
+8
+19.5
+BMW
+550i xDrive Gran Turismo
+8
+32.3
+BMW
+640i Convertible
+6
+26.1
+BMW
+640i Convertible
+6
+41.4
+BMW
+640i Convertible
+6
+25.9
+BMW
+640i Convertible
+6
+40.8
+BMW
+640i Convertible
+6
+23.9
+BMW
+640i Convertible
+6
+41.7
+BMW
+640i Convertible
+6
+23.8
+BMW
+640i Convertible
+6
+41
+BMW
+640i Convertible
+6
+26.5
+BMW
+640i Convertible
+6
+42.7
+BMW
+640i Convertible
+6
+26.6
+BMW
+640i Convertible
+6
+41.6
+BMW
+640i Convertible
+6
+26.5
+BMW
+640i Convertible
+6
+24.3
+BMW
+640i Convertible
+6
+41.6
+BMW
+640i Convertible
+6
+24.6
+BMW
+640i Convertible
+6
+42.4
+BMW
+640i Coupe
+6
+26
+BMW
+640i Coupe
+6
+42.6
+BMW
+640i Coupe
+6
+26.1
+BMW
+640i Coupe
+6
+42
+BMW
+640i Coupe
+6
+24
+BMW
+640i Coupe
+6
+41.5
+BMW
+640i Coupe
+6
+24.5
+BMW
+640i Coupe
+6
+42
+BMW
+640i Coupe
+6
+27.6
+BMW
+640i Coupe
+6
+43.7
+BMW
+640i Coupe
+6
+27
+BMW
+640i Coupe
+6
+27
+BMW
+640i Coupe
+6
+43
+BMW
+640i Coupe
+6
+27.1
+BMW
+640i Coupe
+6
+25.2
+BMW
+640i Coupe
+6
+42.6
+BMW
+640i Coupe
+6
+25.1
+BMW
+640i Coupe
+6
+41.6
+BMW
+640i xDrive Convertible
+6
+24.7
+BMW
+640i xDrive Convertible
+6
+39.7
+BMW
+640i xDrive Convertible
+6
+39.9
+BMW
+640i xDrive Convertible
+6
+22.9
+BMW
+640i xDrive Convertible
+6
+39.1
+BMW
+640i xDrive Convertible
+6
+24.6
+BMW
+640i xDrive Convertible
+6
+38.2
+BMW
+640i xDrive Convertible
+6
+23.1
+BMW
+640i xDrive Convertible
+6
+25.4
+BMW
+640i xDrive Convertible
+6
+40.5
+BMW
+640i xDrive Convertible
+6
+23.4
+BMW
+640i xDrive Convertible
+6
+40.3
+BMW
+640i xDrive Convertible
+6
+24.5
+BMW
+640i xDrive Convertible
+6
+39.7
+BMW
+640i xDrive Convertible
+6
+23.5
+BMW
+640i xDrive Convertible
+6
+40.4
+BMW
+640i xDrive Coupe
+6
+25.1
+BMW
+640i xDrive Coupe
+6
+40.5
+BMW
+640i xDrive Coupe
+6
+23.1
+BMW
+640i xDrive Coupe
+6
+40
+BMW
+640i xDrive Coupe
+6
+40.8
+BMW
+640i xDrive Coupe
+6
+23.7
+BMW
+640i xDrive Coupe
+6
+24.3
+BMW
+640i xDrive Coupe
+6
+41.9
+BMW
+650i Convertible
+8
+22
+BMW
+650i Convertible
+8
+35.2
+BMW
+650i Convertible
+8
+19.4
+BMW
+650i Convertible
+8
+33.2
+BMW
+650i Coupe
+8
+34.7
+BMW
+650i Coupe
+8
+21.2
+BMW
+650i Coupe
+8
+21.3
+BMW
+650i Coupe
+8
+34.7
+BMW
+650i Coupe
+8
+21.3
+BMW
+650i xDrive Convertible
+8
+19.4
+BMW
+650i xDrive Convertible
+8
+33.7
+BMW
+650i xDrive Convertible
+8
+18.9
+BMW
+650i xDrive Convertible
+8
+33.6
+BMW
+650i xDrive Coupe
+8
+21
+BMW
+650i xDrive Coupe
+8
+33
+BMW
+650i xDrive Coupe
+8
+19.4
+BMW
+650i xDrive Coupe
+8
+33.6
+BMW
+740Ld xDrive
+6
+30.4
+BMW
+740Ld xDrive
+6
+30.4
+BMW
+740Ld xDrive
+6
+30.4
+BMW
+740Ld xDrive
+6
+30.4
+BMW
+740Ld xDrive
+6
+47.1
+BMW
+740Ld xDrive
+6
+47.1
+BMW
+740Ld xDrive
+6
+47.1
+BMW
+740Ld xDrive
+6
+47.1
+BMW
+740Ld xDrive
+6
+28.2
+BMW
+740Ld xDrive
+6
+28.2
+BMW
+740Ld xDrive
+6
+28.2
+BMW
+740Ld xDrive
+6
+28.2
+BMW
+740Ld xDrive
+6
+28.6
+BMW
+740Ld xDrive
+6
+28.6
+BMW
+740Ld xDrive
+6
+28.6
+BMW
+740Ld xDrive
+6
+28.6
+BMW
+740Ld xDrive
+6
+46.5
+BMW
+740Ld xDrive
+6
+46.5
+BMW
+740Ld xDrive
+6
+46.5
+BMW
+740Ld xDrive
+6
+46.5
+BMW
+740Li
+6
+40.4
+BMW
+740Li
+6
+23.7
+BMW
+740Li
+6
+24.1
+BMW
+740Li
+6
+39.3
+BMW
+740Li
+6
+24.7
+BMW
+740Li
+6
+40.4
+BMW
+740Li
+6
+23.7
+BMW
+740Li
+6
+40.3
+BMW
+740Li xDrive
+6
+24.5
+BMW
+740Li xDrive
+6
+39
+BMW
+740Li xDrive
+6
+23.4
+BMW
+740Li xDrive
+6
+39.1
+BMW
+750i
+8
+20.7
+BMW
+750i
+8
+34.2
+BMW
+750i
+8
+20.1
+BMW
+750i
+8
+34.3
+BMW
+750i
+8
+22
+BMW
+750i
+8
+35.2
+BMW
+750i
+8
+20.1
+BMW
+750i
+8
+34.6
+BMW
+750Li
+8
+34.2
+BMW
+750Li
+8
+20.2
+BMW
+750Li
+8
+18.8
+BMW
+750Li
+8
+32.4
+BMW
+750Li
+8
+20.9
+BMW
+750Li
+8
+34.8
+BMW
+750Li
+8
+20.1
+BMW
+750Li
+8
+34.8
+BMW
+750Li xDrive
+8
+20.7
+BMW
+750Li xDrive
+8
+33.5
+BMW
+750Li xDrive
+8
+19.4
+BMW
+750Li xDrive
+8
+33.1
+BMW
+750Li xDrive
+8
+19.8
+BMW
+750Li xDrive
+8
+33.6
+BMW
+750Li xDrive
+8
+33.7
+BMW
+750Li xDrive
+8
+19.8
+BMW
+760Li
+12
+15.5
+BMW
+760Li
+12
+28.2
+BMW
+ActiveHybrid 3
+6
+44.5
+BMW
+ActiveHybrid 3
+6
+31.2
+BMW
+ActiveHybrid 3
+6
+33.8
+BMW
+ActiveHybrid 3
+6
+48.5
+BMW
+ActiveHybrid 5
+6
+25.3
+BMW
+ActiveHybrid 5
+6
+22.8
+BMW
+ActiveHybrid 5
+6
+27.3
+BMW
+ActiveHybrid 5
+6
+28.7
+BMW
+ActiveHybrid 5
+6
+41.9
+BMW
+ActiveHybrid 5
+6
+42.1
+BMW
+ActiveHybrid 5
+6
+27.1
+BMW
+ActiveHybrid 5
+6
+27.9
+BMW
+ActiveHybrid 7
+6
+27.2
+BMW
+ActiveHybrid 7
+6
+22.8
+BMW
+ActiveHybrid 7
+6
+23
+BMW
+ActiveHybrid 7
+6
+43.5
+BMW
+ActiveHybrid 7
+6
+27.9
+BMW
+ActiveHybrid 7
+6
+42.8
+BMW
+ActiveHybrid 7
+6
+28.6
+BMW
+ActiveHybrid 7
+6
+43.1
+BMW
+Alpina B7 LWB
+8
+20.2
+BMW
+Alpina B7 LWB
+8
+32
+BMW
+Alpina B7 LWB
+8
+19.1
+BMW
+Alpina B7 LWB
+8
+31.4
+BMW
+Alpina B7 LWB xDrive
+8
+18.1
+BMW
+Alpina B7 LWB xDrive
+8
+31.4
+BMW
+M235i
+6
+26.3
+BMW
+M235i
+6
+43.5
+BMW
+M235i
+6
+26.2
+BMW
+M235i
+6
+43.7
+BMW
+M235i
+6
+26.2
+BMW
+M235i
+6
+43.3
+BMW
+M235i
+6
+25.4
+BMW
+M235i
+6
+43.3
+BMW
+M235i
+6
+40.3
+BMW
+M235i
+6
+25.4
+BMW
+M235i
+6
+38.4
+BMW
+M235i
+6
+24.6
+BMW
+M235i xDrive
+6
+26.1
+BMW
+M235i xDrive
+6
+41.8
+BMW
+M235i xDrive
+6
+25.8
+BMW
+M235i xDrive
+6
+41.4
+BMW
+M235i xDrive
+6
+25.5
+BMW
+M235i xDrive
+6
+40.9
+BMW
+M235i xDrive
+6
+24.4
+BMW
+M235i xDrive
+6
+40.7
+BMW
+M3
+6
+18.3
+BMW
+M3
+6
+30.3
+BMW
+M3
+6
+21.4
+BMW
+M3
+6
+36.3
+BMW
+M4 Convertible
+6
+24.2
+BMW
+M4 Convertible
+6
+38.6
+BMW
+M4 Convertible
+6
+18.1
+BMW
+M4 Convertible
+6
+30.8
+BMW
+M4 Convertible
+6
+20.8
+BMW
+M4 Convertible
+6
+36.4
+BMW
+M4 Coupe
+6
+37.8
+BMW
+M4 Coupe
+6
+24
+BMW
+M5
+8
+18.2
+BMW
+M5
+8
+30
+BMW
+M5
+8
+19.7
+BMW
+M5
+8
+32.2
+BMW
+M5
+8
+14.7
+BMW
+M5
+8
+25.2
+BMW
+M6 Convertible
+8
+17.9
+BMW
+M6 Convertible
+8
+30
+BMW
+M6 Convertible
+8
+19.8
+BMW
+M6 Convertible
+8
+32.4
+BMW
+M6 Convertible
+8
+14.5
+BMW
+M6 Convertible
+8
+24.9
+BMW
+X1 xDrive35i
+6
+22.4
+BMW
+X1 xDrive35i
+6
+37.1
+BMW
+X3 xDrive 28d
+4
+36.1
+BMW
+X3 xDrive 28d
+4
+36.1
+BMW
+X3 xDrive 28d
+4
+36.1
+BMW
+X3 xDrive 28d
+4
+36.1
+BMW
+X3 xDrive 28d
+4
+47.8
+BMW
+X3 xDrive 28d
+4
+47.8
+BMW
+X3 xDrive 28d
+4
+47.8
+BMW
+X3 xDrive 28d
+4
+47.8
+BMW
+X3 xDrive 28d
+4
+34.5
+BMW
+X3 xDrive 28d
+4
+34.5
+BMW
+X3 xDrive 28d
+4
+34.5
+BMW
+X3 xDrive 28d
+4
+34.5
+BMW
+X3 xDrive 28d
+4
+48.4
+BMW
+X3 xDrive 28d
+4
+48.4
+BMW
+X3 xDrive 28d
+4
+48.4
+BMW
+X3 xDrive 28d
+4
+48.4
+BMW
+X3 xDrive28i
+4
+27.4
+BMW
+X3 xDrive28i
+4
+39.3
+BMW
+X3 xDrive28i
+4
+26.2
+BMW
+X3 xDrive28i
+4
+39.2
+BMW
+X3 xDrive35i
+6
+23.2
+BMW
+X3 xDrive35i
+6
+36.1
+BMW
+X3 xDrive35i
+6
+35.2
+BMW
+X3 xDrive35i
+6
+23.8
+BMW
+X3 xDrive35i
+6
+23.4
+BMW
+X3 xDrive35i
+6
+38.7
+BMW
+X3 xDrive35i
+6
+23.4
+BMW
+X3 xDrive35i
+6
+36.6
+BMW
+X3 xDrive35i
+6
+36.7
+BMW
+X3 xDrive35i
+6
+22.8
+BMW
+X3 xDrive35i
+6
+35.5
+BMW
+X3 xDrive35i
+6
+23.4
+BMW
+X3 xDrive35i
+6
+23.8
+BMW
+X3 xDrive35i
+6
+36.5
+BMW
+X4 xDrive35i
+6
+24
+BMW
+X4 xDrive35i
+6
+38.4
+BMW
+X4 xDrive35i
+6
+22.6
+BMW
+X4 xDrive35i
+6
+38.1
+BMW
+X5 sDrive35i
+6
+24.4
+BMW
+X5 sDrive35i
+6
+38.3
+BMW
+X5 sDrive35i
+6
+23
+BMW
+X5 sDrive35i
+6
+38.4
+BMW
+X5 xDrive 35d
+6
+31.2
+BMW
+X5 xDrive 35d
+6
+31.2
+BMW
+X5 xDrive 35d
+6
+31.2
+BMW
+X5 xDrive 35d
+6
+31.2
+BMW
+X5 xDrive 35d
+6
+46.2
+BMW
+X5 xDrive 35d
+6
+46.2
+BMW
+X5 xDrive 35d
+6
+46.2
+BMW
+X5 xDrive 35d
+6
+46.2
+BMW
+X5 xDrive 35d
+6
+26.4
+BMW
+X5 xDrive 35d
+6
+26.4
+BMW
+X5 xDrive 35d
+6
+26.4
+BMW
+X5 xDrive 35d
+6
+26.4
+BMW
+X5 xDrive 35d
+6
+27.8
+BMW
+X5 xDrive 35d
+6
+27.8
+BMW
+X5 xDrive 35d
+6
+27.8
+BMW
+X5 xDrive 35d
+6
+27.8
+BMW
+X5 xDrive 35d
+6
+26.9
+BMW
+X5 xDrive 35d
+6
+26.9
+BMW
+X5 xDrive 35d
+6
+26.9
+BMW
+X5 xDrive 35d
+6
+26.9
+BMW
+X5 xDrive 35d
+6
+30.1
+BMW
+X5 xDrive 35d
+6
+30.1
+BMW
+X5 xDrive 35d
+6
+30.1
+BMW
+X5 xDrive 35d
+6
+30.1
+BMW
+X5 xDrive 35d
+6
+46.2
+BMW
+X5 xDrive 35d
+6
+46.2
+BMW
+X5 xDrive 35d
+6
+46.2
+BMW
+X5 xDrive 35d
+6
+46.2
+BMW
+X5 xDrive 50i
+8
+18.8
+BMW
+X5 xDrive 50i
+8
+30.1
+BMW
+X5 xDrive 50i
+8
+17.8
+BMW
+X5 xDrive35i
+6
+23.8
+BMW
+X5 xDrive35i
+6
+37.8
+BMW
+X5 xDrive35i
+6
+37.5
+BMW
+X5 xDrive35i
+6
+22.3
+BMW
+X5 xDrive35i
+6
+36.5
+BMW
+X6 xDrive 35i
+6
+22
+BMW
+X6 xDrive 35i
+6
+35
+BMW
+X6 xDrive 35i
+6
+21.1
+BMW
+X6 xDrive 35i
+6
+22.6
+BMW
+X6 xDrive 35i
+6
+35.8
+BMW
+X6 xDrive 35i
+6
+21.1
+BMW
+X6 xDrive 50i
+8
+18.9
+BMW
+X6 xDrive 50i
+8
+29.6
+BMW
+X6 xDrive 50i
+8
+17.6
+BMW
+Z4 sDrive28i
+4
+27.9
+BMW
+Z4 sDrive28i
+4
+46.2
+BMW
+Z4 sDrive28i
+4
+28
+BMW
+Z4 sDrive28i
+4
+47.6
+BMW
+Z4 sDrive28i
+4
+28.1
+BMW
+Z4 sDrive28i
+4
+47.6
+BMW
+Z4 sDrive35is
+6
+37.6
+BMW
+Z4 sDrive35is
+6
+23.7
+BMW
+Z4 sDrive35is
+6
+19.5
+BMW
+Z4 sDrive35is
+6
+29
+Mini
+John Cooper Works
+4
+45
+Mini
+John Cooper Works
+4
+30.2
+Mini
+John Cooper Works
+4
+29.3
+Mini
+John Cooper Works
+4
+44.6
+Mini
+John Cooper Works
+4
+31.3
+Mini
+John Cooper Works
+4
+47.5
+Mini
+John Cooper Works All4 Countryman
+4
+27.4
+Mini
+John Cooper Works All4 Countryman
+4
+40.2
+Mini
+John Cooper Works All4 Countryman
+4
+29.2
+Mini
+John Cooper Works All4 Countryman
+4
+42.9
+Mini
+John Cooper Works Convertible
+4
+30.7
+Mini
+John Cooper Works Convertible
+4
+46.3
+Mini
+Mini Cooper
+4
+36.4
+Mini
+Mini Cooper
+4
+51.3
+Mini
+Mini Cooper
+4
+35.2
+Mini
+Mini Cooper
+4
+50.4
+Mini
+Mini Cooper
+4
+38.6
+Mini
+Mini Cooper
+4
+54
+Mini
+Mini Cooper
+4
+50.9
+Mini
+Mini Cooper
+4
+38
+Mini
+Mini Cooper Convertible
+4
+45.7
+Mini
+Mini Cooper Convertible
+4
+32.6
+Mini
+Mini Cooper Convertible
+4
+46.7
+Mini
+Mini Cooper Convertible
+4
+32.1
+Mini
+Mini Cooper Convertible
+4
+35.4
+Mini
+Mini Cooper Convertible
+4
+51
+Mini
+Mini Cooper Convertible
+4
+50
+Mini
+Mini Cooper Convertible
+4
+37.3
+Mini
+Mini Cooper Convertible
+4
+36.2
+Mini
+Mini Cooper Convertible
+4
+52.1
+Mini
+Mini Cooper Countryman
+4
+42
+Mini
+Mini Cooper Countryman
+4
+32.1
+Mini
+Mini Cooper Countryman
+4
+45.7
+Mini
+Mini Cooper Countryman
+4
+34.4
+Mini
+Mini Cooper S
+4
+33
+Mini
+Mini Cooper S
+4
+47.8
+Mini
+Mini Cooper S
+4
+33.2
+Mini
+Mini Cooper S
+4
+47.4
+Mini
+Mini Cooper S
+4
+34.2
+Mini
+Mini Cooper S
+4
+49.3
+Mini
+Mini Cooper S
+4
+34.5
+Mini
+Mini Cooper S
+4
+50.4
+Mini
+Mini Cooper S (3-doors)
+4
+46.4
+Mini
+Mini Cooper S (3-doors)
+4
+34
+Mini
+Mini Cooper S (3-doors)
+4
+47.6
+Mini
+Mini Cooper S (3-doors)
+4
+32.2
+Mini
+Mini Cooper S (3-doors)
+4
+30.3
+Mini
+Mini Cooper S (3-doors)
+4
+48.1
+Mini
+Mini Cooper S (5-doors)
+4
+33.6
+Mini
+Mini Cooper S (5-doors)
+4
+46.9
+Mini
+Mini Cooper S (5-doors)
+4
+47.1
+Mini
+Mini Cooper S (5-doors)
+4
+31.8
+Mini
+Mini Cooper S (5-doors)
+4
+29.5
+Mini
+Mini Cooper S (5-doors)
+4
+45.7
+Mini
+Mini Cooper S Convertible
+4
+32.1
+Mini
+Mini Cooper S Convertible
+4
+46
+Mini
+Mini Cooper S Convertible
+4
+33.3
+Mini
+Mini Cooper S Convertible
+4
+50.2
+Mini
+Mini Cooper S Convertible
+4
+34.5
+Mini
+Mini Cooper S Convertible
+4
+50.7
+Mini
+Mini Cooper S Convertible
+4
+33.2
+Mini
+Mini Cooper S Convertible
+4
+48.5
+Mini
+Mini Cooper S Countryman
+4
+45.3
+Mini
+Mini Cooper S Countryman
+4
+32.4
+Mini
+Mini Cooper S Countryman
+4
+45.5
+Mini
+Mini Cooper S Countryman
+4
+33.9
+Mini
+Mini Cooper S Countryman All4
+4
+42.8
+Mini
+Mini Cooper S Countryman All4
+4
+30
+Mini
+Mini Cooper S Countryman All4
+4
+43.7
+Mini
+Mini Cooper S Countryman All4
+4
+32.7
+BUGATTI
+Veyron Super Sport
+16
+10
+BUGATTI
+Veyron Super Sport
+16
+13.9
+BUGATTI
+Veyron Super Sport
+16
+17.9
+BUGATTI
+Veyron Super Sport
+16
+8.9
+BUGATTI
+Veyron Super Sport
+16
+9.8
+Chrysler
+200
+4
+29.4
+Chrysler
+200
+4
+51.7
+Chrysler
+200
+4
+29.4
+Chrysler
+200
+4
+52.7
+Chrysler
+200
+4
+21.4
+Chrysler
+200
+4
+38.4
+Chrysler
+200
+4
+38.7
+Chrysler
+200
+4
+21.8
+Chrysler
+200
+6
+17.6
+Chrysler
+200
+6
+32.2
+Chrysler
+200
+6
+32.6
+Chrysler
+200
+6
+23.9
+Chrysler
+200
+6
+44.4
+Chrysler
+200 AWD
+6
+22.9
+Chrysler
+200 AWD
+6
+40.6
+Chrysler
+200 AWD
+6
+23.1
+Chrysler
+200 AWD
+6
+40.4
+Chrysler
+200 AWD
+6
+17.3
+Chrysler
+200 AWD
+6
+30.4
+Chrysler
+200 AWD
+6
+17.2
+Chrysler
+200 AWD
+6
+30.1
+Chrysler
+300
+6
+15.5
+Chrysler
+300
+6
+26.2
+Chrysler
+300 Awd
+8
+18.1
+Chrysler
+300 Awd
+8
+32.7
+Chrysler
+300 Awd
+8
+32.5
+Chrysler
+300 Awd
+8
+18.2
+Chrysler
+300 AWD
+6
+16.8
+Chrysler
+300 AWD
+6
+27.8
+Chrysler
+Town & Country
+6
+15.1
+Chrysler
+Town & Country
+6
+24.8
+Chrysler
+Town & Country
+6
+15.6
+Chrysler
+Town & Country
+6
+25.5
+Chrysler
+Town & Country
+6
+21.4
+Chrysler
+Town & Country
+6
+35
+Chrysler
+Town & Country
+6
+35
+Chrysler
+Town & Country
+6
+22.1
+Chrysler
+Town & Country
+6
+36
+Dodge
+Avenger
+6
+20.6
+Dodge
+Avenger
+6
+34.9
+Dodge
+Avenger
+6
+20.2
+Dodge
+Avenger
+6
+33
+Dodge
+Challenger
+8
+17.3
+Dodge
+Challenger
+8
+31.4
+Dodge
+Challenger
+8
+18.6
+Dodge
+Challenger
+8
+34.6
+Dodge
+Challenger
+8
+19.8
+Dodge
+Challenger
+8
+35
+Dodge
+Challenger
+8
+35.4
+Dodge
+Challenger
+8
+18.7
+Dodge
+Challenger
+8
+32.6
+Dodge
+Challenger SRT8
+8
+16
+Dodge
+Challenger SRT8
+8
+19.5
+Dodge
+Challenger SRT8
+8
+27.7
+Dodge
+Challenger SRT8
+8
+16.1
+Dodge
+Challenger SRT8
+8
+28.8
+Dodge
+Challenger SRT8
+8
+20.2
+Dodge
+Charger
+6
+21.5
+Dodge
+Charger
+6
+36.9
+Dodge
+Charger
+6
+23.9
+Dodge
+Charger
+6
+43.1
+Dodge
+Charger
+6
+31.7
+Dodge
+Charger
+6
+17.3
+Dodge
+Charger
+8
+18.6
+Dodge
+Charger
+8
+34.2
+Dodge
+Charger AWD
+6
+38.1
+Dodge
+Charger AWD
+6
+23
+Dodge
+Dart
+4
+22.2
+Dodge
+Dart
+4
+22.2
+Dodge
+Dart
+4
+35.4
+Dodge
+Dart
+4
+35.2
+Dodge
+Dart
+4
+35.1
+Dodge
+Dart
+4
+51.9
+Dodge
+Dart
+4
+35.1
+Dodge
+Dart
+4
+52.2
+Dodge
+Dart
+4
+58
+Dodge
+Dart
+4
+36
+Dodge
+Dart
+4
+32.2
+Dodge
+Dart
+4
+51.4
+Dodge
+Dart
+4
+32.1
+Dodge
+Dart
+4
+51.5
+Dodge
+Dart
+4
+36.3
+Dodge
+Dart
+4
+56.6
+Dodge
+Dart
+4
+56.5
+Dodge
+Dart
+4
+36.1
+Dodge
+Dart
+4
+29.1
+Dodge
+Dart
+4
+47
+Dodge
+Dart
+4
+29.5
+Dodge
+Dart
+4
+47.3
+Dodge
+Dart
+4
+28.4
+Dodge
+Dart
+4
+44.2
+Dodge
+Dart
+4
+28.2
+Dodge
+Dart
+4
+44.3
+Dodge
+Dart
+4
+49.8
+Dodge
+Dart
+4
+28.5
+Dodge
+Dart
+4
+28.7
+Dodge
+Dart
+4
+30.1
+Dodge
+Dart
+4
+49.7
+Dodge
+Dart
+4
+29.3
+Dodge
+Dart
+4
+48.8
+Dodge
+Durango RWD
+6
+16.2
+Dodge
+Durango RWD
+6
+25.3
+Dodge
+Durango RWD
+6
+16.4
+Dodge
+Durango RWD
+6
+25.9
+Dodge
+Durango RWD
+6
+22.3
+Dodge
+Durango RWD
+6
+34.5
+Dodge
+Durango RWD
+6
+22.5
+Dodge
+Durango RWD
+6
+34.8
+Dodge
+Durango RWD
+8
+17.1
+Dodge
+Durango RWD
+8
+31.1
+Dodge
+Durango RWD
+8
+31.5
+Dodge
+Durango RWD
+8
+17.4
+Dodge
+Durango RWD
+8
+31
+Dodge
+Journey
+6
+15.3
+Dodge
+Journey
+6
+25.1
+Dodge
+RAM PICKUP
+8
+16.5
+Dodge
+RAM PICKUP
+8
+25.6
+Fiat
+500
+4
+38.8
+Fiat
+500
+4
+53.3
+Fiat
+500
+4
+40.6
+Fiat
+500
+4
+56.8
+Fiat
+500
+4
+35.1
+Fiat
+500
+4
+48.3
+Fiat
+500 Abarth
+4
+36
+Fiat
+500 Abarth
+4
+47.8
+Fiat
+500L
+4
+46.3
+Fiat
+500L
+4
+30.3
+Fiat
+500L
+4
+32.7
+Fiat
+500L
+4
+46.5
+Fiat
+500L
+4
+32.7
+Fiat
+500L
+4
+46.3
+Jeep
+Cherokee
+4
+26.2
+Jeep
+Cherokee
+4
+38.2
+Jeep
+Cherokee
+4
+26.2
+Jeep
+Cherokee
+4
+38
+Jeep
+Cherokee
+4
+18.3
+Jeep
+Cherokee
+4
+29.6
+Jeep
+Cherokee 4X4
+4
+35.2
+Jeep
+Cherokee 4X4
+4
+34.9
+Jeep
+Cherokee 4X4
+4
+24.5
+Jeep
+Cherokee 4X4
+4
+26.2
+Jeep
+Cherokee 4X4
+4
+39.7
+Jeep
+Cherokee 4X4
+4
+26.6
+Jeep
+Cherokee 4X4
+4
+39.5
+Jeep
+Cherokee 4X4
+6
+25.6
+Jeep
+Cherokee 4X4
+6
+38.6
+Jeep
+Cherokee 4X4
+6
+25.6
+Jeep
+Cherokee 4X4
+6
+38.9
+Jeep
+Cherokee 4x4 Active Drive II
+6
+23
+Jeep
+Cherokee 4x4 Active Drive II
+6
+37
+Jeep
+Cherokee 4x4 Active Drive II
+6
+23.3
+Jeep
+Cherokee FWD
+4
+43
+Jeep
+Cherokee FWD
+4
+27.3
+Jeep
+Cherokee FWD
+6
+26.1
+Jeep
+Cherokee FWD
+6
+40.4
+Jeep
+Cherokee FWD
+6
+26.2
+Jeep
+Cherokee FWD
+6
+40.8
+Jeep
+Cherokee FWD
+4
+19.2
+Jeep
+Cherokee FWD
+4
+32.4
+Jeep
+Cherokee FWD
+4
+19.3
+Jeep
+Cherokee FWD
+4
+32
+Jeep
+Cherokee Trailhawk 4X4
+6
+24.2
+Jeep
+Cherokee Trailhawk 4X4
+6
+36.6
+Jeep
+Cherokee Trailhawk 4X4
+6
+24.2
+Jeep
+Cherokee Trailhawk 4X4
+6
+36.4
+Jeep
+Compass 2WD
+4
+27.9
+Jeep
+Compass 2WD
+4
+37.3
+Jeep
+Compass 4X4
+4
+26.1
+Jeep
+Compass 4X4
+4
+37.6
+Jeep
+Compass FWD
+4
+26.4
+Jeep
+Compass FWD
+4
+38.4
+Jeep
+Grand Cherokee 4X2
+8
+30.6
+Jeep
+Grand Cherokee 4X2
+8
+17.5
+Jeep
+Grand Cherokee 4X2
+6
+28.2
+Jeep
+Grand Cherokee 4X2
+6
+28.2
+Jeep
+Grand Cherokee 4X2
+6
+28.2
+Jeep
+Grand Cherokee 4X2
+6
+42.6
+Jeep
+Grand Cherokee 4X2
+6
+42.6
+Jeep
+Grand Cherokee 4X2
+6
+42.6
+Jeep
+Grand Cherokee 4X2
+6
+27.9
+Jeep
+Grand Cherokee 4X2
+6
+27.9
+Jeep
+Grand Cherokee 4X2
+6
+27.9
+Jeep
+Grand Cherokee 4X2
+6
+42.4
+Jeep
+Grand Cherokee 4X2
+6
+42.4
+Jeep
+Grand Cherokee 4X2
+6
+42.4
+Jeep
+Grand Cherokee 4X4
+6
+16.4
+Jeep
+Grand Cherokee 4X4
+6
+24.9
+Jeep
+Grand Cherokee 4X4
+6
+16.9
+Jeep
+Grand Cherokee 4X4
+6
+25.8
+Jeep
+Grand Cherokee 4X4
+6
+21.8
+Jeep
+Grand Cherokee 4X4
+6
+34.5
+Jeep
+Grand Cherokee 4X4
+6
+33.3
+Jeep
+Grand Cherokee 4X4
+6
+21.1
+Jeep
+Grand Cherokee 4X4
+8
+16.8
+Jeep
+Grand Cherokee 4X4
+8
+27.9
+Jeep
+Grand Cherokee 4X4
+6
+26.5
+Jeep
+Grand Cherokee 4X4
+6
+26.5
+Jeep
+Grand Cherokee 4X4
+6
+26.5
+Jeep
+Grand Cherokee 4X4
+6
+26.8
+Jeep
+Grand Cherokee 4X4
+6
+26.8
+Jeep
+Grand Cherokee 4X4
+6
+26.8
+Jeep
+Grand Cherokee 4X4
+6
+39.3
+Jeep
+Grand Cherokee 4X4
+6
+39.3
+Jeep
+Grand Cherokee 4X4
+6
+39.3
+Jeep
+Grand Cherokee 4X4
+6
+39.3
+Jeep
+Grand Cherokee 4X4
+6
+39.3
+Jeep
+Grand Cherokee 4X4
+6
+39.3
+Jeep
+Grand Cherokee SRT8
+8
+15.7
+Jeep
+Grand Cherokee SRT8
+8
+25.8
+Jeep
+Patriot 2WD
+4
+43.5
+Jeep
+Patriot 2WD
+4
+29.3
+Jeep
+Patriot 2WD
+4
+41.2
+Jeep
+Patriot 2WD
+4
+28.9
+Jeep
+Patriot 4wd
+4
+25.3
+Jeep
+Patriot 4wd
+4
+31.9
+Jeep
+Wrangler 4WD
+6
+19.8
+Jeep
+Wrangler 4WD
+6
+27.8
+Jeep
+Wrangler 4WD
+6
+29.3
+Jeep
+Wrangler 4WD
+6
+20.8
+Jeep
+Wrangler 4WD
+4
+19.5
+Jeep
+Wrangler 4WD
+4
+28.7
+Jeep
+Wrangler 4WD
+6
+20.6
+Jeep
+Wrangler 4WD
+6
+29.8
+RAM
+1500 2WD
+6
+14.9
+RAM
+1500 2WD
+6
+24
+RAM
+1500 2WD
+6
+14.1
+RAM
+1500 2WD
+6
+22.3
+RAM
+1500 2WD
+6
+35.5
+RAM
+1500 2WD
+6
+23
+RAM
+1500 2WD
+6
+22.8
+RAM
+1500 2WD
+6
+35.2
+RAM
+1500 2WD
+6
+21.1
+RAM
+1500 2WD
+6
+34.5
+RAM
+1500 2WD
+6
+21.2
+RAM
+1500 2WD
+6
+34.6
+RAM
+1500 2WD
+6
+20.1
+RAM
+1500 2WD
+6
+32.3
+RAM
+1500 2WD
+8
+29.6
+RAM
+1500 2WD
+8
+30.1
+RAM
+1500 2WD
+8
+18.5
+RAM
+1500 2WD
+8
+18.6
+RAM
+1500 2WD
+8
+30.3
+RAM
+1500 2WD
+8
+17.6
+RAM
+1500 2WD
+8
+28.6
+RAM
+1500 2WD
+8
+28.4
+RAM
+1500 2WD
+8
+18.4
+RAM
+1500 2WD
+8
+18.5
+RAM
+1500 2WD
+8
+17.6
+RAM
+1500 2WD
+8
+27.5
+RAM
+1500 4X4
+6
+24.5
+RAM
+1500 4X4
+6
+24.5
+RAM
+1500 4X4
+6
+24.5
+RAM
+1500 4X4
+6
+24.6
+RAM
+1500 4X4
+6
+24.6
+RAM
+1500 4X4
+6
+24.6
+RAM
+1500 4X4
+6
+37.4
+RAM
+1500 4X4
+6
+37.4
+RAM
+1500 4X4
+6
+37.4
+RAM
+1500 4X4
+6
+37.1
+RAM
+1500 4X4
+6
+37.1
+RAM
+1500 4X4
+6
+37.1
+RAM
+5500 4X2
+6
+26.3
+RAM
+5500 4X2
+6
+26.3
+RAM
+5500 4X2
+6
+26.3
+RAM
+5500 4X2
+6
+26.3
+RAM
+5500 4X2
+6
+26.3
+RAM
+5500 4X2
+6
+26.3
+RAM
+5500 4X2
+6
+39
+RAM
+5500 4X2
+6
+39
+RAM
+5500 4X2
+6
+39
+RAM
+5500 4X2
+6
+39
+RAM
+5500 4X2
+6
+39
+RAM
+5500 4X2
+6
+39
+RAM
+6000#  4X2
+6
+39
+RAM
+6000#  4X2
+6
+39
+RAM
+6000#  4X2
+6
+39
+RAM
+6000#  4X2
+6
+25.5
+RAM
+6000#  4X2
+6
+25.5
+RAM
+6000#  4X2
+6
+25.5
+SRT
+Viper
+10
+14.4
+SRT
+Viper
+10
+25
+SRT
+Viper
+10
+18.1
+SRT
+Viper
+10
+15.2
+SRT
+Viper
+10
+28
+SRT
+Viper
+10
+19.8
+Ferrari
+458 Italia Spyder
+8
+17.1
+Ferrari
+458 Italia Spyder
+8
+23.7
+Ferrari
+458 Italia Spyder
+8
+17.8
+Ferrari
+458 Italia Spyder
+8
+23.6
+Ferrari
+458 Italia Spyder
+8
+24.1
+Ferrari
+458 Italia Spyder
+8
+14.3
+Ferrari
+458 Italia Spyder
+8
+24.3
+Ferrari
+458 Italia Spyder
+8
+15
+Ferrari
+California T
+8
+19.8
+Ferrari
+California T
+8
+31.8
+Ferrari
+California T
+8
+21
+Ferrari
+California T
+8
+31.9
+Ferrari
+California T
+8
+19
+Ferrari
+California T
+8
+31.8
+Ferrari
+California T
+8
+20.3
+Ferrari
+California T
+8
+31.8
+Ferrari
+F12 Berlinetta
+12
+14.9
+Ferrari
+F12 Berlinetta
+12
+21.9
+Ferrari
+F12 Berlinetta
+12
+15.4
+Ferrari
+F12 Berlinetta
+12
+22.3
+Ferrari
+F12 Berlinetta
+12
+13.3
+Ferrari
+F12 Berlinetta
+12
+21.8
+Ferrari
+F12 Berlinetta
+12
+14
+Ferrari
+F12 Berlinetta
+12
+21.9
+Ferrari
+FF
+12
+14
+Ferrari
+FF
+12
+22.6
+Ferrari
+FF
+12
+14.8
+Ferrari
+FF
+12
+22.9
+Ferrari
+FF
+12
+12.5
+Ferrari
+FF
+12
+22.7
+Ferrari
+FF
+12
+22.9
+Ferrari
+FF
+12
+13.2
+Fiat
+Alfa 4c
+4
+27
+Fiat
+Alfa 4c
+4
+28.8
+Fiat
+Alfa 4c
+4
+45.7
+Fiat
+Alfa 4c
+4
+28.7
+Fiat
+Alfa 4c
+4
+32.3
+Ford
+C-Max (PHEV)
+4
+51.4
+Ford
+C-Max (PHEV)
+4
+55
+Ford
+C-Max (PHEV)
+4
+135
+Ford
+C-Max (PHEV)
+4
+116.4
+Ford
+C-Max HEV FWD
+4
+52.4
+Ford
+C-Max HEV FWD
+4
+57.3
+Ford
+Escape AWD
+4
+28.1
+Ford
+Escape AWD
+4
+41.4
+Ford
+Escape AWD
+4
+40.9
+Ford
+Escape AWD
+4
+28.3
+Ford
+Escape FWD
+4
+44.7
+Ford
+Escape FWD
+4
+28.9
+Ford
+Escape FWD
+4
+27.4
+Ford
+Escape FWD
+4
+41.6
+Ford
+Escape FWD
+4
+40.3
+Ford
+Escape FWD
+4
+26.7
+Ford
+Escape FWD
+4
+27.5
+Ford
+Escape FWD
+4
+41.8
+Ford
+Escape FWD
+4
+27.2
+Ford
+Escape FWD
+4
+41.1
+Ford
+Escape FWD
+4
+26.4
+Ford
+Escape FWD
+4
+39.5
+Ford
+ESCAPE FWD
+4
+27.4
+Ford
+ESCAPE FWD
+4
+43.5
+Ford
+ESCAPE FWD
+4
+27
+Ford
+ESCAPE FWD
+4
+42.5
+Ford
+Expedition
+6
+17.8
+Ford
+Expedition
+6
+25.1
+Ford
+Expedition 4x2
+6
+19.6
+Ford
+Expedition 4x2
+6
+30.5
+Ford
+Expedition 4x4
+6
+18.2
+Ford
+Expedition 4x4
+6
+28.2
+Ford
+Expedition 4x4
+6
+18.1
+Ford
+Expedition 4x4
+6
+28
+Ford
+Expedition 4x4
+6
+17.8
+Ford
+Expedition 4x4
+6
+27
+Ford
+Expedition EL 4x2
+6
+18.2
+Ford
+Expedition EL 4x2
+6
+28.2
+Ford
+Expedition EL 4x2
+6
+18.6
+Ford
+Expedition EL 4x2
+6
+29.5
+Ford
+Expedition EL 4x2
+6
+17.7
+Ford
+Expedition EL 4x2
+6
+27.7
+Ford
+Expedition EL 4x2
+6
+18.5
+Ford
+Expedition EL 4x2
+6
+27.8
+Ford
+Expedition EL 4x4
+6
+17.8
+Ford
+Expedition EL 4x4
+6
+26.9
+Ford
+EXPLORER 4WD
+6
+31.7
+Ford
+EXPLORER 4WD
+6
+20.6
+Ford
+EXPLORER 4WD
+6
+15.3
+Ford
+EXPLORER 4WD
+6
+23.2
+Ford
+Explorer FWD
+4
+25.2
+Ford
+Explorer FWD
+4
+39.5
+Ford
+Explorer FWD
+4
+39.2
+Ford
+Explorer FWD
+4
+22.7
+Ford
+Explorer FWD
+4
+32.2
+Ford
+EXPLORER FWD FFV
+6
+15.8
+Ford
+EXPLORER FWD FFV
+6
+25.2
+Ford
+EXPLORER FWD FFV
+6
+21.4
+Ford
+EXPLORER FWD FFV
+6
+33.7
+Ford
+FIESTA
+4
+51.1
+Ford
+FIESTA
+4
+35.8
+Ford
+FIESTA
+4
+52.1
+Ford
+FIESTA
+4
+35.2
+Ford
+FIESTA
+4
+36.2
+Ford
+FIESTA
+4
+54.3
+Ford
+FIESTA SFE
+3
+41.5
+Ford
+FIESTA SFE
+3
+61.1
+Ford
+FIESTA SFE
+3
+41.1
+Ford
+Fiesta ST
+4
+34
+Ford
+Fiesta ST
+4
+48.9
+Ford
+FLEX
+6
+19.7
+Ford
+FLEX
+6
+31.5
+FORD
+FLEX
+6
+19.1
+FORD
+FLEX
+6
+30
+FORD
+FLEX
+6
+19.2
+FORD
+FLEX
+6
+29.4
+Ford
+Fusion (HEV)
+4
+58.5
+Ford
+Fusion (HEV)
+4
+60.6
+Ford
+Fusion AWD
+4
+27.6
+Ford
+Fusion AWD
+4
+44.2
+Ford
+Fusion AWD
+4
+28.5
+Ford
+Fusion AWD
+4
+46.6
+Ford
+Fusion AWD
+4
+28.6
+Ford
+Fusion AWD
+4
+47.1
+Ford
+Fusion AWD
+4
+26
+Ford
+Fusion AWD
+4
+40.9
+Ford
+Fusion FWD
+4
+27.4
+Ford
+Fusion FWD
+4
+44
+Ford
+Fusion FWD
+4
+28.5
+Ford
+Fusion FWD
+4
+48.1
+Ford
+Fusion FWD
+4
+28.2
+Ford
+Fusion FWD
+4
+46.8
+Ford
+Fusion FWD
+4
+46.3
+Ford
+Fusion FWD
+4
+28.5
+Ford
+Fusion FWD
+4
+30.3
+Ford
+Fusion FWD
+4
+52.2
+Ford
+Fusion FWD
+4
+32
+Ford
+Fusion FWD
+4
+52.9
+Ford
+MKX FWD
+6
+22
+Ford
+MKX FWD
+6
+33.3
+Ford
+MKX FWD
+6
+21.3
+Ford
+MKX FWD
+6
+31
+Ford
+MKZ (HEV)
+4
+50.6
+Ford
+MKZ (HEV)
+4
+50.3
+Ford
+Mustang
+6
+23.5
+Ford
+Mustang
+6
+38.8
+Ford
+Mustang
+8
+18.8
+Ford
+Mustang
+8
+35.1
+Ford
+Mustang
+8
+23.3
+Ford
+Mustang
+8
+14.9
+Ford
+Mustang
+6
+21.8
+Ford
+Mustang
+6
+39.8
+Ford
+Mustang
+4
+27.2
+Ford
+Mustang
+4
+44.9
+Ford
+Mustang
+4
+26
+Ford
+Mustang
+4
+42.5
+Ford
+Mustang
+4
+25.5
+Ford
+Mustang
+4
+40.8
+Ford
+Mustang
+4
+25.1
+Ford
+Mustang
+4
+39.5
+Ford
+Mustang
+4
+28.3
+Ford
+Mustang
+4
+44.2
+Ford
+Mustang
+8
+19.8
+Ford
+Mustang
+8
+34.7
+Ford
+Mustang
+8
+19.6
+Ford
+Mustang
+8
+34.4
+Ford
+Mustang
+8
+33.8
+Ford
+Mustang
+8
+19.4
+Ford
+Mustang
+8
+18.8
+Ford
+Mustang
+8
+32.3
+Ford
+Mustang
+8
+18.8
+Ford
+Mustang
+8
+19.2
+Ford
+Mustang
+8
+32.5
+Ford
+Mustang
+8
+33.4
+Ford
+Mustang
+8
+18.8
+Ford
+Mustang
+8
+31.4
+Ford
+Mustang
+8
+18.5
+Ford
+Mustang
+8
+31.3
+Ford
+Mustang
+8
+18.6
+Ford
+Mustang
+8
+31.6
+Ford
+Mustang
+6
+22.7
+Ford
+Mustang
+6
+36.7
+Ford
+Special Service Police
+4
+25.6
+Ford
+Special Service Police
+4
+41.7
+Ford
+T150 FFV Wagon
+6
+17.1
+Ford
+T150 FFV Wagon
+6
+25.2
+Ford
+T150 FFV Wagon
+6
+12.9
+Ford
+T150 FFV Wagon
+6
+19
+Ford
+T150 FFV Wagon
+6
+17.7
+Ford
+T150 FFV Wagon
+6
+26.3
+Ford
+T150 FFV Wagon
+6
+19
+Ford
+T150 FFV Wagon
+6
+12.4
+Ford
+T150 FFV Wagon
+6
+23.7
+Ford
+T150 FFV Wagon
+6
+18.2
+Ford
+T150 FFV Wagon
+6
+17.4
+Ford
+T150 FFV Wagon
+6
+13.1
+Ford
+T150 Transit Van
+6
+25.2
+Ford
+T150 Transit Van
+6
+17.3
+Ford
+T150 Transit Van
+6
+26.2
+Ford
+T150 Transit Van
+6
+17.6
+FORD
+TAURUS AWD
+6
+21.2
+FORD
+TAURUS AWD
+6
+34.7
+Ford
+Taurus FFV
+6
+24.4
+Ford
+Taurus FFV
+6
+17.1
+Ford
+Taurus FFV
+6
+29.6
+Ford
+Taurus FFV
+6
+40.8
+Ford
+Taurus FFV
+6
+15.7
+Ford
+Taurus FFV
+6
+26.2
+Ford
+Taurus FFV
+6
+40.8
+Ford
+Taurus FFV
+6
+24.4
+Ford
+Taurus FFV
+6
+16.8
+Ford
+Taurus FFV
+6
+16.9
+Ford
+Taurus FFV
+6
+28.5
+Ford
+Taurus FFV
+6
+28.9
+Ford
+Taurus FFV
+6
+24.3
+Ford
+Taurus FFV
+6
+39.5
+Ford
+Taurus FFV
+6
+22.7
+Ford
+Taurus FFV
+6
+36
+Ford
+Taurus FFV
+6
+36
+Ford
+Taurus FFV
+6
+22.7
+Ford
+Taurus FFV
+6
+24.2
+Ford
+Taurus FFV
+6
+39.1
+Ford
+Taurus FFV
+6
+24.2
+Ford
+Taurus FFV
+6
+39.1
+Ford
+Taurus Police AWD
+6
+19.8
+Ford
+Taurus Police AWD
+6
+31.7
+Ford
+Taurus Police AWD
+6
+19.4
+Ford
+Taurus Police AWD
+6
+31.3
+Ford
+Taurus Police FFV AWD
+6
+34.8
+Ford
+Taurus Police FFV AWD
+6
+22.9
+Ford
+Taurus Police FFV AWD
+6
+25.8
+Ford
+Taurus Police FFV AWD
+6
+17.2
+Ford
+Taurus Police FFV FWD
+6
+16.1
+Ford
+Taurus Police FFV FWD
+6
+26.3
+Ford
+Taurus Police FFV FWD
+6
+23
+Ford
+Taurus Police FFV FWD
+6
+36.9
+Ford
+Transit Connect
+4
+41.7
+Ford
+Transit Connect
+4
+28.4
+Ford
+Transit Connect
+4
+27.3
+Ford
+Transit Connect
+4
+41.4
+Ford
+Transit Connect
+4
+28.2
+Ford
+Transit Connect
+4
+42
+Ford
+Transit Connect
+4
+28
+Ford
+TRANSIT CONNECT VAN
+4
+26.3
+Ford
+TRANSIT CONNECT VAN
+4
+40
+Ford
+TRANSIT CONNECT WAGON
+4
+39.7
+Ford
+TRANSIT CONNECT WAGON
+4
+25.6
+Ford
+TRANSIT CONNECT WAGON
+4
+39
+Ford
+TRANSIT FWD
+4
+38.8
+Ford
+TRANSIT FWD
+4
+24.8
+Lincoln
+MKC
+4
+22.8
+Lincoln
+MKC
+4
+35.6
+Lincoln
+MKC
+4
+22.8
+Lincoln
+MKC
+4
+35.7
+Lincoln
+MKC
+4
+23
+Lincoln
+MKC
+4
+36.4
+Lincoln
+MKC
+4
+23.9
+Lincoln
+MKC
+4
+35.6
+Lincoln
+MKS FWD
+6
+24
+Lincoln
+MKS FWD
+6
+39.5
+Lincoln
+MKS FWD
+6
+23.9
+Lincoln
+MKS FWD
+6
+39.2
+Lincoln
+MKS FWD
+6
+22.6
+Lincoln
+MKS FWD
+6
+36.5
+Lincoln
+MKX FWD
+6
+22.1
+Lincoln
+MKX FWD
+6
+35.8
+Lincoln
+MKZ AWD
+6
+22.6
+Lincoln
+MKZ AWD
+6
+35.7
+Lincoln
+MKZ AWD
+6
+23.1
+Lincoln
+MKZ AWD
+6
+37.9
+Lincoln
+Navigator L 4x2
+6
+18.3
+Lincoln
+Navigator L 4x2
+6
+27.2
+Lincoln
+Navigator L 4x4
+6
+18.1
+Lincoln
+Navigator L 4x4
+6
+26.4
+BUICK
+4GT69
+6
+21.6
+BUICK
+4GT69
+6
+38.5
+BUICK
+LACROSSE
+4
+50.7
+BUICK
+LACROSSE
+4
+50.7
+BUICK
+LACROSSE
+4
+31.3
+BUICK
+LACROSSE
+4
+31.3
+BUICK
+LACROSSE AWD
+6
+21.4
+BUICK
+LACROSSE AWD
+6
+36.8
+BUICK
+LACROSSE AWD
+6
+21.2
+BUICK
+LACROSSE AWD
+6
+36.1
+BUICK
+REGAL
+4
+24.5
+BUICK
+REGAL
+4
+43.6
+BUICK
+REGAL AWD
+4
+23.9
+BUICK
+REGAL AWD
+4
+37.9
+BUICK
+VERANO
+4
+43.8
+BUICK
+VERANO
+4
+25.7
+BUICK
+VERANO
+4
+26.8
+BUICK
+VERANO
+4
+45
+CADILLAC
+6DN69
+8
+17.3
+CADILLAC
+6DN69
+8
+25.8
+CADILLAC
+ATS
+4
+24.4
+CADILLAC
+ATS
+4
+41.8
+CADILLAC
+ATS
+4
+23.6
+CADILLAC
+ATS
+4
+40
+CADILLAC
+ATS
+4
+25.8
+CADILLAC
+ATS
+4
+38.7
+CADILLAC
+ATS
+4
+38.9
+CADILLAC
+ATS
+4
+27
+CADILLAC
+ATS
+4
+41.4
+CADILLAC
+ATS
+4
+41.6
+CADILLAC
+ATS
+4
+26.2
+CADILLAC
+ATS
+4
+39.9
+CADILLAC
+ATS
+4
+40.1
+CADILLAC
+ATS
+4
+25.9
+CADILLAC
+ATS
+4
+40.2
+CADILLAC
+ATS
+4
+40.4
+CADILLAC
+ATS
+4
+26.9
+CADILLAC
+ATS
+4
+45.9
+CADILLAC
+ATS
+4
+27
+CADILLAC
+ATS
+6
+23.1
+CADILLAC
+ATS
+6
+39
+CADILLAC
+CTS SEDAN
+4
+25.8
+CADILLAC
+CTS SEDAN
+4
+42.5
+CADILLAC
+CTS SEDAN
+6
+33.1
+CADILLAC
+CTS SEDAN
+6
+19.4
+CADILLAC
+CTS SEDAN
+6
+23.1
+CADILLAC
+CTS SEDAN
+6
+40.2
+CADILLAC
+CTS SEDAN AWD
+6
+23.1
+CADILLAC
+CTS SEDAN AWD
+6
+37
+CADILLAC
+CTS WAGON
+8
+14.4
+CADILLAC
+CTS WAGON
+8
+14.4
+CADILLAC
+CTS WAGON
+8
+24.3
+CADILLAC
+CTS WAGON
+8
+24.3
+CADILLAC
+ESCALADE 2WD
+8
+18.5
+CADILLAC
+ESCALADE 2WD
+8
+30.1
+CADILLAC
+ESCALADE 2WD
+8
+18.3
+CADILLAC
+ESCALADE 2WD
+8
+29.3
+CADILLAC
+ESCALADE 2WD
+8
+18.1
+CADILLAC
+ESCALADE 2WD
+8
+28.9
+CADILLAC
+ESCALADE 2WD
+8
+18
+CADILLAC
+ESCALADE 2WD
+8
+28.6
+CADILLAC
+SRX 2WD
+6
+14.9
+CADILLAC
+SRX 2WD
+6
+24.4
+CADILLAC
+SRX 2WD
+6
+19.8
+CADILLAC
+SRX 2WD
+6
+32.5
+CADILLAC
+SRX 2WD
+6
+15.6
+CADILLAC
+SRX 2WD
+6
+25.3
+CADILLAC
+SRX 2WD
+6
+21.5
+CADILLAC
+SRX 2WD
+6
+34.2
+CADILLAC
+SRX AWD
+6
+19.3
+CADILLAC
+SRX AWD
+6
+31.2
+CADILLAC
+SRX AWD
+6
+31.8
+CADILLAC
+SRX AWD
+6
+20.3
+CADILLAC
+XTS
+6
+21
+CADILLAC
+XTS
+6
+33.8
+CADILLAC
+XTS
+6
+27.9
+CADILLAC
+XTS
+6
+15.6
+CADILLAC
+XTS
+6
+17.5
+CADILLAC
+XTS
+6
+27.9
+CADILLAC
+XTS AWD
+6
+19.8
+CADILLAC
+XTS AWD
+6
+33.2
+CADILLAC
+XTS HEARSE
+6
+18.1
+CADILLAC
+XTS HEARSE
+6
+28.8
+CADILLAC
+XTS HEARSE
+6
+19.1
+CADILLAC
+XTS HEARSE
+6
+30.9
+CHEVROLET
+1EF37
+6
+22.4
+CHEVROLET
+1EF37
+6
+37.9
+CHEVROLET
+1EF37
+6
+20.3
+CHEVROLET
+1EF37
+6
+34.5
+CHEVROLET
+1EF37
+6
+21
+CHEVROLET
+1EF37
+6
+39
+CHEVROLET
+1ES37
+8
+19.7
+CHEVROLET
+1ES37
+8
+33.6
+CHEVROLET
+1ES37
+8
+18.8
+CHEVROLET
+1ES37
+8
+31.8
+CHEVROLET
+1ES37
+8
+19.7
+CHEVROLET
+1ES37
+8
+35
+CHEVROLET
+1LH26
+4
+28.1
+CHEVROLET
+1LH26
+4
+45.2
+CHEVROLET
+1LH26
+4
+28.7
+CHEVROLET
+1LH26
+4
+45.1
+CHEVROLET
+1LK26
+4
+25.5
+CHEVROLET
+1LK26
+4
+39.9
+CHEVROLET
+1LK26
+4
+25.5
+CHEVROLET
+1LK26
+4
+39.9
+CHEVROLET
+1LK26
+4
+26.2
+CHEVROLET
+1LK26
+4
+40.5
+CHEVROLET
+1LK26
+4
+26.2
+CHEVROLET
+1LK26
+4
+40.5
+CHEVROLET
+C15 SILVERADO 2WD
+8
+18.1
+CHEVROLET
+C15 SILVERADO 2WD
+8
+28.6
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+20.1
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+31.9
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+14.8
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+23.7
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+19.7
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+32.5
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+14.5
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+24.1
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+19.8
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+30.8
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+14.6
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+22.9
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+20
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+31.5
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+14.7
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+23.4
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+20.1
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+31.9
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+19.7
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+32.5
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+19.8
+CHEVROLET
+C1500 SUBURBAN 2WD
+8
+30.8
+CHEVROLET
+CAMARO
+6
+23.4
+CHEVROLET
+CAMARO
+6
+41.9
+CHEVROLET
+CAMARO
+8
+14
+CHEVROLET
+CAMARO
+8
+23.9
+CHEVROLET
+CAMARO
+8
+14.5
+CHEVROLET
+CAMARO
+8
+24.9
+CHEVROLET
+CAMARO
+8
+14.5
+CHEVROLET
+CAMARO
+8
+24.9
+CHEVROLET
+CAMARO
+8
+17.7
+CHEVROLET
+CAMARO
+8
+30.1
+CHEVROLET
+CAMARO
+8
+16
+CHEVROLET
+CAMARO
+8
+26.5
+CHEVROLET
+CAPRICE PPV
+6
+22.5
+CHEVROLET
+CAPRICE PPV
+6
+35.9
+CHEVROLET
+CAPRICE PPV
+6
+15.9
+CHEVROLET
+CAPRICE PPV
+6
+25.8
+CHEVROLET
+CAPRICE PPV
+8
+18.1
+CHEVROLET
+CAPRICE PPV
+8
+31.8
+CHEVROLET
+CAPRICE PPV
+8
+21.2
+CHEVROLET
+CAPRICE PPV
+8
+13.4
+CHEVROLET
+CAPRICE PPV
+8
+23.5
+CHEVROLET
+CHEV SS
+8
+17.4
+CHEVROLET
+CHEV SS
+8
+29.3
+CHEVROLET
+COLORADO 2WD
+4
+24.2
+CHEVROLET
+COLORADO 2WD
+4
+35.9
+CHEVROLET
+COLORADO 2WD
+4
+25
+CHEVROLET
+COLORADO 2WD
+4
+37.2
+CHEVROLET
+COLORADO 2WD
+6
+22.7
+CHEVROLET
+COLORADO 2WD
+6
+35.7
+CHEVROLET
+COLORADO 4WD
+4
+34.4
+CHEVROLET
+COLORADO 4WD
+4
+23.3
+CHEVROLET
+COLORADO 4WD
+6
+21.8
+CHEVROLET
+COLORADO 4WD
+6
+33.5
+CHEVROLET
+COLORADO CAB CHASSIS 2WD
+6
+18.4
+CHEVROLET
+COLORADO CAB CHASSIS 2WD
+6
+24.1
+CHEVROLET
+CORVETTE
+8
+21.1
+CHEVROLET
+CORVETTE
+8
+38.1
+CHEVROLET
+CORVETTE
+8
+21.9
+CHEVROLET
+CORVETTE
+8
+21.9
+CHEVROLET
+CORVETTE
+8
+42.3
+CHEVROLET
+CORVETTE
+8
+42.3
+CHEVROLET
+CORVETTE
+8
+20
+CHEVROLET
+CORVETTE
+8
+41.4
+CHEVROLET
+CORVETTE
+8
+40.3
+CHEVROLET
+CORVETTE
+8
+16.4
+CHEVROLET
+CORVETTE
+8
+29.6
+CHEVROLET
+CORVETTE
+8
+21.2
+CHEVROLET
+CRUZE
+4
+36.5
+CHEVROLET
+CRUZE
+4
+60.2
+CHEVROLET
+CRUZE
+4
+33.7
+CHEVROLET
+CRUZE
+4
+53.5
+CHEVROLET
+CRUZE
+4
+49.1
+CHEVROLET
+CRUZE
+4
+28.5
+CHEVROLET
+CRUZE
+4
+51.4
+CHEVROLET
+CRUZE
+4
+32
+CHEVROLET
+CRUZE
+4
+66.1
+CHEVROLET
+CRUZE
+4
+66.1
+CHEVROLET
+CRUZE
+4
+66.1
+CHEVROLET
+CRUZE
+4
+34.8
+CHEVROLET
+CRUZE
+4
+34.8
+CHEVROLET
+CRUZE
+4
+34.8
+CHEVROLET
+CRUZE
+4
+66.5
+CHEVROLET
+CRUZE
+4
+66.5
+CHEVROLET
+CRUZE
+4
+66.5
+CHEVROLET
+CRUZE ECO
+4
+33.3
+CHEVROLET
+CRUZE ECO
+4
+53.4
+CHEVROLET
+CRUZE ECO
+4
+33.3
+CHEVROLET
+CRUZE ECO
+4
+53.5
+CHEVROLET
+CRUZE ECO
+4
+33.7
+CHEVROLET
+CRUZE ECO
+4
+54.9
+CHEVROLET
+CRUZE ECO
+4
+33.7
+CHEVROLET
+CRUZE ECO
+4
+55
+CHEVROLET
+EQUINOX AWD
+6
+20.7
+CHEVROLET
+EQUINOX AWD
+6
+34.7
+CHEVROLET
+EQUINOX AWD
+6
+33
+CHEVROLET
+EQUINOX AWD
+6
+19.8
+CHEVROLET
+EQUINOX FWD
+4
+19.8
+CHEVROLET
+EQUINOX FWD
+4
+30.7
+CHEVROLET
+EQUINOX FWD
+4
+18.7
+CHEVROLET
+EQUINOX FWD
+4
+30.6
+CHEVROLET
+G2500 EXPRESS 2WD PASS MDPV
+8
+13.7
+CHEVROLET
+G2500 EXPRESS 2WD PASS MDPV
+8
+22.8
+CHEVROLET
+G2500 EXPRESS 2WD PASS MDPV
+8
+13.1
+CHEVROLET
+G2500 EXPRESS 2WD PASS MDPV
+8
+22.1
+CHEVROLET
+G2500 EXPRESS 2WD PASS MDPV
+8
+21.7
+CHEVROLET
+G2500 EXPRESS 2WD PASS MDPV
+8
+9.5
+CHEVROLET
+G2500 EXPRESS 2WD PASS MDPV
+8
+15.8
+CHEVROLET
+G2500 EXPRESS 2WD PASS MDPV
+8
+13.1
+CHEVROLET
+G2500 EXPRESS 2WD PASS MDPV
+8
+21.7
+CHEVROLET
+G2500 EXPRESS 2WD PASS MDPV
+8
+13.1
+CHEVROLET
+G3500 EXPRESS 2WD PASS MDPV
+8
+9.1
+CHEVROLET
+G3500 EXPRESS 2WD PASS MDPV
+8
+15.3
+CHEVROLET
+G3500 EXPRESS 2WD PASS MDPV
+8
+12.4
+CHEVROLET
+G3500 EXPRESS 2WD PASS MDPV
+8
+20.7
+CHEVROLET
+IMPALA
+6
+22.3
+CHEVROLET
+IMPALA
+6
+16.9
+CHEVROLET
+IMPALA
+6
+41.6
+CHEVROLET
+IMPALA
+6
+31.3
+CHEVROLET
+IMPALA
+6
+21.3
+CHEVROLET
+IMPALA
+6
+16.1
+CHEVROLET
+IMPALA
+6
+38.7
+CHEVROLET
+IMPALA
+6
+29.1
+CHEVROLET
+IMPALA
+6
+23.6
+CHEVROLET
+IMPALA
+6
+40.2
+CHEVROLET
+IMPALA
+6
+17.4
+CHEVROLET
+IMPALA
+6
+28.7
+CHEVROLET
+K15 SILVERADO 4WD
+6
+20.7
+CHEVROLET
+K15 SILVERADO 4WD
+6
+30.9
+CHEVROLET
+K15 SILVERADO 4WD
+6
+14.4
+CHEVROLET
+K15 SILVERADO 4WD
+6
+21.5
+CHEVROLET
+K15 SILVERADO 4WD
+6
+15.6
+CHEVROLET
+K15 SILVERADO 4WD
+6
+23.3
+CHEVROLET
+K15 SILVERADO 4WD
+6
+22.4
+CHEVROLET
+K15 SILVERADO 4WD
+6
+33.4
+CHEVROLET
+K15 SILVERADO 4WD
+6
+15.2
+CHEVROLET
+K15 SILVERADO 4WD
+6
+22.9
+CHEVROLET
+K15 SILVERADO 4WD
+6
+21.9
+CHEVROLET
+K15 SILVERADO 4WD
+6
+32.9
+CHEVROLET
+K15 SILVERADO 4WD
+6
+14.6
+CHEVROLET
+K15 SILVERADO 4WD
+6
+22.3
+CHEVROLET
+K15 SILVERADO 4WD
+6
+21
+CHEVROLET
+K15 SILVERADO 4WD
+6
+32
+CHEVROLET
+K15 SILVERADO 4WD
+6
+20.9
+CHEVROLET
+K15 SILVERADO 4WD
+6
+30.7
+CHEVROLET
+K15 SILVERADO 4WD
+6
+14.6
+CHEVROLET
+K15 SILVERADO 4WD
+6
+21.3
+CHEVROLET
+K15 SILVERADO 4WD
+6
+18.5
+CHEVROLET
+K15 SILVERADO 4WD
+6
+29
+CHEVROLET
+K15 SILVERADO 4WD
+6
+13.5
+CHEVROLET
+K15 SILVERADO 4WD
+6
+21
+CHEVROLET
+K15 SILVERADO 4WD
+8
+31.1
+CHEVROLET
+K15 SILVERADO 4WD
+8
+19.5
+CHEVROLET
+K15 SILVERADO 4WD
+8
+14.3
+CHEVROLET
+K15 SILVERADO 4WD
+8
+23.3
+CHEVROLET
+K15 SILVERADO 4WD
+8
+31.1
+CHEVROLET
+K15 SILVERADO 4WD
+8
+19.5
+CHEVROLET
+K1500 SUBURBAN 4WD
+8
+13.2
+CHEVROLET
+K1500 SUBURBAN 4WD
+8
+21.2
+CHEVROLET
+K1500 SUBURBAN 4WD
+8
+18.8
+CHEVROLET
+K1500 SUBURBAN 4WD
+8
+30.1
+CHEVROLET
+K1500 SUBURBAN 4WD
+8
+19.3
+CHEVROLET
+K1500 SUBURBAN 4WD
+8
+30.3
+CHEVROLET
+K1500 SUBURBAN 4WD
+8
+18.8
+CHEVROLET
+K1500 SUBURBAN 4WD
+8
+30.1
+CHEVROLET
+K1500 SUBURBAN 4WD
+8
+19.3
+CHEVROLET
+K1500 SUBURBAN 4WD
+8
+30.3
+CHEVROLET
+K1500 TAHOE 4WD
+8
+31.1
+CHEVROLET
+K1500 TAHOE 4WD
+8
+19.5
+CHEVROLET
+K1500 TAHOE 4WD
+8
+14.2
+CHEVROLET
+K1500 TAHOE 4WD
+8
+23.1
+CHEVROLET
+K1500 TAHOE 4WD
+8
+30.3
+CHEVROLET
+K1500 TAHOE 4WD
+8
+19.3
+CHEVROLET
+K1500 TAHOE 4WD
+8
+14
+CHEVROLET
+K1500 TAHOE 4WD
+8
+22.5
+CHEVROLET
+K1500 TAHOE 4WD
+8
+30.6
+CHEVROLET
+K1500 TAHOE 4WD
+8
+19.4
+CHEVROLET
+K1500 TAHOE 4WD
+8
+14.1
+CHEVROLET
+K1500 TAHOE 4WD
+8
+22.7
+CHEVROLET
+K1500 TAHOE 4WD
+8
+30.3
+CHEVROLET
+K1500 TAHOE 4WD
+8
+19.3
+CHEVROLET
+MALIBU
+4
+26
+CHEVROLET
+MALIBU
+4
+42
+CHEVROLET
+MALIBU
+4
+32.3
+CHEVROLET
+MALIBU
+4
+52.6
+CHEVROLET
+MALIBU
+4
+32.9
+CHEVROLET
+MALIBU
+4
+52.3
+CHEVROLET
+MALIBU
+4
+30.2
+CHEVROLET
+MALIBU
+4
+46.3
+CHEVROLET
+SONIC
+4
+34.8
+CHEVROLET
+SONIC
+4
+51.9
+CHEVROLET
+SONIC
+4
+37.1
+CHEVROLET
+SONIC
+4
+56.8
+CHEVROLET
+SONIC
+4
+50.1
+CHEVROLET
+SONIC
+4
+31.5
+CHEVROLET
+SONIC
+4
+33.9
+CHEVROLET
+SONIC
+4
+49.2
+CHEVROLET
+SONIC 5
+4
+32.1
+CHEVROLET
+SONIC 5
+4
+47.7
+CHEVROLET
+SONIC RS
+4
+48
+CHEVROLET
+SONIC RS
+4
+35
+CHEVROLET
+SPARK
+4
+55
+CHEVROLET
+SPARK
+4
+39.9
+CHEVROLET
+SPARK
+4
+40.9
+CHEVROLET
+SPARK
+4
+55.9
+CHEVROLET
+TRAX
+4
+43.8
+CHEVROLET
+TRAX
+4
+31
+CHEVROLET
+VOLT
+4
+37.5
+CHEVROLET
+VOLT
+4
+32.6
+CHEVROLET
+VOLT
+4
+36
+CHEVROLET
+VOLT
+4
+47.5
+CHEVROLET
+VOLT
+4
+53.6
+GMC
+K1500 YUKON XL 4WD
+8
+17.8
+GMC
+K1500 YUKON XL 4WD
+8
+27.8
+GMC
+K1500 YUKON XL 4WD
+8
+17.3
+GMC
+K1500 YUKON XL 4WD
+8
+27.8
+GMC
+K1500 YUKON XL 4WD
+8
+16.1
+GMC
+K1500 YUKON XL 4WD
+8
+24.4
+GMC
+K2500 YUKON XL 4WD
+8
+12.5
+GMC
+K2500 YUKON XL 4WD
+8
+21
+ACURA
+ILX
+4
+26.7
+ACURA
+ILX
+4
+42.9
+ACURA
+ILX
+4
+30.1
+ACURA
+ILX
+4
+21.3
+ACURA
+ILX
+4
+23.7
+ACURA
+ILX
+4
+31.2
+ACURA
+ILX
+4
+49.7
+ACURA
+MDX 2WD
+6
+25
+ACURA
+MDX 2WD
+6
+39.9
+ACURA
+MDX 4WD
+6
+23.1
+ACURA
+MDX 4WD
+6
+37.6
+ACURA
+RDX 2WD
+6
+25.2
+ACURA
+RDX 2WD
+6
+39.6
+ACURA
+RDX 4WD
+6
+24.5
+ACURA
+RDX 4WD
+6
+37.7
+ACURA
+TLX
+4
+31.7
+ACURA
+TLX
+4
+52.5
+ACURA
+TLX
+4
+32.3
+ACURA
+TLX
+4
+50.9
+ACURA
+TLX
+6
+27.9
+ACURA
+TLX
+6
+49.7
+ACURA
+TLX
+6
+27.9
+ACURA
+TLX
+6
+49.5
+ACURA
+TLX
+6
+27.2
+ACURA
+TLX
+6
+45.3
+ACURA
+TLX
+6
+27.1
+ACURA
+TLX
+6
+45.5
+HONDA
+ACCORD
+4
+30.8
+HONDA
+ACCORD
+4
+49.4
+HONDA
+ACCORD
+4
+30.9
+HONDA
+ACCORD
+4
+49.4
+HONDA
+ACCORD
+4
+29.2
+HONDA
+ACCORD
+4
+47.1
+HONDA
+ACCORD
+4
+28.8
+HONDA
+ACCORD
+4
+47.6
+HONDA
+ACCORD
+6
+26.2
+HONDA
+ACCORD
+6
+45.5
+HONDA
+ACCORD
+6
+26.2
+HONDA
+ACCORD
+6
+45.3
+HONDA
+ACCORD
+6
+27.1
+HONDA
+ACCORD
+6
+48.5
+HONDA
+ACCORD
+6
+27.1
+HONDA
+ACCORD
+6
+48.5
+HONDA
+ACCORD
+6
+25.9
+HONDA
+ACCORD
+6
+44.8
+HONDA
+ACCORD
+6
+25.9
+HONDA
+ACCORD
+6
+45
+HONDA
+ACCORD
+6
+26.9
+HONDA
+ACCORD
+6
+48.5
+HONDA
+ACCORD
+6
+26.8
+HONDA
+ACCORD
+6
+48.5
+HONDA
+ACCORD
+6
+22.8
+HONDA
+ACCORD
+6
+39.4
+HONDA
+ACCORD
+6
+22.7
+HONDA
+ACCORD
+6
+39.1
+HONDA
+ACCORD
+4
+51
+HONDA
+ACCORD
+4
+34
+HONDA
+ACCORD
+4
+35
+HONDA
+ACCORD
+4
+51.7
+HONDA
+ACCORD
+4
+33.5
+HONDA
+ACCORD
+4
+51
+HONDA
+ACCORD
+4
+34
+HONDA
+ACCORD
+4
+35.5
+HONDA
+ACCORD
+4
+52.3
+HONDA
+ACCORD
+4
+33.5
+HONDA
+ACCORD
+4
+48.5
+HONDA
+ACCORD
+4
+48
+HONDA
+ACCORD
+4
+32.5
+HONDA
+ACCORD
+4
+34.9
+HONDA
+ACCORD
+4
+51.4
+HONDA
+ACCORD
+4
+35
+HONDA
+ACCORD
+4
+51.4
+HONDA
+ACCORD
+4
+35.4
+HONDA
+ACCORD
+4
+52.9
+HONDA
+ACCORD
+4
+35.6
+HONDA
+ACCORD
+4
+52.6
+HONDA
+ACCORD
+4
+33.5
+HONDA
+ACCORD
+4
+49.4
+HONDA
+ACCORD
+4
+33.7
+HONDA
+ACCORD
+4
+49.4
+HONDA
+ACCORD HYBRID
+4
+43
+HONDA
+ACCORD HYBRID
+4
+71.5
+HONDA
+ACCORD HYBRID
+4
+70.4
+HONDA
+ACCORD HYBRID
+4
+43.1
+HONDA
+ACCORD HYBRID
+4
+68.6
+HONDA
+ACCORD HYBRID
+4
+69
+HONDA
+CIVIC
+4
+36.2
+HONDA
+CIVIC
+4
+51
+HONDA
+CIVIC
+4
+36.1
+HONDA
+CIVIC
+4
+51.3
+HONDA
+CIVIC
+4
+38.9
+HONDA
+CIVIC
+4
+54.8
+HONDA
+CIVIC
+4
+53.9
+HONDA
+CIVIC
+4
+37.2
+HONDA
+CIVIC
+4
+38.7
+HONDA
+CIVIC
+4
+54.4
+HONDA
+CIVIC
+4
+39.6
+HONDA
+CIVIC
+4
+55.8
+HONDA
+CIVIC
+4
+39.4
+HONDA
+CIVIC
+4
+55.8
+HONDA
+CIVIC
+4
+38.9
+HONDA
+CIVIC
+4
+54.4
+HONDA
+CIVIC
+4
+54.4
+HONDA
+CIVIC
+4
+38.6
+HONDA
+CIVIC
+4
+54.9
+HONDA
+CIVIC
+4
+38.2
+HONDA
+CIVIC
+4
+39.8
+HONDA
+CIVIC
+4
+56.1
+HONDA
+CIVIC GX
+4
+34.7
+HONDA
+CIVIC GX
+4
+53.9
+HONDA
+CIVIC GX
+4
+34.3
+HONDA
+CIVIC GX
+4
+54
+HONDA
+CIVIC HF
+4
+57.7
+HONDA
+CIVIC HF
+4
+39.7
+HONDA
+CIVIC HF
+4
+41.6
+HONDA
+CIVIC HF
+4
+59.9
+HONDA
+CIVIC HF
+4
+41.3
+HONDA
+CIVIC HF
+4
+59.1
+HONDA
+CIVIC HF
+4
+41.4
+HONDA
+CIVIC HF
+4
+59.5
+HONDA
+CIVIC HYBRID
+4
+61.6
+HONDA
+CIVIC HYBRID
+4
+67.7
+HONDA
+CIVIC HYBRID
+4
+60.7
+HONDA
+CIVIC HYBRID
+4
+66.7
+HONDA
+CIVIC HYBRID
+4
+61.6
+HONDA
+CIVIC HYBRID
+4
+67.7
+HONDA
+CIVIC HYBRID
+4
+60.7
+HONDA
+CIVIC HYBRID
+4
+66.7
+HONDA
+CIVIC SI
+4
+26.5
+HONDA
+CIVIC SI
+4
+41.6
+HONDA
+CIVIC SI
+4
+21.8
+HONDA
+CIVIC SI
+4
+24.2
+HONDA
+CIVIC SI
+4
+29.6
+HONDA
+CR-V 2WD
+4
+33.6
+HONDA
+CR-V 2WD
+4
+47
+HONDA
+CR-V 2WD
+4
+34.7
+HONDA
+CR-V 2WD
+4
+47.7
+HONDA
+CR-V 2WD
+4
+35.2
+HONDA
+CR-V 2WD
+4
+48.2
+HONDA
+CR-V 2WD
+4
+35.5
+HONDA
+CR-V 2WD
+4
+48.2
+HONDA
+CR-V 2WD
+4
+33.6
+HONDA
+CR-V 2WD
+4
+45.5
+HONDA
+CR-V 2WD
+4
+33.3
+HONDA
+CR-V 2WD
+4
+45.5
+HONDA
+CR-V 4WD
+4
+32.8
+HONDA
+CR-V 4WD
+4
+45.5
+HONDA
+CR-V 4WD
+4
+33.5
+HONDA
+CR-V 4WD
+4
+46
+HONDA
+CR-V 4WD
+4
+34.1
+HONDA
+CR-V 4WD
+4
+47.2
+HONDA
+CR-V 4WD
+4
+33.8
+HONDA
+CR-V 4WD
+4
+46.2
+HONDA
+CR-Z
+4
+48
+HONDA
+CR-Z
+4
+55.5
+HONDA
+CR-Z
+4
+40.9
+HONDA
+CR-Z
+4
+54.5
+HONDA
+CROSSTOUR L4
+4
+27.7
+HONDA
+CROSSTOUR L4
+4
+43.4
+HONDA
+CROSSTOUR V6 2WD
+6
+25
+HONDA
+CROSSTOUR V6 2WD
+6
+41.8
+HONDA
+CROSSTOUR V6 4WD
+6
+38.9
+HONDA
+CROSSTOUR V6 4WD
+6
+23.6
+HONDA
+FIT EX
+4
+42.6
+HONDA
+FIT EX
+4
+54.7
+HONDA
+FIT EX
+4
+42.6
+HONDA
+FIT EX
+4
+54.8
+HONDA
+FIT EX
+4
+37.5
+HONDA
+FIT EX
+4
+51.9
+HONDA
+FIT LX
+4
+38.2
+HONDA
+FIT LX
+4
+52.8
+HONDA
+FIT LX
+4
+58.5
+HONDA
+FIT LX
+4
+45
+HONDA
+FIT LX
+4
+44.8
+HONDA
+FIT LX
+4
+58.8
+HONDA
+ODYSSEY TOURING/TOURING-TE
+6
+24
+HONDA
+ODYSSEY TOURING/TOURING-TE
+6
+38.8
+HONDA
+PILOT 2WD EX
+6
+35.4
+HONDA
+PILOT 2WD EX
+6
+22.6
+HONDA
+PILOT 2WD TOURING
+6
+22.1
+HONDA
+PILOT 2WD TOURING
+6
+35.4
+HONDA
+PILOT 4WD EXL
+6
+21.7
+HONDA
+PILOT 4WD EXL
+6
+34
+HONDA
+PILOT 4WD TOURING
+6
+21.1
+HONDA
+PILOT 4WD TOURING
+6
+33.7
+HONDA
+RLX
+6
+24.9
+HONDA
+RLX
+6
+43.2
+HONDA
+RLX
+6
+43.2
+HONDA
+RLX
+6
+25
+HYUNDAI
+Azera
+6
+24.8
+HYUNDAI
+Azera
+6
+40.4
+HYUNDAI
+Azera Limited
+6
+23.8
+HYUNDAI
+Azera Limited
+6
+39.6
+Hyundai
+Elantra
+4
+31.2
+Hyundai
+Elantra
+4
+49.3
+Hyundai
+Elantra
+4
+30.9
+Hyundai
+Elantra
+4
+47.9
+Hyundai
+Elantra Coupe
+4
+30.6
+Hyundai
+Elantra Coupe
+4
+49.2
+Hyundai
+Elantra Coupe
+4
+30.1
+Hyundai
+Elantra Coupe
+4
+47.1
+HYUNDAI
+Elantra GT
+4
+30.4
+HYUNDAI
+Elantra GT
+4
+46.1
+HYUNDAI
+Elantra GT
+4
+46.2
+HYUNDAI
+Elantra GT
+4
+31.1
+Hyundai
+Elantra Limited
+4
+35.2
+Hyundai
+Elantra Limited
+4
+51.9
+Hyundai
+Elantra Limited
+4
+35
+Hyundai
+Elantra Limited
+4
+52.9
+Hyundai
+Equus
+8
+18.5
+Hyundai
+Equus
+8
+32
+HYUNDAI
+Genesis
+6
+34.9
+HYUNDAI
+Genesis
+6
+20.4
+HYUNDAI
+Genesis
+6
+22.7
+HYUNDAI
+Genesis
+6
+40
+HYUNDAI
+Genesis
+8
+18.3
+HYUNDAI
+Genesis
+8
+32.1
+HYUNDAI
+Genesis Coupe
+6
+19.4
+HYUNDAI
+Genesis Coupe
+6
+31.4
+HYUNDAI
+Genesis Coupe
+6
+22.8
+HYUNDAI
+Genesis Coupe
+6
+17.4
+HYUNDAI
+Genesis Coupe
+6
+17.1
+HYUNDAI
+Genesis Coupe
+6
+23.2
+HYUNDAI
+Genesis Coupe
+6
+17.5
+HYUNDAI
+Genesis Coupe
+6
+17.7
+HYUNDAI
+Genesis Coupe
+6
+20.1
+HYUNDAI
+Genesis Coupe
+6
+33.7
+HYUNDAI
+Genesis Coupe
+6
+19.9
+HYUNDAI
+Genesis Coupe
+6
+34.5
+HYUNDAI
+Genesis Coupe
+6
+23.2
+HYUNDAI
+Genesis Coupe
+6
+18.1
+HYUNDAI
+Genesis Coupe
+6
+18.4
+HYUNDAI
+Genesis Coupe
+6
+19.4
+HYUNDAI
+Genesis Coupe
+6
+23.1
+HYUNDAI
+Genesis Coupe
+6
+17
+HYUNDAI
+Genesis Coupe
+6
+16.8
+HYUNDAI
+Genesis Coupe
+6
+30.3
+HYUNDAI
+Genesis Coupe
+6
+19.2
+HYUNDAI
+Genesis Coupe
+6
+30.9
+HYUNDAI
+Genesis Coupe
+6
+22.7
+HYUNDAI
+Genesis Coupe
+6
+16.6
+HYUNDAI
+Genesis Coupe
+6
+17.3
+Hyundai
+Santa Fe
+6
+33.7
+Hyundai
+Santa Fe
+6
+21.3
+Hyundai
+Santa Fe
+6
+20.8
+Hyundai
+Santa Fe
+6
+22.7
+Hyundai
+Santa Fe
+6
+35.1
+Hyundai
+Santa Fe
+6
+22
+Hyundai
+Santa Fe
+6
+34.6
+Hyundai
+Santa Fe
+6
+22.8
+Hyundai
+Santa Fe
+6
+35.8
+Hyundai
+Santa Fe Sport
+4
+24
+Hyundai
+Santa Fe Sport
+4
+37.1
+Hyundai
+Santa Fe Sport
+4
+22.8
+Hyundai
+Santa Fe Sport
+4
+33.6
+Hyundai
+Santa Fe Sport
+4
+23
+Hyundai
+Santa Fe Sport
+4
+34.2
+Hyundai
+Santa Fe Sport
+4
+25.5
+Hyundai
+Santa Fe Sport
+4
+37.8
+Hyundai
+Santa Fe Sport
+4
+23.7
+Hyundai
+Santa Fe Sport
+4
+35.1
+Hyundai
+Santa Fe Sport ULTIMATE
+4
+24.3
+Hyundai
+Santa Fe Sport ULTIMATE
+4
+36.7
+Hyundai
+Santa Fe Ultimate
+6
+21.9
+Hyundai
+Santa Fe Ultimate
+6
+20.9
+Hyundai
+Santa Fe Ultimate
+6
+34
+Hyundai
+Santa Fe Ultimate
+6
+19.7
+Hyundai
+Santa Fe Ultimate
+6
+20.7
+Hyundai
+Santa Fe Ultimate
+6
+32
+HYUNDAI
+Sonata
+4
+44.6
+HYUNDAI
+Sonata
+4
+28.7
+HYUNDAI
+Sonata
+4
+43.2
+HYUNDAI
+Sonata
+4
+26.9
+HYUNDAI
+Sonata
+4
+29.7
+HYUNDAI
+Sonata
+4
+47.8
+HYUNDAI
+Sonata
+4
+30.5
+HYUNDAI
+Sonata
+4
+50.8
+HYUNDAI
+Sonata
+4
+30.8
+HYUNDAI
+Sonata
+4
+49.5
+HYUNDAI
+Sonata
+4
+32.1
+HYUNDAI
+Sonata
+4
+52.5
+HYUNDAI
+Sonata
+4
+36.3
+HYUNDAI
+Sonata
+4
+53.4
+HYUNDAI
+SONATA HYBRID
+4
+48
+HYUNDAI
+SONATA HYBRID
+4
+56.6
+HYUNDAI
+SONATA HYBRID LIMITED
+4
+56.4
+HYUNDAI
+SONATA HYBRID LIMITED
+4
+47.7
+Hyundai
+Tucson
+4
+24
+Hyundai
+Tucson
+4
+35.2
+Hyundai
+Tucson
+4
+35.1
+Hyundai
+Tucson
+4
+24.8
+Hyundai
+Tucson
+4
+25.1
+Hyundai
+Tucson
+4
+35.1
+Hyundai
+Tucson
+4
+25.9
+Hyundai
+Tucson
+4
+35.6
+Hyundai
+Tucson
+4
+25.8
+Hyundai
+Tucson
+4
+39.4
+Hyundai
+Tucson
+4
+26.3
+Hyundai
+Tucson
+4
+39.8
+Hyundai
+Tucson
+4
+35.3
+Hyundai
+Tucson
+4
+26.2
+Hyundai
+Tucson
+4
+29.3
+Hyundai
+Tucson
+4
+40.2
+HYUNDAI
+Veloster
+4
+30.4
+HYUNDAI
+Veloster
+4
+43.8
+HYUNDAI
+Veloster
+4
+31
+HYUNDAI
+Veloster
+4
+47.1
+KIA
+OPTIMA HYBRID
+4
+48
+KIA
+OPTIMA HYBRID
+4
+56.6
+KIA
+OPTIMA HYBRID EX
+4
+47
+KIA
+OPTIMA HYBRID EX
+4
+55.2
+Jaguar
+F-Type
+8
+19.5
+Jaguar
+F-Type
+8
+32.2
+Jaguar
+F-Type S
+6
+24.3
+Jaguar
+F-Type S
+6
+38
+Jaguar
+F-Type S
+6
+25.1
+Jaguar
+F-Type S
+6
+39.1
+Jaguar
+XF
+4
+24.1
+Jaguar
+XF
+4
+40.1
+Jaguar
+XF
+4
+26.4
+Jaguar
+XF
+4
+19.4
+Jaguar
+XF
+4
+20
+Jaguar
+XF 3.0 2WD
+6
+22.8
+Jaguar
+XF 3.0 2WD
+6
+38.8
+Jaguar
+XF Supercharged
+8
+13.5
+Jaguar
+XF Supercharged
+8
+23
+Jaguar
+XF Supercharged
+8
+18.6
+Jaguar
+XF Supercharged
+8
+31.9
+Jaguar
+XF Supercharged
+8
+18.4
+Jaguar
+XF Supercharged
+8
+32
+Jaguar
+XF Supercharged
+8
+14
+Jaguar
+XF Supercharged
+8
+23.8
+Jaguar
+XF-R
+8
+18.6
+Jaguar
+XF-R
+8
+31.9
+Jaguar
+XJ 3.0 AWD
+6
+20
+Jaguar
+XJ 3.0 AWD
+6
+34.1
+Jaguar
+XJ 3.0 FFV
+6
+22.5
+Jaguar
+XJ 3.0 FFV
+6
+37.9
+Jaguar
+XJ 3.0 FFV
+6
+14.7
+Jaguar
+XJ 3.0 FFV
+6
+26.2
+Jaguar
+XJ Supercharged
+8
+18.4
+Jaguar
+XJ Supercharged
+8
+32
+Jaguar
+XJL 3.0 AWD
+6
+19.9
+Jaguar
+XJL 3.0 AWD
+6
+34
+Jaguar
+XJL 3.0 FFV
+6
+20.7
+Jaguar
+XJL 3.0 FFV
+6
+37.9
+Jaguar
+XJL 3.0 FFV
+6
+14.1
+Jaguar
+XJL 3.0 FFV
+6
+26.7
+JAGUAR
+XK Convertible
+8
+30.9
+JAGUAR
+XK Convertible
+8
+19.4
+JAGUAR
+XK Coupe
+8
+19.7
+JAGUAR
+XK Coupe
+8
+32.9
+Jaguar
+XK-R
+8
+18.4
+Jaguar
+XK-R
+8
+30.1
+Jaguar
+XK-R
+8
+18.8
+Jaguar
+XK-R
+8
+30.1
+Land Rover
+LR2
+4
+21.8
+Land Rover
+LR2
+4
+32.9
+Land Rover
+Range Rover 3.0 PZEV
+6
+21.1
+Land Rover
+Range Rover 3.0 PZEV
+6
+31.5
+Land Rover
+Range Rover 3.0 PZEV
+6
+31.1
+Land Rover
+Range Rover 3.0 PZEV
+6
+21
+Land Rover
+Range Rover Evoque
+4
+26.5
+Land Rover
+Range Rover Evoque
+4
+41.8
+HYUNDAI
+Accent
+4
+34.3
+HYUNDAI
+Accent
+4
+50.9
+HYUNDAI
+Accent
+4
+34.8
+HYUNDAI
+Accent
+4
+52.7
+HYUNDAI
+Accent
+4
+36.3
+HYUNDAI
+Accent
+4
+55
+HYUNDAI
+Accent
+4
+34.7
+HYUNDAI
+Accent
+4
+53.6
+HYUNDAI
+Accent
+4
+53.3
+HYUNDAI
+Accent
+4
+34
+HYUNDAI
+Accent
+4
+34.1
+HYUNDAI
+Accent
+4
+51
+HYUNDAI
+Accent
+4
+34.5
+HYUNDAI
+Accent
+4
+53.5
+Hyundai
+Elantra
+4
+32.5
+Hyundai
+Elantra
+4
+32
+Hyundai
+Elantra
+4
+30.3
+Hyundai
+Elantra
+4
+48.4
+Hyundai
+Elantra
+4
+31.5
+Hyundai
+Elantra
+4
+35.7
+Hyundai
+Elantra
+4
+53
+Hyundai
+Elantra
+4
+36.6
+Hyundai
+Elantra
+4
+56.2
+Hyundai
+Elantra
+4
+34.5
+Hyundai
+Elantra
+4
+53
+Hyundai
+Elantra Coupe
+4
+32.4
+Hyundai
+Elantra Coupe
+4
+32.5
+HYUNDAI
+Veloster
+4
+35
+HYUNDAI
+Veloster
+4
+49.8
+HYUNDAI
+Veloster
+4
+36.2
+HYUNDAI
+Veloster
+4
+51.5
+HYUNDAI
+Veloster
+4
+33.6
+HYUNDAI
+Veloster
+4
+48.9
+HYUNDAI
+Veloster
+4
+33.8
+HYUNDAI
+Veloster
+4
+50
+Kia
+Cadenza
+6
+18.1
+Kia
+Cadenza
+6
+25.6
+Kia
+Cadenza
+6
+21
+Kia
+Cadenza
+6
+23.4
+Kia
+Cadenza
+6
+37.5
+KIA
+Forte
+4
+31.2
+KIA
+Forte
+4
+50.9
+KIA
+Forte
+4
+32.2
+KIA
+Forte
+4
+32
+KIA
+Forte
+4
+52.8
+KIA
+Forte
+4
+33.1
+KIA
+Forte
+4
+30.9
+KIA
+Forte
+4
+29.5
+KIA
+Forte
+4
+49.8
+KIA
+Forte
+4
+31.3
+KIA
+Forte
+4
+50.7
+KIA
+Forte
+4
+32.6
+KIA
+Forte
+4
+32.6
+KIA
+Forte
+4
+53
+Kia
+Forte
+4
+54.3
+Kia
+Forte
+4
+34.1
+KIA
+Forte
+4
+34.9
+KIA
+Forte
+4
+55.3
+KIA
+Forte
+4
+32.2
+KIA
+Forte
+4
+53
+KIA
+Forte
+4
+32.9
+KIA
+Forte
+4
+55.4
+KIA
+Forte 5
+4
+31.8
+KIA
+Forte 5
+4
+47.9
+KIA
+Forte 5
+4
+31
+KIA
+Forte Koup
+4
+27.7
+KIA
+Forte Koup
+4
+40.6
+KIA
+Forte Koup
+4
+28.1
+KIA
+Forte Koup
+4
+42.1
+KIA
+Forte Koup
+4
+32
+KIA
+Forte Koup
+4
+48.2
+KIA
+Forte Koup
+4
+31.8
+KIA
+Forte Koup
+4
+31
+KIA
+Forte Koup
+4
+46.2
+KIA
+Forte Koup
+4
+31.7
+KIA
+Forte5
+4
+26.9
+KIA
+Forte5
+4
+40.2
+KIA
+Forte5
+4
+26.9
+KIA
+Forte5
+4
+41.1
+KIA
+K900
+6
+37.1
+KIA
+K900
+6
+22.2
+KIA
+K900
+8
+18.6
+KIA
+K900
+8
+31.8
+KIA
+Optima
+4
+25.3
+KIA
+Optima
+4
+43.1
+KIA
+Optima
+4
+27.7
+KIA
+Optima
+4
+43.4
+KIA
+Optima
+4
+28.2
+KIA
+Optima
+4
+46.9
+KIA
+Optima
+4
+28.1
+KIA
+Optima
+4
+44.3
+KIA
+Optima
+4
+29.4
+KIA
+Optima
+4
+48.4
+KIA
+Rio
+4
+35.6
+KIA
+Rio
+4
+54
+KIA
+Rio
+4
+34.3
+KIA
+Rio
+4
+50.5
+KIA
+Rio
+4
+35.2
+KIA
+Rio
+4
+53.4
+KIA
+Rio
+4
+34.3
+KIA
+Rio
+4
+52.4
+KIA
+Rio ECO
+4
+35.4
+KIA
+Rio ECO
+4
+52
+KIA
+Rio ECO
+4
+36
+KIA
+Rio ECO
+4
+53.3
+Kia
+Sedona
+6
+22.3
+Kia
+Sedona
+6
+33.9
+Kia
+Sedona SX
+6
+22.8
+Kia
+Sedona SX
+6
+34.7
+Kia
+Sedona SXL
+6
+20.7
+Kia
+Sedona SXL
+6
+31.2
+Kia
+Sorento
+6
+32.7
+Kia
+Sorento
+6
+21.9
+Kia
+Sorento
+6
+22.1
+Kia
+Sorento
+6
+32.9
+Kia
+Sorento
+6
+22.9
+Kia
+Sorento
+6
+33.9
+Kia
+Sorento
+6
+23.2
+Kia
+Sorento
+6
+36.3
+Kia
+Sorento
+4
+25.2
+Kia
+Sorento
+4
+37.8
+Kia
+Sorento
+4
+24.3
+Kia
+Sorento
+4
+34.9
+KIA
+Soul
+4
+29.9
+KIA
+Soul
+4
+43.3
+KIA
+Soul
+4
+29.4
+KIA
+Soul
+4
+42.2
+KIA
+Soul
+4
+30.7
+KIA
+Soul
+4
+42.2
+KIA
+Soul
+4
+30.3
+KIA
+Soul
+4
+42.3
+KIA
+Soul ECO dynamics
+4
+42.9
+KIA
+Soul ECO dynamics
+4
+31
+Kia
+Sportage
+4
+36.6
+Kia
+Sportage
+4
+25.8
+Kia
+Sportage
+4
+23.4
+Kia
+Sportage
+4
+33.9
+Kia
+Sportage
+4
+24.2
+Kia
+Sportage
+4
+35.6
+Kia
+Sportage
+4
+24.5
+Kia
+Sportage
+4
+37.2
+Kia
+Sportage
+4
+24.5
+Kia
+Sportage
+4
+34
+Kia
+Sportage
+4
+24.8
+Kia
+Sportage
+4
+36.4
+Kia
+Sportage
+4
+25.7
+Kia
+Sportage
+4
+39.7
+Kia
+Sportage
+4
+26.2
+Kia
+Sportage
+4
+39.8
+LAMBORGHINI
+834
+12
+11.2
+LAMBORGHINI
+834
+12
+11
+LAMBORGHINI
+834
+12
+12.5
+LAMBORGHINI
+834
+12
+22.7
+LAMBORGHINI
+834
+12
+16.7
+LAMBORGHINI
+AVENTADOR
+12
+11.2
+LAMBORGHINI
+AVENTADOR
+12
+12
+LAMBORGHINI
+AVENTADOR
+12
+21.2
+LAMBORGHINI
+AVENTADOR
+12
+11.5
+LAMBORGHINI
+AVENTADOR
+12
+15
+LAMBORGHINI
+AVENTADOR
+12
+12.6
+LAMBORGHINI
+AVENTADOR
+12
+25.2
+LAMBORGHINI
+AVENTADOR
+12
+16.8
+MASERATI
+Ghibli S Q4 V6
+6
+18.7
+MASERATI
+Ghibli S Q4 V6
+6
+33.5
+MASERATI
+Ghibli S Q4 V6
+6
+18.7
+MASERATI
+Ghibli S Q4 V6
+6
+35.9
+MASERATI
+GHIBLI V6 RWD
+6
+19.1
+MASERATI
+GHIBLI V6 RWD
+6
+33.5
+MASERATI
+Ghibli V6 RWD
+6
+19.2
+MASERATI
+Ghibli V6 RWD
+6
+34.9
+MASERATI
+GRANTURISMO CONVERTIBLE
+8
+15.9
+MASERATI
+GRANTURISMO CONVERTIBLE
+8
+28
+MASERATI
+GRANTURISMO CONVERTIBLE
+8
+15.6
+MASERATI
+GRANTURISMO CONVERTIBLE
+8
+28.5
+MASERATI
+GRANTURISMO MC
+8
+28.7
+MASERATI
+GRANTURISMO SPORT
+8
+15.9
+MASERATI
+GRANTURISMO SPORT
+8
+15.7
+MASERATI
+GRANTURISMO SPORT
+8
+28.6
+MASERATI
+QUATTROPORTE GTS
+8
+16.5
+MASERATI
+QUATTROPORTE GTS
+8
+29.7
+MASERATI
+QUATTROPORTE GTS
+8
+16.6
+MASERATI
+QUATTROPORTE GTS
+8
+31.4
+MASERATI
+QUATTROPORTE SQ4 V6
+6
+31.7
+MASERATI
+QUATTROPORTE SQ4 V6
+6
+18.5
+MASERATI
+QUATTROPORTE SQ4 V6
+6
+18.4
+MASERATI
+QUATTROPORTE SQ4 V6
+6
+35.7
+Mazda
+CX-5
+4
+33.7
+Mazda
+CX-5
+4
+48.9
+Mazda
+CX-5
+4
+32.7
+Mazda
+CX-5
+4
+43.4
+Mazda
+CX-5
+4
+33.9
+Mazda
+CX-5
+4
+45.6
+Mazda
+CX-5
+4
+34.4
+Mazda
+CX-5
+4
+45.4
+Mazda
+CX-5
+4
+31.1
+Mazda
+CX-5
+4
+42.6
+Mazda
+CX-5
+4
+30
+Mazda
+CX-5
+4
+41.4
+Mazda
+CX-5
+4
+31.4
+Mazda
+CX-5
+4
+44.7
+Mazda
+CX-5
+4
+31.8
+Mazda
+CX-5
+4
+31.6
+Mazda
+CX-5
+4
+44.3
+Mazda
+CX-9 AWD
+6
+20.4
+Mazda
+CX-9 AWD
+6
+30.3
+Mazda
+CX-9 AWD
+6
+20.5
+Mazda
+CX-9 AWD
+6
+30.7
+Mazda
+CX-9 FWD
+6
+21.8
+Mazda
+CX-9 FWD
+6
+33.8
+Mazda
+CX-9 FWD
+6
+20.6
+Mazda
+CX-9 FWD
+6
+32.8
+MAZDA
+MAZDA3
+4
+38.2
+MAZDA
+MAZDA3
+4
+58
+MAZDA
+MAZDA3
+4
+37.6
+MAZDA
+MAZDA3
+4
+56.9
+MAZDA
+MAZDA3
+4
+36.5
+MAZDA
+MAZDA3
+4
+55.4
+MAZDA
+MAZDA3
+4
+35.9
+MAZDA
+MAZDA3
+4
+52.8
+MAZDA
+MAZDA3
+4
+56.2
+MAZDA
+MAZDA3
+4
+37.5
+MAZDA
+MAZDA3
+4
+55.1
+MAZDA
+MAZDA3
+4
+36.9
+MAZDA
+MAZDA3
+4
+39.1
+MAZDA
+MAZDA3
+4
+58.8
+MAZDA
+MAZDA3
+4
+38.6
+MAZDA
+MAZDA3
+4
+56.9
+MAZDA
+MAZDA3
+4
+36.2
+MAZDA
+MAZDA3
+4
+55.1
+MAZDA
+MAZDA3
+4
+51.6
+MAZDA
+MAZDA3
+4
+34.8
+MAZDA
+MAZDA3
+4
+35
+MAZDA
+MAZDA3
+4
+50.4
+MAZDA
+MAZDA3
+4
+37.7
+MAZDA
+MAZDA3
+4
+57.3
+MAZDA
+MAZDA3
+4
+55.8
+MAZDA
+MAZDA3
+4
+37.2
+MAZDA
+MAZDA3
+4
+52.2
+MAZDA
+MAZDA3
+4
+32.4
+MAZDA
+MAZDA3
+4
+50.1
+MAZDA
+MAZDA3
+4
+32.9
+MAZDA
+MAZDA5
+4
+28.1
+MAZDA
+MAZDA5
+4
+41.7
+MAZDA
+MAZDA5
+4
+40.3
+MAZDA
+MAZDA5
+4
+26.4
+MAZDA
+MAZDA5
+4
+24.2
+MAZDA
+MAZDA6
+4
+32.3
+MAZDA
+MAZDA6
+4
+52.4
+MAZDA
+MAZDA6
+4
+31.6
+MAZDA
+MAZDA6
+4
+50.6
+MAZDA
+MAZDA6
+4
+34.7
+MAZDA
+MAZDA6
+4
+54.7
+MAZDA
+MAZDA6
+4
+32.7
+MAZDA
+MAZDA6
+4
+52.5
+MAZDA
+MAZDA6
+4
+56.5
+MAZDA
+MAZDA6
+4
+36.7
+MAZDA
+MAZDA6
+4
+36
+MAZDA
+MAZDA6
+4
+57.2
+MAZDA
+MX-5
+4
+28.5
+MAZDA
+MX-5
+4
+38.8
+MAZDA
+MX-5
+4
+26.9
+MAZDA
+MX-5
+4
+39
+MAZDA
+MX-5
+4
+27.6
+MAZDA
+MX-5
+4
+40.2
+MAZDA
+MX-5
+4
+25.4
+MAZDA
+MX-5
+4
+39.9
+MAZDA
+MX-5
+4
+26.9
+MAZDA
+MX-5
+4
+38.5
+MAZDA
+MX-5
+4
+25.2
+MAZDA
+MX-5
+4
+38.4
+McLaren
+MP4-12C Coupe
+8
+19.6
+McLaren
+MP4-12C Coupe
+8
+30.4
+McLaren
+MP4-12C Coupe
+8
+22.1
+McLaren
+MP4-12C Coupe
+8
+16.5
+McLaren
+MP4-12C Coupe
+8
+16.7
+McLaren
+P1
+8
+16.1
+McLaren
+P1
+8
+28.2
+McLaren
+P1
+8
+21.2
+McLaren
+P1
+8
+19.5
+McLaren
+P1
+8
+17.3
+Mercedes-Benz
+C 250 (Coupe)
+4
+27.3
+Mercedes-Benz
+C 250 (Coupe)
+4
+44.3
+Mercedes-Benz
+C 300 4MATIC
+4
+30.9
+Mercedes-Benz
+C 300 4MATIC
+4
+44.2
+Mercedes-Benz
+C 350 (Coupe)
+6
+25.3
+Mercedes-Benz
+C 350 (Coupe)
+6
+40
+Mercedes-Benz
+C 350 (Coupe)
+6
+21.2
+Mercedes-Benz
+C 350 4Matic (Coupe)
+6
+24.5
+Mercedes-Benz
+C 350 4Matic (Coupe)
+6
+37.9
+Mercedes-Benz
+C 400 4MATIC
+8
+26.7
+Mercedes-Benz
+C 400 4MATIC
+8
+40
+Mercedes-Benz
+CLS 400
+8
+25.5
+Mercedes-Benz
+CLS 400
+8
+42.1
+Mercedes-Benz
+CLS 400 4MATIC
+8
+24.6
+Mercedes-Benz
+CLS 400 4MATIC
+8
+38.6
+Mercedes-Benz
+CLS 550
+8
+21.9
+Mercedes-Benz
+CLS 550
+8
+36.5
+Mercedes-Benz
+CLS 550 4MATIC
+8
+33.1
+Mercedes-Benz
+CLS 550 4MATIC
+8
+20.9
+Mercedes-Benz
+CLS 63 AMG 4MATIC
+8
+19.4
+Mercedes-Benz
+CLS 63 AMG 4MATIC
+8
+30.3
+Mercedes-Benz
+E 250 BLUETEC
+4
+36.7
+Mercedes-Benz
+E 250 BLUETEC
+4
+36.7
+Mercedes-Benz
+E 250 BLUETEC
+4
+36.7
+Mercedes-Benz
+E 250 BLUETEC
+4
+59.5
+Mercedes-Benz
+E 250 BLUETEC
+4
+59.5
+Mercedes-Benz
+E 250 BLUETEC
+4
+59.5
+Mercedes-Benz
+E 250 BLUETEC 4MATIC
+4
+35.2
+Mercedes-Benz
+E 250 BLUETEC 4MATIC
+4
+35.2
+Mercedes-Benz
+E 250 BLUETEC 4MATIC
+4
+35.2
+Mercedes-Benz
+E 250 BLUETEC 4MATIC
+4
+54.7
+Mercedes-Benz
+E 250 BLUETEC 4MATIC
+4
+54.7
+Mercedes-Benz
+E 250 BLUETEC 4MATIC
+4
+54.7
+Mercedes-Benz
+E 350
+6
+40.1
+Mercedes-Benz
+E 350
+6
+25.8
+Mercedes-Benz
+E 350
+6
+17.2
+Mercedes-Benz
+E 350
+6
+27.4
+Mercedes-Benz
+E 350 (convertible)
+6
+39.2
+Mercedes-Benz
+E 350 (convertible)
+6
+24.7
+Mercedes-Benz
+E 350 (coupe)
+6
+39.7
+Mercedes-Benz
+E 350 (coupe)
+6
+23.7
+Mercedes-Benz
+E 350 (coupe)
+6
+24.4
+Mercedes-Benz
+E 350 4MATIC
+6
+29
+Mercedes-Benz
+E 350 4MATIC
+6
+19.3
+Mercedes-Benz
+E 350 4MATIC
+6
+25.9
+Mercedes-Benz
+E 350 4MATIC
+6
+38.7
+Mercedes-Benz
+E 350 4MATIC (Station Wagon)
+6
+25.2
+Mercedes-Benz
+E 350 4MATIC (Station Wagon)
+6
+37.1
+Mercedes-Benz
+E 400
+8
+25.7
+Mercedes-Benz
+E 400
+8
+40.7
+Mercedes-Benz
+E 400 (convertible)
+8
+25.8
+Mercedes-Benz
+E 400 (convertible)
+8
+40.9
+Mercedes-Benz
+E 400 (coupe)
+8
+25.6
+Mercedes-Benz
+E 400 (coupe)
+8
+41.4
+Mercedes-Benz
+E 400 4MATIC
+8
+24.8
+Mercedes-Benz
+E 400 4MATIC
+8
+38.6
+Mercedes-Benz
+E 400 4MATIC (coupe)
+8
+25.2
+Mercedes-Benz
+E 400 4MATIC (coupe)
+8
+39.4
+Mercedes-Benz
+E 400 4MATIC (station wagon)
+8
+23.8
+Mercedes-Benz
+E 400 4MATIC (station wagon)
+8
+37.1
+Mercedes-Benz
+E 400 HYBRID
+6
+30.2
+Mercedes-Benz
+E 400 HYBRID
+6
+40
+Mercedes-Benz
+E 550 (convertible)
+8
+21.5
+Mercedes-Benz
+E 550 (convertible)
+8
+35.7
+Mercedes-Benz
+E 550 (coupe)
+8
+22
+Mercedes-Benz
+E 550 (coupe)
+8
+36.8
+Mercedes-Benz
+E 63 AMG 4MATIC
+8
+20.1
+Mercedes-Benz
+E 63 AMG 4MATIC
+8
+31.7
+Mercedes-Benz
+E 63 AMG S 4MATIC
+8
+19.1
+Mercedes-Benz
+E 63 AMG S 4MATIC
+8
+30.2
+Mercedes-Benz
+E 63 AMG S 4MATIC (station wagon)
+8
+19.2
+Mercedes-Benz
+E 63 AMG S 4MATIC (station wagon)
+8
+29.8
+Mercedes-Benz
+G 550
+8
+14.4
+Mercedes-Benz
+G 550
+8
+20.3
+Mercedes-Benz
+GL 350 BLUETEC 4MATIC
+6
+36.3
+Mercedes-Benz
+GL 350 BLUETEC 4MATIC
+6
+36.3
+Mercedes-Benz
+GL 350 BLUETEC 4MATIC
+6
+36.3
+Mercedes-Benz
+GL 350 BLUETEC 4MATIC
+6
+24
+Mercedes-Benz
+GL 350 BLUETEC 4MATIC
+6
+24
+Mercedes-Benz
+GL 350 BLUETEC 4MATIC
+6
+24
+Mercedes-Benz
+GL 450 4MATIC
+6
+21.1
+Mercedes-Benz
+GL 450 4MATIC
+6
+29.1
+Mercedes-Benz
+GL 550 4MATIC
+8
+14.5
+Mercedes-Benz
+GL 550 4MATIC
+8
+16.6
+Mercedes-Benz
+GL 550 4MATIC
+8
+24.7
+Mercedes-Benz
+GL 550 4MATIC
+8
+14
+Mercedes-Benz
+GL 550 4MATIC
+8
+16.7
+Mercedes-Benz
+GL 63 AMG
+8
+12.1
+Mercedes-Benz
+GL 63 AMG
+8
+14.9
+Mercedes-Benz
+GL 63 AMG
+8
+20.7
+Mercedes-Benz
+GL 63 AMG
+8
+12.5
+Mercedes-Benz
+GL 63 AMG
+8
+13.9
+Mercedes-Benz
+GL 63 AMG
+8
+13.6
+Mercedes-Benz
+GL 63 AMG
+8
+16.4
+Mercedes-Benz
+GL 63 AMG
+8
+24.2
+Mercedes-Benz
+GL 63 AMG
+8
+13.8
+Mercedes-Benz
+GL 63 AMG
+8
+15.6
+Mercedes-Benz
+GLA 250 4MATIC
+4
+30.9
+Mercedes-Benz
+GLA 250 4MATIC
+4
+45
+Mercedes-Benz
+GLA 250 4MATIC
+4
+21.7
+Mercedes-Benz
+GLA 250 4MATIC
+4
+33.6
+Mercedes-Benz
+GLA 45 AMG 4MATIC
+4
+29.2
+Mercedes-Benz
+GLA 45 AMG 4MATIC
+4
+40.9
+Mercedes-Benz
+GLK 250 BLUETEC 4MATIC
+4
+46.9
+Mercedes-Benz
+GLK 250 BLUETEC 4MATIC
+4
+46.9
+Mercedes-Benz
+GLK 250 BLUETEC 4MATIC
+4
+46.9
+Mercedes-Benz
+GLK 250 BLUETEC 4MATIC
+4
+31.3
+Mercedes-Benz
+GLK 250 BLUETEC 4MATIC
+4
+31.3
+Mercedes-Benz
+GLK 250 BLUETEC 4MATIC
+4
+31.3
+Mercedes-Benz
+GLK 350
+6
+24
+Mercedes-Benz
+GLK 350
+6
+35.7
+Mercedes-Benz
+GLK 350
+6
+23.8
+Mercedes-Benz
+GLK 350
+6
+23.6
+Mercedes-Benz
+GLK 350
+6
+35.5
+Mercedes-Benz
+GLK 350
+6
+23.3
+Mercedes-Benz
+GLK 350 4MATIC
+6
+22.8
+Mercedes-Benz
+GLK 350 4MATIC
+6
+34.7
+Mercedes-Benz
+GLK 350 4MATIC
+6
+21.8
+Mercedes-Benz
+GLK 350 4MATIC
+6
+22.9
+Mercedes-Benz
+GLK 350 4MATIC
+6
+34.1
+Mercedes-Benz
+ML 250 BlueTEC 4MATIC
+4
+43.7
+Mercedes-Benz
+ML 250 BlueTEC 4MATIC
+4
+43.7
+Mercedes-Benz
+ML 250 BlueTEC 4MATIC
+4
+43.7
+Mercedes-Benz
+ML 250 BlueTEC 4MATIC
+4
+29.5
+Mercedes-Benz
+ML 250 BlueTEC 4MATIC
+4
+29.5
+Mercedes-Benz
+ML 250 BlueTEC 4MATIC
+4
+29.5
+Mercedes-Benz
+ML 250 BlueTEC 4MATIC
+4
+26.2
+Mercedes-Benz
+ML 250 BlueTEC 4MATIC
+4
+26.2
+Mercedes-Benz
+ML 250 BlueTEC 4MATIC
+4
+26.2
+Mercedes-Benz
+ML 250 BlueTEC 4MATIC
+4
+22.8
+Mercedes-Benz
+ML 250 BlueTEC 4MATIC
+4
+22.8
+Mercedes-Benz
+ML 250 BlueTEC 4MATIC
+4
+22.8
+Mercedes-Benz
+ML 250 BlueTEC 4MATIC
+4
+21.6
+Mercedes-Benz
+ML 250 BlueTEC 4MATIC
+4
+21.6
+Mercedes-Benz
+ML 250 BlueTEC 4MATIC
+4
+21.6
+Mercedes-Benz
+ML 350
+6
+22.8
+Mercedes-Benz
+ML 350
+6
+32.8
+Mercedes-Benz
+ML 350 4MATIC
+6
+21.9
+Mercedes-Benz
+ML 350 4MATIC
+6
+31.1
+Mercedes-Benz
+ML 350 4MATIC
+6
+16.3
+Mercedes-Benz
+ML 350 4MATIC
+6
+23.4
+Mercedes-Benz
+ML 400 4MATIC
+6
+22.4
+Mercedes-Benz
+ML 400 4MATIC
+6
+30.6
+Mercedes-Benz
+ML 63 AMG
+8
+17.1
+Mercedes-Benz
+ML 63 AMG
+8
+24.4
+Mercedes-Benz
+ML 63 AMG
+8
+12.5
+Mercedes-Benz
+ML 63 AMG
+8
+16
+Mercedes-Benz
+ML 63 AMG
+8
+13.8
+Mercedes-Benz
+S 550
+8
+21.8
+Mercedes-Benz
+S 550
+8
+35.5
+Mercedes-Benz
+S 550
+8
+22.8
+Mercedes-Benz
+S 550
+8
+17.6
+Mercedes-Benz
+S 550
+8
+17
+Mercedes-Benz
+S 550
+8
+23.7
+Mercedes-Benz
+S 550 4MATIC
+8
+20.5
+Mercedes-Benz
+S 550 4MATIC
+8
+34.5
+Mercedes-Benz
+S 550 4MATIC
+8
+22.8
+Mercedes-Benz
+S 550 4MATIC
+8
+16.5
+Mercedes-Benz
+S 550 4MATIC
+8
+16.5
+Mercedes-Benz
+S 550 4MATIC (coupe)
+8
+20.4
+Mercedes-Benz
+S 550 4MATIC (coupe)
+8
+33.4
+Mercedes-Benz
+S 600
+12
+15.7
+Mercedes-Benz
+S 600
+12
+29.2
+Mercedes-Benz
+S 63 AMG 4MATIC
+8
+15.6
+Mercedes-Benz
+S 63 AMG 4MATIC
+8
+18.7
+Mercedes-Benz
+S 63 AMG 4MATIC
+8
+31.7
+Mercedes-Benz
+S 63 AMG 4MATIC
+8
+15.4
+Mercedes-Benz
+S 63 AMG 4MATIC
+8
+21.1
+Mercedes-Benz
+S 63 AMG 4MATIC (coupe)
+8
+19.1
+Mercedes-Benz
+S 63 AMG 4MATIC (coupe)
+8
+32.2
+Mercedes-Benz
+S 65 AMG
+12
+15.7
+Mercedes-Benz
+S 65 AMG
+12
+27.6
+Mercedes-Benz
+SL 400
+8
+25.2
+Mercedes-Benz
+SL 400
+8
+37.9
+Mercedes-Benz
+SL 550
+8
+21.9
+Mercedes-Benz
+SL 550
+8
+33.8
+Mercedes-Benz
+SL 63 AMG
+8
+19.8
+Mercedes-Benz
+SL 63 AMG
+8
+32.2
+Mercedes-Benz
+SL 63 AMG
+8
+23.1
+Mercedes-Benz
+SL 63 AMG
+8
+17.6
+Mercedes-Benz
+SL 63 AMG
+8
+15.7
+Mercedes-Benz
+SL 65 AMG
+12
+17.4
+Mercedes-Benz
+SL 65 AMG
+12
+29.2
+Mercedes-Benz
+SLK 250
+4
+28.9
+Mercedes-Benz
+SLK 250
+4
+46
+Mercedes-Benz
+SLK 250
+4
+28.6
+Mercedes-Benz
+SLK 250
+4
+45.6
+Mercedes-Benz
+SLK 350
+6
+40.6
+Mercedes-Benz
+SLK 350
+6
+26.9
+Mercedes-Benz
+SLK 55 AMG
+8
+23.9
+Mercedes-Benz
+SLK 55 AMG
+8
+38.1
+Mercedes-Benz
+SLK 55 AMG
+8
+25.4
+Mercedes-Benz
+SLK 55 AMG
+8
+19
+Mercedes-Benz
+SLK 55 AMG
+8
+21.6
+Mercedes-Benz
+SLS AMG
+8
+25.9
+Mercedes-Benz
+SLS AMG
+8
+16
+Mercedes-Benz
+smart fortwo (Coupe)
+3
+30.8
+Mercedes-Benz
+smart fortwo (Coupe)
+3
+36.7
+Mercedes-Benz
+smart fortwo (Coupe)
+3
+58.5
+Mercedes-Benz
+smart fortwo (Coupe)
+3
+45.1
+W204E63-Z1011
+C 63 AMG
+8
+16.3
+W204E63-Z1011
+C 63 AMG
+8
+26.7
+MITSUBISHI
+LANCER
+4
+31.5
+MITSUBISHI
+LANCER
+4
+48.2
+MITSUBISHI
+LANCER
+4
+33
+MITSUBISHI
+LANCER
+4
+48
+MITSUBISHI
+LANCER
+4
+28.7
+MITSUBISHI
+LANCER
+4
+43.6
+MITSUBISHI
+LANCER
+4
+29.3
+MITSUBISHI
+LANCER
+4
+42.4
+MITSUBISHI
+LANCER
+4
+47.6
+MITSUBISHI
+LANCER
+4
+34
+MITSUBISHI
+LANCER EVOLUTION
+4
+21
+MITSUBISHI
+LANCER EVOLUTION
+4
+31.9
+MITSUBISHI
+LANCER EVOLUTION
+4
+20.7
+MITSUBISHI
+LANCER EVOLUTION
+4
+31.1
+MITSUBISHI
+LANCER SPORTBACK
+4
+21.9
+MITSUBISHI
+LANCER SPORTBACK
+4
+34.9
+MITSUBISHI
+LANCER SPORTBACK
+4
+28.4
+MITSUBISHI
+LANCER SPORTBACK
+4
+40.1
+MITSUBISHI
+MIRAGE
+3
+44.5
+MITSUBISHI
+MIRAGE
+3
+60.7
+MITSUBISHI
+MIRAGE
+3
+63.4
+MITSUBISHI
+MIRAGE
+3
+49.4
+MITSUBISHI
+OUTLANDER 2WD
+4
+31.6
+MITSUBISHI
+OUTLANDER 2WD
+4
+42.9
+MITSUBISHI
+OUTLANDER 4WD
+4
+30.3
+MITSUBISHI
+OUTLANDER 4WD
+4
+40.9
+MITSUBISHI
+OUTLANDER 4WD
+6
+25.8
+MITSUBISHI
+OUTLANDER 4WD
+6
+38.8
+MITSUBISHI
+OUTLANDER SPORT 2WD
+4
+30.1
+MITSUBISHI
+OUTLANDER SPORT 2WD
+4
+41.4
+MITSUBISHI
+OUTLANDER SPORT 2WD
+4
+31.6
+MITSUBISHI
+OUTLANDER SPORT 2WD
+4
+44.5
+MITSUBISHI
+OUTLANDER SPORT 4WD
+4
+31.3
+MITSUBISHI
+OUTLANDER SPORT 4WD
+4
+42.8
+INFINITI
+INFINITI  Q50 HYBRID PREMIUM
+6
+36.5
+INFINITI
+INFINITI  Q50 HYBRID PREMIUM
+6
+47.6
+INFINITI
+INFINITI G37 Convertible Journey
+6
+21.3
+INFINITI
+INFINITI G37 Convertible Journey
+6
+35.1
+INFINITI
+INFINITI G37 Convertible Journey
+6
+22.1
+INFINITI
+INFINITI G37 Convertible Journey
+6
+35.8
+INFINITI
+INFINITI G37 Convertible Sport 6MT
+6
+20.5
+INFINITI
+INFINITI G37 Convertible Sport 6MT
+6
+33.5
+INFINITI
+INFINITI G37 Coupe Journey
+6
+22.5
+INFINITI
+INFINITI G37 Coupe Journey
+6
+36.8
+INFINITI
+INFINITI G37 Coupe Journey
+6
+24.1
+INFINITI
+INFINITI G37 Coupe Journey
+6
+37.9
+INFINITI
+INFINITI G37 Coupe Sport 6MT
+6
+21.7
+INFINITI
+INFINITI G37 Coupe Sport 6MT
+6
+35.3
+INFINITI
+INFINITI G37x Coupe AWD
+6
+22.1
+INFINITI
+INFINITI G37x Coupe AWD
+6
+34.7
+INFINITI
+INFINITI G37x Coupe AWD
+6
+22.2
+INFINITI
+INFINITI G37x Coupe AWD
+6
+35.4
+INFINITI
+INFINITI Q50 HYBRID PREMIUM
+6
+36.7
+INFINITI
+INFINITI Q50 HYBRID PREMIUM
+6
+48.1
+INFINITI
+INFINITI Q50 HYBRID PREMIUM
+6
+38.2
+INFINITI
+INFINITI Q50 HYBRID PREMIUM
+6
+53
+INFINITI
+INFINITI Q50 HYBRID PREMIUM
+6
+37.4
+INFINITI
+INFINITI Q50 HYBRID PREMIUM
+6
+51.1
+INFINITI
+INFINITI Q50 PREMIUM
+6
+24.7
+INFINITI
+INFINITI Q50 PREMIUM
+6
+41
+INFINITI
+INFINITI Q50 PREMIUM
+6
+24.7
+INFINITI
+INFINITI Q50 PREMIUM
+6
+40.8
+INFINITI
+INFINITI Q50 PREMIUM
+6
+25.2
+INFINITI
+INFINITI Q50 PREMIUM
+6
+41.6
+INFINITI
+INFINITI Q50 PREMIUM
+6
+24.8
+INFINITI
+INFINITI Q50 PREMIUM
+6
+41.8
+INFINITI
+INFINITI Q50 PREMIUM
+6
+24.4
+INFINITI
+INFINITI Q50 PREMIUM
+6
+39
+INFINITI
+INFINITI Q50 PREMIUM
+6
+24.2
+INFINITI
+INFINITI Q50 PREMIUM
+6
+39.5
+INFINITI
+INFINITI Q50 PREMIUM
+6
+24.9
+INFINITI
+INFINITI Q50 PREMIUM
+6
+41.2
+INFINITI
+INFINITI Q50 PREMIUM
+6
+24.9
+INFINITI
+INFINITI Q50 PREMIUM
+6
+41.4
+INFINITI
+INFINITI Q50 PREMIUM AWD
+6
+23.3
+INFINITI
+INFINITI Q50 PREMIUM AWD
+6
+37.4
+INFINITI
+INFINITI Q50 PREMIUM AWD
+6
+23.1
+INFINITI
+INFINITI Q50 PREMIUM AWD
+6
+37.8
+INFINITI
+INFINITI Q50 PREMIUM AWD
+6
+23.5
+INFINITI
+INFINITI Q50 PREMIUM AWD
+6
+38.3
+INFINITI
+INFINITI Q50 PREMIUM AWD
+6
+23.5
+INFINITI
+INFINITI Q50 PREMIUM AWD
+6
+38.1
+INFINITI
+INFINITI Q50S Q50 HYBRID SPORT 4WD
+6
+36.7
+INFINITI
+INFINITI Q50S Q50 HYBRID SPORT 4WD
+6
+50
+INFINITI
+INFINITI Q50S Q50 HYBRID SPORT AWD
+6
+35.8
+INFINITI
+INFINITI Q50S Q50 HYBRID SPORT AWD
+6
+50
+INFINITI
+INFINITI Q50S Q50 HYBRID SPORT AWD
+6
+34.5
+INFINITI
+INFINITI Q50S Q50 HYBRID SPORT AWD
+6
+43.8
+INFINITI
+INFINITI Q50S Q50 HYBRID SPORT AWD
+6
+35
+INFINITI
+INFINITI Q50S Q50 HYBRID SPORT AWD
+6
+43.4
+INFINITI
+INFINITI Q70 3.7
+6
+23.1
+INFINITI
+INFINITI Q70 3.7
+6
+36.4
+INFINITI
+INFINITI Q70 3.7
+6
+35.8
+INFINITI
+INFINITI Q70 3.7
+6
+21.9
+INFINITI
+INFINITI Q70 3.7 AWD
+6
+33.9
+INFINITI
+INFINITI Q70 3.7 AWD
+6
+22.2
+INFINITI
+INFINITI Q70 3.7 AWD
+6
+33.7
+INFINITI
+INFINITI Q70 3.7 AWD
+6
+22.2
+INFINITI
+INFINITI Q70 3.7 AWD
+6
+34.2
+INFINITI
+INFINITI Q70 3.7 AWD
+6
+22.2
+INFINITI
+INFINITI Q70 3.7 AWD
+6
+34.5
+INFINITI
+INFINITI Q70 3.7 AWD
+6
+22.1
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+19.3
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+31.5
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+19.3
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+31.6
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+19.8
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+32.4
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+19.8
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+32.5
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+19.7
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+32.3
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+19.7
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+32.4
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+20.4
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+34.1
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+20.4
+INFINITI
+INFINITI Q70 AWD 5.6
+8
+33.8
+INFINITI
+INFINITI Q70 HYBRID
+6
+38.5
+INFINITI
+INFINITI Q70 HYBRID
+6
+47.9
+INFINITI
+INFINITI Q70 HYBRID
+6
+38
+INFINITI
+INFINITI Q70 HYBRID
+6
+47.9
+INFINITI
+INFINITI QX50 AWD Journey
+6
+21.7
+INFINITI
+INFINITI QX50 AWD Journey
+6
+34.2
+INFINITI
+INFINITI QX50 AWD Journey
+6
+21.4
+INFINITI
+INFINITI QX50 AWD Journey
+6
+33.6
+INFINITI
+INFINITI QX50 Journey
+6
+22.1
+INFINITI
+INFINITI QX50 Journey
+6
+34.8
+INFINITI
+INFINITI QX60 AWD
+6
+36.2
+INFINITI
+INFINITI QX60 AWD
+6
+25.3
+INFINITI
+INFINITI QX60 AWD
+6
+25.5
+INFINITI
+INFINITI QX60 AWD
+6
+36.8
+INFINITI
+INFINITI QX60 AWD
+6
+25.4
+INFINITI
+INFINITI QX60 AWD
+6
+37.2
+INFINITI
+INFINITI QX60 AWD
+6
+25.8
+INFINITI
+INFINITI QX60 AWD
+6
+37.6
+INFINITI
+INFINITI QX60 AWD
+6
+26
+INFINITI
+INFINITI QX60 AWD
+6
+38.7
+INFINITI
+INFINITI QX60 AWD
+6
+26.2
+INFINITI
+INFINITI QX60 AWD
+6
+39
+INFINITI
+INFINITI QX60 AWD
+4
+34.3
+INFINITI
+INFINITI QX60 AWD
+4
+39
+INFINITI
+INFINITI QX60 AWD
+4
+33.8
+INFINITI
+INFINITI QX60 AWD
+4
+38.7
+INFINITI
+INFINITI QX60 AWD
+4
+33.9
+INFINITI
+INFINITI QX60 AWD
+4
+39.1
+INFINITI
+INFINITI QX60 AWD
+4
+34.3
+INFINITI
+INFINITI QX60 AWD
+4
+39.3
+INFINITI
+INFINITI QX60 FWD
+4
+34.7
+INFINITI
+INFINITI QX60 FWD
+4
+39.9
+INFINITI
+INFINITI QX60 FWD
+4
+34.9
+INFINITI
+INFINITI QX60 FWD
+4
+40.3
+INFINITI
+INFINITI QX70 AWD
+6
+20
+INFINITI
+INFINITI QX70 AWD
+6
+30.2
+INFINITI
+INFINITI QX70 AWD
+6
+20.2
+INFINITI
+INFINITI QX70 AWD
+6
+30.5
+INFINITI
+INFINITI QX70 RWD
+6
+21.2
+INFINITI
+INFINITI QX70 RWD
+6
+33.1
+INFINITI
+INFINITI QX80 4WD
+8
+17.2
+INFINITI
+INFINITI QX80 4WD
+8
+27.4
+INFINITI
+INFINITI QX80 4WD
+8
+17.2
+INFINITI
+INFINITI QX80 4WD
+8
+26.9
+INFINITI
+INFINITI QX80 4WD
+8
+17.3
+INFINITI
+INFINITI QX80 4WD
+8
+28.1
+INFINITI
+INFINITI QX80 4WD
+8
+17.3
+INFINITI
+INFINITI QX80 4WD
+8
+28.3
+NISSAN
+ARMADA SE 5.6L 4X4
+8
+15.4
+NISSAN
+ARMADA SE 5.6L 4X4
+8
+15.5
+NISSAN
+ARMADA SE 5.6L 4X4
+8
+25.8
+NISSAN
+ARMADA SE 5.6L 4X4
+8
+15.1
+NISSAN
+ARMADA SE 5.6L 4X4
+8
+24.2
+NISSAN
+ARMADA SE 5.6L 4X4
+8
+15.1
+NISSAN
+ARMADA SE 5.6L 4X4
+8
+24.2
+NISSAN
+NISSAN 370Z Touring
+6
+22.6
+NISSAN
+NISSAN 370Z Touring
+6
+36.4
+NISSAN
+NISSAN 370Z Touring
+6
+22.1
+NISSAN
+NISSAN 370Z Touring
+6
+35.3
+NISSAN
+NISSAN 370Z Touring
+6
+21.8
+NISSAN
+NISSAN 370Z Touring
+6
+34.3
+NISSAN
+NISSAN 370Z Touring
+6
+21.6
+NISSAN
+NISSAN 370Z Touring
+6
+33.9
+NISSAN
+NISSAN 370Z Touring
+6
+22.7
+NISSAN
+NISSAN 370Z Touring
+6
+34.5
+NISSAN
+NISSAN 370Z Touring
+6
+22.6
+NISSAN
+NISSAN 370Z Touring
+6
+34.2
+NISSAN
+NISSAN 370Z Touring
+6
+23.1
+NISSAN
+NISSAN 370Z Touring
+6
+35.1
+NISSAN
+NISSAN ALTIMA 2.5SL
+4
+35
+NISSAN
+NISSAN ALTIMA 2.5SL
+4
+54.1
+NISSAN
+NISSAN ALTIMA 2.5SL
+4
+35.2
+NISSAN
+NISSAN ALTIMA 2.5SL
+4
+54.5
+NISSAN
+NISSAN ALTIMA 2.5SL
+4
+35
+NISSAN
+NISSAN ALTIMA 2.5SL
+4
+54.5
+NISSAN
+NISSAN ALTIMA 2.5SL
+4
+35.2
+NISSAN
+NISSAN ALTIMA 2.5SL
+4
+54.9
+NISSAN
+NISSAN ALTIMA SL
+6
+29
+NISSAN
+NISSAN ALTIMA SL
+6
+44.8
+NISSAN
+NISSAN ALTIMA SL
+6
+29.2
+NISSAN
+NISSAN ALTIMA SL
+6
+45.2
+NISSAN
+NISSAN ALTIMA SL
+6
+29.2
+NISSAN
+NISSAN ALTIMA SL
+6
+45.2
+NISSAN
+Nissan Armada SE 5.6l 4x4
+8
+15.3
+NISSAN
+Nissan Armada SE 5.6l 4x4
+8
+15.3
+NISSAN
+Nissan Armada SE 5.6l 4x4
+8
+25.7
+NISSAN
+Nissan Armada SE 5.6l 4x4
+8
+18.6
+NISSAN
+Nissan Armada SE 5.6l 4x4
+8
+11.3
+NISSAN
+Nissan Armada SE 5.6l 4x4
+8
+15.1
+NISSAN
+Nissan Armada SE 5.6l 4x4
+8
+24
+NISSAN
+Nissan Armada SE 5.6l 4x4
+8
+15.2
+NISSAN
+Nissan Armada SE 5.6l 4x4
+8
+24.3
+NISSAN
+Nissan Armada SE 5.6l 4x4
+8
+18
+NISSAN
+Nissan Armada SE 5.6l 4x4
+8
+11.4
+NISSAN
+NISSAN FRONTIER 2WD K/C SV
+6
+20.3
+NISSAN
+NISSAN FRONTIER 2WD K/C SV
+6
+32.9
+NISSAN
+NISSAN FRONTIER 2WD K/C SV
+6
+19.7
+NISSAN
+NISSAN FRONTIER 2WD K/C SV
+6
+31.1
+NISSAN
+NISSAN FRONTIER 2WD S 4-Cyl 5AT
+4
+21.4
+NISSAN
+NISSAN FRONTIER 2WD S 4-Cyl 5AT
+4
+30.9
+NISSAN
+NISSAN FRONTIER 2WD S 4-Cyl 5MT
+4
+24.3
+NISSAN
+NISSAN FRONTIER 2WD S 4-Cyl 5MT
+4
+32
+NISSAN
+NISSAN FRONTIER 2WD SV 4-Cyl 5AT
+4
+21.8
+NISSAN
+NISSAN FRONTIER 2WD SV 4-Cyl 5AT
+4
+31.9
+NISSAN
+NISSAN FRONTIER 2WD SV 4-Cyl 5MT
+4
+33.3
+NISSAN
+NISSAN FRONTIER 2WD SV 4-Cyl 5MT
+4
+25.3
+NISSAN
+NISSAN FRONTIER 4WD C/C PRO-4X
+6
+18.2
+NISSAN
+NISSAN FRONTIER 4WD C/C PRO-4X
+6
+28
+NISSAN
+NISSAN FRONTIER 4WD C/C PRO-4X
+6
+18.4
+NISSAN
+NISSAN FRONTIER 4WD C/C PRO-4X
+6
+28.5
+NISSAN
+NISSAN FRONTIER 4WD C/C PRO-4X
+6
+18.9
+NISSAN
+NISSAN FRONTIER 4WD C/C PRO-4X
+6
+29.1
+NISSAN
+NISSAN FRONTIER 4WD K/C PRO-4X
+6
+19.1
+NISSAN
+NISSAN FRONTIER 4WD K/C PRO-4X
+6
+29
+NISSAN
+NISSAN FRONTIER 4WD K/C PRO-4X
+6
+19.8
+NISSAN
+NISSAN FRONTIER 4WD K/C PRO-4X
+6
+29.6
+NISSAN
+NISSAN FRONTIER 4WD K/C PRO-4X
+6
+19.5
+NISSAN
+NISSAN FRONTIER 4WD K/C PRO-4X
+6
+29
+NISSAN
+NISSAN FRONTIER 4WD K/C PRO-4X
+6
+18.2
+NISSAN
+NISSAN FRONTIER 4WD K/C PRO-4X
+6
+26.4
+NISSAN
+NISSAN FRONTIER 4WD K/C PRO-4X
+6
+18.3
+NISSAN
+NISSAN FRONTIER 4WD K/C PRO-4X
+6
+28.4
+NISSAN
+NISSAN FRONTIER 4WD K/C PRO-4X
+6
+18
+NISSAN
+NISSAN FRONTIER 4WD K/C PRO-4X
+6
+26.6
+NISSAN
+NISSAN FRONTIER 4WD K/C SV
+6
+20.2
+NISSAN
+NISSAN FRONTIER 4WD K/C SV
+6
+30.2
+NISSAN
+NISSAN FRONTIER 4WD K/C SV
+6
+19.5
+NISSAN
+NISSAN FRONTIER 4WD K/C SV
+6
+28
+NISSAN
+NISSAN FRONTIER 4WD K/C SV
+6
+20.6
+NISSAN
+NISSAN FRONTIER 4WD K/C SV
+6
+31.3
+NISSAN
+NISSAN FRONTIER 4WD K/C SV
+6
+19.4
+NISSAN
+NISSAN FRONTIER 4WD K/C SV
+6
+30.3
+NISSAN
+NISSAN FRONTIER 4WD K/C SV
+6
+18.7
+NISSAN
+NISSAN FRONTIER 4WD K/C SV
+6
+28.4
+NISSAN
+NISSAN FRONTIER 4WD K/C SV
+6
+18.9
+NISSAN
+NISSAN FRONTIER 4WD K/C SV
+6
+30
+NISSAN
+NISSAN FRONTIER 4WD K/C SV
+6
+19.8
+NISSAN
+NISSAN FRONTIER 4WD K/C SV
+6
+31
+NISSAN
+NISSAN GT-R
+6
+20.8
+NISSAN
+NISSAN GT-R
+6
+30.4
+NISSAN
+NISSAN GT-R
+6
+22.1
+NISSAN
+NISSAN GT-R
+6
+18.2
+NISSAN
+NISSAN GT-R
+6
+20.6
+NISSAN
+NISSAN GT-R
+6
+30.7
+NISSAN
+NISSAN GT-R
+6
+22.5
+NISSAN
+NISSAN GT-R
+6
+18.3
+NISSAN
+NISSAN GT-R
+6
+17.6
+NISSAN
+NISSAN GT-R
+6
+18.5
+NISSAN
+NISSAN GT-R
+6
+20.1
+NISSAN
+NISSAN GT-R
+6
+20.8
+NISSAN
+NISSAN GT-R
+6
+29.8
+NISSAN
+NISSAN GT-R
+6
+18.6
+NISSAN
+NISSAN GT-R
+6
+30.3
+NISSAN
+NISSAN GT-R
+6
+21.1
+NISSAN
+NISSAN GT-R
+6
+20.4
+NISSAN
+NISSAN GT-R
+6
+30.5
+NISSAN
+NISSAN NV200 Cargo Van S
+4
+24.5
+NISSAN
+NISSAN NV200 Cargo Van S
+4
+31.1
+NISSAN
+NISSAN NV200 Cargo Van S
+4
+41.1
+NISSAN
+NISSAN PATHFINDER 4WD S
+6
+36.6
+NISSAN
+NISSAN PATHFINDER 4WD S
+6
+24.5
+NISSAN
+NISSAN PATHFINDER 4WD S
+6
+25.2
+NISSAN
+NISSAN PATHFINDER 4WD S
+6
+37.7
+NISSAN
+NISSAN PATHFINDER 4WD S
+6
+25.8
+NISSAN
+NISSAN PATHFINDER 4WD S
+6
+39.1
+NISSAN
+NISSAN PATHFINDER 4WD S
+6
+26.4
+NISSAN
+NISSAN PATHFINDER 4WD S
+6
+40.1
+NISSAN
+NISSAN PATHFINDER Hybrid 2WD Platinum
+4
+34.7
+NISSAN
+NISSAN PATHFINDER Hybrid 2WD Platinum
+4
+39.8
+NISSAN
+NISSAN PATHFINDER Hybrid 2WD Platinum
+4
+32.7
+NISSAN
+NISSAN PATHFINDER Hybrid 2WD Platinum
+4
+39.9
+NISSAN
+NISSAN PATHFINDER Hybrid 4WD Platinum
+4
+33.4
+NISSAN
+NISSAN PATHFINDER Hybrid 4WD Platinum
+4
+38.3
+NISSAN
+NISSAN PATHFINDER Hybrid 4WD Platinum
+4
+33.4
+NISSAN
+NISSAN PATHFINDER Hybrid 4WD Platinum
+4
+38.7
+NISSAN
+NISSAN QUEST LE
+6
+24.4
+NISSAN
+NISSAN QUEST LE
+6
+37.2
+NISSAN
+NISSAN QUEST LE
+6
+25
+NISSAN
+NISSAN QUEST LE
+6
+38.6
+NISSAN
+NISSAN ROGUE AWD SL
+4
+31.9
+NISSAN
+NISSAN ROGUE AWD SL
+4
+45.2
+NISSAN
+NISSAN ROGUE AWD SL
+4
+32.1
+NISSAN
+NISSAN ROGUE AWD SL
+4
+44.3
+NISSAN
+NISSAN ROGUE AWD SL
+4
+31.9
+NISSAN
+NISSAN ROGUE AWD SL
+4
+44.5
+NISSAN
+NISSAN ROGUE AWD SL
+4
+32.7
+NISSAN
+NISSAN ROGUE AWD SL
+4
+45.4
+NISSAN
+NISSAN ROGUE AWD SL
+4
+33.1
+NISSAN
+NISSAN ROGUE AWD SL
+4
+46.4
+NISSAN
+NISSAN VERSA NOTE S
+4
+35.9
+NISSAN
+NISSAN VERSA NOTE S
+4
+52
+NISSAN
+NISSAN VERSA NOTE SV
+4
+41.3
+NISSAN
+NISSAN VERSA NOTE SV
+4
+56.4
+NISSAN
+NISSAN VERSA NOTE SV
+4
+41.3
+NISSAN
+NISSAN VERSA NOTE SV
+4
+56.2
+NISSAN
+NISSAN VERSA NOTE SV
+4
+41.5
+NISSAN
+NISSAN VERSA NOTE SV
+4
+56.7
+NISSAN
+NISSAN VERSA S
+4
+33.7
+NISSAN
+NISSAN VERSA S
+4
+51.4
+NISSAN
+NISSAN VERSA S
+4
+36.5
+NISSAN
+NISSAN VERSA S
+4
+52
+NISSAN
+NISSAN VERSA SV
+4
+41.5
+NISSAN
+NISSAN VERSA SV
+4
+57.5
+NISSAN
+NISSAN VERSA SV
+4
+57.5
+NISSAN
+NISSAN VERSA SV
+4
+57.5
+Porsche
+911 Carrera
+6
+38.2
+Porsche
+911 Carrera
+6
+23.7
+Porsche
+911 Carrera
+6
+25.4
+Porsche
+911 Carrera
+6
+39.5
+Porsche
+911 Carrera 4
+6
+23.9
+Porsche
+911 Carrera 4
+6
+38.2
+Porsche
+911 Carrera 4
+6
+24.2
+Porsche
+911 Carrera 4
+6
+37.5
+Porsche
+911 Carrera 4
+6
+25.2
+Porsche
+911 Carrera 4
+6
+38.8
+Porsche
+911 Carrera 4
+6
+25.8
+Porsche
+911 Carrera 4
+6
+38.5
+Porsche
+911 Carrera 4 Cabriolet
+6
+23.4
+Porsche
+911 Carrera 4 Cabriolet
+6
+36.7
+Porsche
+911 Carrera 4 Cabriolet
+6
+23.8
+Porsche
+911 Carrera 4 Cabriolet
+6
+36.5
+Porsche
+911 Carrera 4 Cabriolet
+6
+24.7
+Porsche
+911 Carrera 4 Cabriolet
+6
+37.7
+Porsche
+911 Carrera 4 Cabriolet
+6
+25.2
+Porsche
+911 Carrera 4 Cabriolet
+6
+37.4
+Porsche
+911 Carrera 4S
+6
+23.1
+Porsche
+911 Carrera 4S
+6
+36.9
+Porsche
+911 Carrera 4S
+6
+24.2
+Porsche
+911 Carrera 4S
+6
+36.7
+Porsche
+911 Carrera 4S Cabriolet
+6
+22.9
+Porsche
+911 Carrera 4S Cabriolet
+6
+36.1
+Porsche
+911 Carrera 4S Cabriolet
+6
+23.3
+Porsche
+911 Carrera 4S Cabriolet
+6
+36.5
+Porsche
+911 Carrera Cabriolet
+6
+23.9
+Porsche
+911 Carrera Cabriolet
+6
+38
+Porsche
+911 Carrera Cabriolet
+6
+24.2
+Porsche
+911 Carrera Cabriolet
+6
+37.9
+Porsche
+911 Carrera Cabriolet
+6
+25.5
+Porsche
+911 Carrera Cabriolet
+6
+39.5
+Porsche
+911 Carrera Cabriolet
+6
+26.5
+Porsche
+911 Carrera Cabriolet
+6
+39.4
+Porsche
+911 Carrera S
+6
+23.5
+Porsche
+911 Carrera S
+6
+38.2
+Porsche
+911 Carrera S
+6
+24.2
+Porsche
+911 Carrera S
+6
+37.7
+Porsche
+911 Carrera S
+6
+24.6
+Porsche
+911 Carrera S
+6
+38
+Porsche
+911 Carrera S Cabriolet
+6
+23.4
+Porsche
+911 Carrera S Cabriolet
+6
+37.2
+Porsche
+911 Carrera S Cabriolet
+6
+23.9
+Porsche
+911 Carrera S Cabriolet
+6
+36.9
+Porsche
+911 Carrera S Cabriolet
+6
+23.9
+Porsche
+911 Carrera S Cabriolet
+6
+38
+Porsche
+911 GT3
+6
+18.2
+Porsche
+911 GT3
+6
+28.3
+Porsche
+911 Targa 4
+6
+23
+Porsche
+911 Targa 4
+6
+36.5
+Porsche
+911 Targa 4
+6
+24.1
+Porsche
+911 Targa 4
+6
+36.9
+Porsche
+911 Targa 4S
+6
+22.5
+Porsche
+911 Targa 4S
+6
+35.6
+Porsche
+911 Targa 4S
+6
+23.1
+Porsche
+911 Targa 4S
+6
+35.4
+Porsche
+911 Turbo S Cabriolet
+6
+20.7
+Porsche
+911 Turbo S Cabriolet
+6
+34
+Porsche
+911 Turbo S Cabriolet
+6
+22.3
+Porsche
+911 Turbo S Cabriolet
+6
+34.2
+Porsche
+918 Spyder
+8
+117.9
+Porsche
+918 Spyder
+8
+118.8
+Porsche
+918 Spyder
+8
+28.6
+Porsche
+918 Spyder
+8
+34.3
+Porsche
+Boxster
+6
+27.9
+Porsche
+Boxster
+6
+44.9
+Porsche
+Boxster
+6
+25.9
+Porsche
+Boxster
+6
+41.5
+Porsche
+Boxster S
+6
+24.8
+Porsche
+Boxster S
+6
+38.5
+Porsche
+Boxster S
+6
+26.3
+Porsche
+Boxster S
+6
+41.9
+Porsche
+Cayenne S
+6
+21.1
+Porsche
+Cayenne S
+6
+34.1
+Porsche
+Cayenne S e-Hybrid
+6
+26.3
+Porsche
+Cayenne S e-Hybrid
+6
+33.6
+Porsche
+Cayenne S e-Hybrid
+6
+69.9
+Porsche
+Cayenne S e-Hybrid
+6
+28.2
+Porsche
+Cayenne Turbo
+8
+29.1
+Porsche
+Cayenne Turbo
+8
+17.5
+Porsche
+Cayman GTS
+6
+24.2
+Porsche
+Cayman GTS
+6
+37
+Porsche
+Cayman GTS
+6
+24.6
+Porsche
+Cayman GTS
+6
+37
+Porsche
+Cayman GTS
+6
+27
+Porsche
+Cayman GTS
+6
+43
+Porsche
+Cayman GTS
+6
+27.6
+Porsche
+Cayman GTS
+6
+43.2
+Porsche
+Macan S
+6
+21.2
+Porsche
+Macan S
+6
+31.5
+Porsche
+Macan S
+6
+21.7
+Porsche
+Macan S
+6
+31.9
+Porsche
+Macan Turbo
+6
+32.3
+Porsche
+Macan Turbo
+6
+20.4
+Porsche
+Macan Turbo
+6
+21
+Porsche
+Macan Turbo
+6
+32.5
+Porsche
+Panamera
+6
+22.4
+Porsche
+Panamera
+6
+39
+Porsche
+Panamera
+6
+23.5
+Porsche
+Panamera
+6
+39
+Porsche
+Panamera 4
+6
+21.9
+Porsche
+Panamera 4
+6
+37.5
+Porsche
+Panamera 4
+6
+23.3
+Porsche
+Panamera 4
+6
+37.7
+Porsche
+Panamera 4S
+6
+21.3
+Porsche
+Panamera 4S
+6
+37.4
+Porsche
+Panamera 4S
+6
+22.5
+Porsche
+Panamera 4S
+6
+37.2
+Porsche
+Panamera 4S Executive
+6
+20.8
+Porsche
+Panamera 4S Executive
+6
+36.8
+Porsche
+Panamera 4S Executive
+6
+22.2
+Porsche
+Panamera 4S Executive
+6
+37.2
+Porsche
+Panamera GTS
+8
+18.9
+Porsche
+Panamera GTS
+8
+33.7
+Porsche
+Panamera GTS
+8
+19.9
+Porsche
+Panamera GTS
+8
+33.7
+Porsche
+Panamera S E-Hybrid
+6
+91.6
+Porsche
+Panamera S E-Hybrid
+6
+94.6
+Porsche
+Panamera S E-Hybrid
+6
+28.9
+Porsche
+Panamera S E-Hybrid
+6
+41.1
+Porsche
+Panamera Turbo
+8
+18.4
+Porsche
+Panamera Turbo
+8
+33.5
+Porsche
+Panamera Turbo
+8
+20
+Porsche
+Panamera Turbo
+8
+34
+Porsche
+Panamera Turbo Executive
+8
+18.3
+Porsche
+Panamera Turbo Executive
+8
+33.3
+Porsche
+Panamera Turbo Executive
+8
+19.7
+Porsche
+Panamera Turbo Executive
+8
+33.3
+Rolls Royce
+Ghost EWB
+12
+18.6
+Rolls Royce
+Ghost EWB
+12
+13.9
+Rolls Royce
+Ghost EWB
+12
+13.2
+Rolls Royce
+Ghost EWB
+12
+15.1
+Rolls Royce
+Ghost EWB
+12
+26.4
+Rolls Royce
+Phantom
+12
+25.6
+Rolls Royce
+Phantom
+12
+13.9
+Rolls Royce
+Phantom EWB
+12
+16.3
+Rolls Royce
+Phantom EWB
+12
+12.2
+Rolls Royce
+Phantom EWB
+12
+14.1
+Rolls Royce
+Phantom EWB
+12
+13.9
+Rolls Royce
+Phantom EWB
+12
+25.3
+Rolls Royce
+Wraith
+12
+15.5
+Rolls Royce
+Wraith
+12
+27.7
+SUBARU
+BRZ
+4
+31.5
+SUBARU
+BRZ
+4
+47.3
+SUBARU
+BRZ
+4
+31.5
+SUBARU
+BRZ
+4
+47.8
+SUBARU
+BRZ
+4
+27.3
+SUBARU
+BRZ
+4
+41.7
+SUBARU
+BRZ
+4
+27.4
+SUBARU
+BRZ
+4
+42.9
+SUBARU
+FORESTER
+4
+38.6
+SUBARU
+FORESTER
+4
+29.5
+SUBARU
+FORESTER
+4
+44.4
+SUBARU
+FORESTER
+4
+31.3
+SUBARU
+FORESTER
+4
+28.1
+SUBARU
+FORESTER
+4
+40.4
+SUBARU
+IMPREZA
+4
+36.5
+SUBARU
+IMPREZA
+4
+52.8
+SUBARU
+IMPREZA
+4
+31.9
+SUBARU
+IMPREZA
+4
+48.5
+SUBARU
+IMPREZA
+4
+32
+SUBARU
+IMPREZA
+4
+48.5
+SUBARU
+IMPREZA SPORT
+4
+35.2
+SUBARU
+IMPREZA SPORT
+4
+51.2
+SUBARU
+IMPREZA SPORT
+4
+30.9
+SUBARU
+IMPREZA SPORT
+4
+47.2
+SUBARU
+IMPREZA WAGON
+4
+35.5
+SUBARU
+IMPREZA WAGON
+4
+51.5
+SUBARU
+IMPREZA WAGON
+4
+35.9
+SUBARU
+IMPREZA WAGON
+4
+51.8
+SUBARU
+IMPREZA WAGON
+4
+36.1
+SUBARU
+IMPREZA WAGON
+4
+52.1
+SUBARU
+IMPREZA WAGON
+4
+31.7
+SUBARU
+IMPREZA WAGON
+4
+47.4
+SUBARU
+IMPREZA WAGON
+4
+31.9
+SUBARU
+IMPREZA WAGON
+4
+47.9
+SUBARU
+LEGACY
+4
+33.6
+SUBARU
+LEGACY
+4
+50.7
+SUBARU
+LEGACY
+4
+33.5
+SUBARU
+LEGACY
+4
+51.6
+SUBARU
+LEGACY
+4
+33.7
+SUBARU
+LEGACY
+4
+50.4
+SUBARU
+LEGACY
+4
+33.8
+SUBARU
+LEGACY
+4
+51.2
+SUBARU
+LEGACY
+6
+24.9
+SUBARU
+LEGACY
+6
+40.3
+SUBARU
+OUTBACK
+4
+32.1
+SUBARU
+OUTBACK
+4
+46.2
+SUBARU
+OUTBACK
+4
+32.4
+SUBARU
+OUTBACK
+4
+46.7
+SUBARU
+OUTBACK
+4
+32.2
+SUBARU
+OUTBACK
+4
+46.3
+SUBARU
+OUTBACK
+4
+32.5
+SUBARU
+OUTBACK
+4
+46.4
+SUBARU
+OUTBACK
+6
+24.7
+SUBARU
+OUTBACK
+6
+38.1
+SUBARU
+OUTBACK
+6
+24.7
+SUBARU
+OUTBACK
+6
+38.2
+SUBARU
+WRX
+4
+20.2
+SUBARU
+WRX
+4
+30
+SUBARU
+WRX
+4
+29.1
+SUBARU
+WRX
+4
+41.7
+SUBARU
+WRX
+4
+26.8
+SUBARU
+WRX
+4
+39.8
+SUBARU
+WRX STI
+4
+21.3
+SUBARU
+WRX STI
+4
+32.2
+SUBARU
+XV Crosstrek
+4
+33.5
+SUBARU
+XV Crosstrek
+4
+47.4
+SUBARU
+XV Crosstrek
+4
+42.9
+SUBARU
+XV Crosstrek
+4
+29.3
+SUBARU
+XV Crosstrek
+4
+38.7
+SUBARU
+XV Crosstrek
+4
+48.2
+LEXUS
+ES 300h
+4
+39.2
+LEXUS
+ES 300h
+4
+41.9
+LEXUS
+ES 300h
+4
+53.3
+LEXUS
+ES 300h
+4
+55.3
+LEXUS
+ES 300h
+4
+35.6
+LEXUS
+ES 300h
+4
+42.7
+LEXUS
+ES 300h
+4
+37.8
+LEXUS
+ES 300h
+4
+54.2
+LEXUS
+ES 300h
+4
+38.4
+LEXUS
+ES 300h
+4
+57.4
+LEXUS
+ES 300h
+4
+42
+LEXUS
+ES 300h
+4
+40.4
+LEXUS
+ES 300h
+4
+55.6
+LEXUS
+ES 300h
+4
+38
+LEXUS
+ES 300h
+4
+55
+LEXUS
+ES 350
+6
+25.9
+LEXUS
+ES 350
+6
+42.7
+LEXUS
+ES 350
+6
+26.3
+LEXUS
+ES 350
+6
+44
+LEXUS
+ES 350
+6
+44.2
+LEXUS
+ES 350
+6
+26.4
+LEXUS
+ES 350
+6
+26.4
+LEXUS
+ES 350
+6
+44.2
+LEXUS
+GS 350
+6
+19.6
+LEXUS
+GS 350
+6
+24.7
+LEXUS
+GS 350
+6
+25.8
+LEXUS
+GS 350
+6
+20
+LEXUS
+GS 350
+6
+24
+LEXUS
+GS 350
+6
+39
+LEXUS
+GS 350
+6
+24.5
+LEXUS
+GS 350
+6
+26.2
+LEXUS
+GS 350
+6
+19.8
+LEXUS
+GS 350
+6
+39
+LEXUS
+GS 350
+6
+19.9
+LEXUS
+GS 350
+6
+24.7
+LEXUS
+GS 350
+6
+26.4
+LEXUS
+GS 350
+6
+39
+LEXUS
+GS 350 AWD
+6
+36.3
+LEXUS
+GS 350 AWD
+6
+24.4
+LEXUS
+GS 350 AWD
+6
+23.5
+LEXUS
+GS 350 AWD
+6
+24.2
+LEXUS
+GS 350 AWD
+6
+36.3
+LEXUS
+GS 350 AWD
+6
+23.6
+LEXUS
+GS 350 AWD
+6
+24.5
+LEXUS
+GS 350 AWD
+6
+36.1
+LEXUS
+GS 350 AWD
+6
+23.5
+LEXUS
+GS 350 AWD
+6
+19.5
+LEXUS
+GS 350 AWD
+6
+19.7
+LEXUS
+GS 350 AWD
+6
+19.5
+LEXUS
+GS 350 AWD
+6
+19.8
+LEXUS
+GS 350 AWD
+6
+19.5
+LEXUS
+GS 350 AWD
+6
+19.6
+LEXUS
+GS 450h
+6
+29.5
+LEXUS
+GS 450h
+6
+30.2
+LEXUS
+GS 450h
+6
+32.7
+LEXUS
+GS 450h
+6
+44.5
+LEXUS
+GS 450h
+6
+40.3
+LEXUS
+GS 450h
+6
+32.8
+LEXUS
+GS 450h
+6
+30
+LEXUS
+GS 450h
+6
+30.4
+LEXUS
+GS 450h
+6
+40.6
+LEXUS
+GS 450h
+6
+44.7
+LEXUS
+GS 450h
+6
+31.6
+LEXUS
+GS 450h
+6
+27.8
+LEXUS
+GS 450h
+6
+29.9
+LEXUS
+GS 450h
+6
+38.3
+LEXUS
+GS 450h
+6
+43.6
+LEXUS
+GX 460
+8
+27.8
+LEXUS
+GX 460
+8
+18.6
+LEXUS
+IS 250
+6
+42.2
+LEXUS
+IS 250
+6
+26.9
+LEXUS
+IS 250
+6
+26.7
+LEXUS
+IS 250
+6
+42
+LEXUS
+IS 250
+6
+43
+LEXUS
+IS 250
+6
+26.9
+LEXUS
+IS 250 AWD
+6
+38
+LEXUS
+IS 250 AWD
+6
+25.2
+LEXUS
+IS 250 AWD
+6
+25.3
+LEXUS
+IS 250 AWD
+6
+38
+LEXUS
+IS 250 AWD
+6
+25.3
+LEXUS
+IS 250 AWD
+6
+25.2
+LEXUS
+IS 250 AWD
+6
+38
+LEXUS
+IS 250/IS 250C
+6
+26.7
+LEXUS
+IS 250/IS 250C
+6
+42.5
+LEXUS
+IS 350 AWD
+6
+19.4
+LEXUS
+IS 350 AWD
+6
+22.9
+LEXUS
+IS 350 AWD
+6
+22.9
+LEXUS
+IS 350 AWD
+6
+33.9
+LEXUS
+IS 350 AWD
+6
+18.9
+LEXUS
+IS 350 AWD
+6
+19.6
+LEXUS
+IS 350 AWD
+6
+19.4
+LEXUS
+IS 350 AWD
+6
+23
+LEXUS
+IS 350 AWD
+6
+34.6
+LEXUS
+IS 350 AWD
+6
+23.5
+LEXUS
+IS 350 AWD
+6
+23.2
+LEXUS
+IS 350 AWD
+6
+34.7
+LEXUS
+IS 350 AWD
+6
+23.6
+LEXUS
+IS 350 AWD
+6
+23.9
+LEXUS
+IS 350 AWD
+6
+35.7
+LEXUS
+IS 350 AWD
+6
+23.6
+LEXUS
+IS 350 AWD
+6
+23.9
+LEXUS
+IS 350 AWD
+6
+36
+LEXUS
+IS 350 AWD
+6
+23.7
+LEXUS
+IS 350 AWD
+6
+35.5
+LEXUS
+IS 350 AWD
+6
+23.9
+LEXUS
+IS 350 AWD
+6
+23.8
+LEXUS
+IS 350/IS 350C
+6
+37.6
+LEXUS
+IS 350/IS 350C
+6
+24.3
+LEXUS
+IS 350/IS 350C
+6
+37.8
+LEXUS
+IS 350/IS 350C
+6
+24.3
+LEXUS
+LS 600h L
+8
+18.7
+LEXUS
+LS 600h L
+8
+18.7
+LEXUS
+LS 600h L
+8
+21.7
+LEXUS
+LS 600h L
+8
+21.7
+LEXUS
+LS 600h L
+8
+21.8
+LEXUS
+LS 600h L
+8
+21.8
+LEXUS
+LS 600h L
+8
+20.9
+LEXUS
+LS 600h L
+8
+20.9
+LEXUS
+LS 600h L
+8
+19.9
+LEXUS
+LS 600h L
+8
+19.9
+LEXUS
+LX 570
+8
+24
+LEXUS
+LX 570
+8
+15.4
+LEXUS
+LX 570
+8
+15
+LEXUS
+LX 570
+8
+23.4
+LEXUS
+LX 570
+8
+15.2
+LEXUS
+LX 570
+8
+23.7
+LEXUS
+NX 300h
+4
+42.3
+LEXUS
+NX 300h
+4
+45.5
+LEXUS
+NX 300h
+4
+43.1
+LEXUS
+NX 300h
+4
+45.7
+LEXUS
+NX 300h
+4
+46
+LEXUS
+NX 300h
+4
+43.3
+LEXUS
+NX 300h
+4
+44
+LEXUS
+NX 300h
+4
+47.5
+LEXUS
+NX 300h AWD
+4
+42.1
+LEXUS
+NX 300h AWD
+4
+44.2
+LEXUS
+NX 300h AWD
+4
+44.2
+LEXUS
+NX 300h AWD
+4
+40.9
+LEXUS
+NX 300h AWD
+4
+42.3
+LEXUS
+NX 300h AWD
+4
+43.5
+LEXUS
+NX 300h AWD
+4
+44.8
+LEXUS
+NX 300h AWD
+4
+42.1
+LEXUS
+NX 300h AWD
+4
+43
+LEXUS
+NX 300h AWD
+4
+43.9
+LEXUS
+NX 300h AWD
+4
+42.5
+LEXUS
+NX 300h AWD
+4
+44.2
+LEXUS
+NX 300h AWD
+4
+42.7
+LEXUS
+NX 300h AWD
+4
+45.1
+LEXUS
+NX 300h AWD
+4
+43.7
+LEXUS
+RC F
+8
+20.7
+LEXUS
+RC F
+8
+34.8
+LEXUS
+RC F
+8
+23.8
+LEXUS
+RC F
+8
+17.5
+LEXUS
+RC F
+8
+17.3
+LEXUS
+RX 350
+6
+22.8
+LEXUS
+RX 350
+6
+34.7
+LEXUS
+RX 350
+6
+34.7
+LEXUS
+RX 350
+6
+22.9
+LEXUS
+RX 350 AWD
+6
+33.3
+LEXUS
+RX 350 AWD
+6
+22.3
+LEXUS
+RX 350 AWD
+6
+33.5
+LEXUS
+RX 350 AWD
+6
+21.9
+LEXUS
+RX 350 AWD
+6
+23.2
+LEXUS
+RX 350 AWD
+6
+36
+LEXUS
+RX 450h
+6
+41.2
+LEXUS
+RX 450h
+6
+38.7
+LEXUS
+RX 450h
+6
+41.7
+LEXUS
+RX 450h
+6
+39.5
+LEXUS
+RX 450h AWD
+6
+40.3
+LEXUS
+RX 450h AWD
+6
+38.4
+LEXUS
+RX 450h AWD
+6
+36.9
+LEXUS
+RX 450h AWD
+6
+38.8
+LEXUS
+RX 450h AWD
+6
+40.4
+LEXUS
+RX 450h AWD
+6
+38.8
+LEXUS
+RX 450h AWD
+6
+40
+LEXUS
+RX 450h AWD
+6
+38.8
+SCION
+iQ
+4
+38.1
+SCION
+iQ
+4
+36.3
+SCION
+iQ
+4
+35
+SCION
+iQ
+4
+48
+SCION
+iQ
+4
+58.7
+SCION
+tC
+4
+43.7
+SCION
+tC
+4
+29.3
+SCION
+tC
+4
+29.3
+SCION
+tC
+4
+43.6
+SCION
+tC
+4
+28.9
+SCION
+tC
+4
+42.4
+SCION
+tC
+4
+43.2
+SCION
+tC
+4
+29.5
+TOYOTA
+4RUNNER 2WD
+6
+21
+TOYOTA
+4RUNNER 2WD
+6
+30.7
+TOYOTA
+4RUNNER 2WD
+6
+31.1
+TOYOTA
+4RUNNER 2WD
+6
+21.5
+TOYOTA
+4RUNNER 4WD
+6
+29.3
+TOYOTA
+4RUNNER 4WD
+6
+29.1
+TOYOTA
+4RUNNER 4WD
+6
+20.4
+TOYOTA
+4RUNNER 4WD
+6
+29.7
+TOYOTA
+4RUNNER 4WD
+6
+20.8
+TOYOTA
+CAMRY
+4
+32
+TOYOTA
+CAMRY
+4
+50
+TOYOTA
+CAMRY
+6
+27.1
+TOYOTA
+CAMRY
+6
+43.2
+TOYOTA
+Camry Hybrid LE
+4
+56.3
+TOYOTA
+Camry Hybrid LE
+4
+58.9
+TOYOTA
+Camry Hybrid LE
+4
+58.2
+TOYOTA
+Camry Hybrid LE
+4
+56
+TOYOTA
+Camry Hybrid XLE
+4
+55.7
+TOYOTA
+Camry Hybrid XLE
+4
+54.4
+TOYOTA
+Camry Hybrid XLE
+4
+54.6
+TOYOTA
+Camry Hybrid XLE
+4
+54.3
+TOYOTA
+Camry Hybrid XLE
+4
+55.3
+TOYOTA
+Camry Hybrid XLE
+4
+54.9
+TOYOTA
+Camry Hybrid XLE
+4
+56
+TOYOTA
+Camry Hybrid XLE
+4
+57.8
+TOYOTA
+COROLLA
+4
+35.4
+TOYOTA
+COROLLA
+4
+51.7
+TOYOTA
+COROLLA
+4
+35.6
+TOYOTA
+COROLLA
+4
+51.2
+TOYOTA
+COROLLA
+4
+37.6
+TOYOTA
+COROLLA
+4
+54.9
+TOYOTA
+COROLLA
+4
+52
+TOYOTA
+COROLLA
+4
+37.2
+TOYOTA
+COROLLA
+4
+55
+TOYOTA
+COROLLA
+4
+38.8
+TOYOTA
+COROLLA
+4
+54.1
+TOYOTA
+COROLLA
+4
+37.5
+TOYOTA
+COROLLA LE ECO
+4
+40.3
+TOYOTA
+COROLLA LE ECO
+4
+56.6
+TOYOTA
+COROLLA LE ECO
+4
+39.4
+TOYOTA
+COROLLA LE ECO
+4
+59.1
+TOYOTA
+COROLLA LE ECO
+4
+40.3
+TOYOTA
+COROLLA LE ECO
+4
+59.9
+TOYOTA
+COROLLA LE ECO
+4
+39.4
+TOYOTA
+COROLLA LE ECO
+4
+55.6
+TOYOTA
+COROLLA LE ECO
+4
+56.3
+TOYOTA
+HIGHLANDER
+4
+22.5
+TOYOTA
+HIGHLANDER
+4
+38.4
+TOYOTA
+HIGHLANDER
+4
+25.4
+TOYOTA
+HIGHLANDER
+6
+35.1
+TOYOTA
+HIGHLANDER
+6
+23.6
+TOYOTA
+HIGHLANDER
+6
+22.9
+TOYOTA
+HIGHLANDER
+6
+34.5
+TOYOTA
+HIGHLANDER AWD
+6
+22.8
+TOYOTA
+HIGHLANDER AWD
+6
+33.7
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+28.8
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+38.2
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+26.5
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+23.3
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+38.2
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+25.9
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+29.1
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+25.8
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+31.5
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+39.2
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+38.7
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+25.9
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+30.3
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+26.2
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+38.6
+TOYOTA
+HIGHLANDER HYBRID AWD
+6
+38.4
+TOYOTA
+HIGHLANDER HYBRID AWD LE Plus
+6
+29.9
+TOYOTA
+HIGHLANDER HYBRID AWD LE Plus
+6
+39.1
+TOYOTA
+HIGHLANDER HYBRID AWD LE Plus
+6
+26.3
+TOYOTA
+HIGHLANDER HYBRID AWD LE Plus
+6
+25.9
+TOYOTA
+HIGHLANDER HYBRID AWD LE Plus
+6
+38.3
+TOYOTA
+HIGHLANDER HYBRID AWD LE Plus
+6
+39.1
+TOYOTA
+HIGHLANDER HYBRID AWD LE Plus
+6
+27.8
+TOYOTA
+HIGHLANDER HYBRID AWD LE Plus
+6
+26.4
+TOYOTA
+HIGHLANDER HYBRID AWD LE Plus
+6
+30.1
+TOYOTA
+HIGHLANDER HYBRID AWD LE Plus
+6
+38.9
+TOYOTA
+LAND CRUISER WAGON 4WD
+8
+24.4
+TOYOTA
+LAND CRUISER WAGON 4WD
+8
+16
+TOYOTA
+LAND CRUISER WAGON 4WD
+8
+16.2
+TOYOTA
+LAND CRUISER WAGON 4WD
+8
+24.7
+TOYOTA
+PRIUS
+4
+66.6
+TOYOTA
+PRIUS
+4
+67.6
+TOYOTA
+PRIUS
+4
+68.1
+TOYOTA
+PRIUS
+4
+66.1
+TOYOTA
+PRIUS
+4
+68.1
+TOYOTA
+PRIUS
+4
+66.6
+TOYOTA
+PRIUS
+4
+71.8
+TOYOTA
+PRIUS
+4
+70.2
+TOYOTA
+PRIUS
+4
+72.4
+TOYOTA
+PRIUS
+4
+69.6
+TOYOTA
+PRIUS
+4
+72.4
+TOYOTA
+PRIUS
+4
+69.6
+TOYOTA
+PRIUS c
+4
+48.6
+TOYOTA
+PRIUS c
+4
+53.5
+TOYOTA
+PRIUS c
+4
+41
+TOYOTA
+PRIUS c
+4
+63.6
+TOYOTA
+PRIUS c
+4
+65.9
+TOYOTA
+PRIUS c
+4
+53.9
+TOYOTA
+PRIUS c
+4
+48.1
+TOYOTA
+PRIUS c
+4
+45.1
+TOYOTA
+PRIUS c
+4
+66.6
+TOYOTA
+PRIUS c
+4
+71.4
+TOYOTA
+PRIUS c
+4
+50.2
+TOYOTA
+PRIUS c
+4
+57
+TOYOTA
+PRIUS c
+4
+42.6
+TOYOTA
+PRIUS c
+4
+69
+TOYOTA
+PRIUS c
+4
+68
+TOYOTA
+PRIUS c
+4
+50.8
+TOYOTA
+PRIUS c
+4
+58.2
+TOYOTA
+PRIUS c
+4
+47.6
+TOYOTA
+PRIUS c
+4
+71.4
+TOYOTA
+PRIUS c
+4
+75
+TOYOTA
+PRIUS Plug-in Hybrid
+4
+48.3
+TOYOTA
+PRIUS Plug-in Hybrid
+4
+69.7
+TOYOTA
+PRIUS Plug-in Hybrid
+4
+45.4
+TOYOTA
+PRIUS Plug-in Hybrid
+4
+68.1
+TOYOTA
+PRIUS Plug-in Hybrid
+4
+47.8
+TOYOTA
+PRIUS Plug-in Hybrid
+4
+49.7
+TOYOTA
+PRIUS Plug-in Hybrid
+4
+52.1
+TOYOTA
+PRIUS Plug-in Hybrid
+4
+52.1
+TOYOTA
+PRIUS Plug-in Hybrid
+4
+68
+TOYOTA
+PRIUS Plug-in Hybrid
+4
+70.6
+TOYOTA
+PRIUS Plug-in Hybrid
+4
+47.6
+TOYOTA
+PRIUS Plug-in Hybrid
+4
+47.3
+TOYOTA
+PRIUS Plug-in Hybrid
+4
+52.2
+TOYOTA
+PRIUS Plug-in Hybrid
+4
+72.5
+TOYOTA
+PRIUS Plug-in Hybrid
+4
+69.2
+TOYOTA
+PRIUS v
+4
+59.2
+TOYOTA
+PRIUS v
+4
+55.5
+TOYOTA
+PRIUS v
+4
+56.1
+TOYOTA
+PRIUS v
+4
+59.4
+TOYOTA
+PRIUS v
+4
+59.4
+TOYOTA
+PRIUS v
+4
+55.7
+TOYOTA
+PRIUS v
+4
+61.5
+TOYOTA
+PRIUS v
+4
+58.7
+TOYOTA
+PRIUS v
+4
+57.1
+TOYOTA
+PRIUS v
+4
+58.5
+TOYOTA
+PRIUS v
+4
+60.2
+TOYOTA
+PRIUS v
+4
+58.3
+TOYOTA
+PRIUS v
+4
+60.6
+TOYOTA
+RAV4
+4
+30.1
+TOYOTA
+RAV4
+4
+43.4
+TOYOTA
+RAV4
+4
+42.1
+TOYOTA
+RAV4
+4
+29.3
+TOYOTA
+RAV4 AWD
+4
+40.4
+TOYOTA
+RAV4 AWD
+4
+28.5
+TOYOTA
+RAV4 Limited AWD
+4
+41.2
+TOYOTA
+RAV4 Limited AWD
+4
+28.5
+TOYOTA
+RAV4 Limited AWD
+4
+27.9
+TOYOTA
+RAV4 Limited AWD
+4
+39.9
+TOYOTA
+SEQUOIA 2WD
+8
+16.1
+TOYOTA
+SEQUOIA 2WD
+8
+24.7
+TOYOTA
+SEQUOIA 4WD
+8
+23.2
+TOYOTA
+SEQUOIA 4WD
+8
+15.4
+TOYOTA
+SEQUOIA 4WD
+8
+23.9
+TOYOTA
+SEQUOIA 4WD
+8
+15.5
+TOYOTA
+SEQUOIA 4WD FFV
+8
+15.6
+TOYOTA
+SEQUOIA 4WD FFV
+8
+23.9
+TOYOTA
+SEQUOIA 4WD FFV
+8
+11.1
+TOYOTA
+SEQUOIA 4WD FFV
+8
+17.2
+TOYOTA
+SEQUOIA 4WD FFV
+8
+15.8
+TOYOTA
+SEQUOIA 4WD FFV
+8
+24.1
+TOYOTA
+SEQUOIA 4WD FFV
+8
+11.4
+TOYOTA
+SEQUOIA 4WD FFV
+8
+17.5
+TOYOTA
+SIENNA
+6
+34.7
+TOYOTA
+SIENNA
+6
+22.6
+TOYOTA
+SIENNA
+6
+34.4
+TOYOTA
+SIENNA
+6
+22.9
+TOYOTA
+SIENNA AWD
+6
+32
+TOYOTA
+SIENNA AWD
+6
+20.3
+TOYOTA
+TACOMA 2WD
+6
+20.6
+TOYOTA
+TACOMA 2WD
+6
+28.5
+TOYOTA
+TACOMA 2WD
+6
+21.1
+TOYOTA
+TACOMA 2WD
+6
+29.6
+TOYOTA
+TACOMA 2WD
+6
+21.5
+TOYOTA
+TACOMA 2WD
+6
+29.8
+TOYOTA
+TACOMA 2WD
+6
+20.2
+TOYOTA
+TACOMA 2WD
+6
+28.9
+TOYOTA
+TACOMA 2WD
+4
+35.6
+TOYOTA
+TACOMA 2WD
+4
+24.2
+TOYOTA
+TACOMA 2WD
+4
+22.5
+TOYOTA
+TACOMA 2WD
+4
+23.3
+TOYOTA
+TACOMA 2WD
+4
+36.7
+TOYOTA
+TACOMA 2WD
+4
+26.4
+TOYOTA
+TACOMA 4WD
+6
+28.7
+TOYOTA
+TACOMA 4WD
+6
+19.9
+TOYOTA
+TACOMA 4WD
+6
+25.6
+TOYOTA
+TACOMA 4WD
+6
+18.8
+TOYOTA
+TACOMA 4WD
+6
+27.2
+TOYOTA
+TACOMA 4WD
+6
+19.5
+TOYOTA
+TACOMA 4WD
+4
+31.2
+TOYOTA
+TACOMA 4WD
+4
+22.5
+TOYOTA
+TACOMA 4WD
+4
+19.7
+TOYOTA
+TACOMA 4WD
+4
+30.6
+TOYOTA
+TACOMA 4WD
+4
+19.5
+TOYOTA
+TACOMA 4WD
+4
+22.9
+TOYOTA
+TUNDRA 2WD
+8
+16.9
+TOYOTA
+TUNDRA 2WD
+8
+25.4
+TOYOTA
+TUNDRA 2WD
+8
+24.5
+TOYOTA
+TUNDRA 2WD
+8
+16
+TOYOTA
+TUNDRA 2WD
+8
+16.9
+TOYOTA
+TUNDRA 2WD
+8
+25.3
+TOYOTA
+TUNDRA 2WD
+8
+23.4
+TOYOTA
+TUNDRA 2WD
+8
+15.7
+TOYOTA
+TUNDRA 2WD
+8
+26.4
+TOYOTA
+TUNDRA 2WD
+8
+18.4
+TOYOTA
+TUNDRA 2WD
+8
+26.4
+TOYOTA
+TUNDRA 2WD
+8
+18.4
+TOYOTA
+TUNDRA 4WD
+8
+15.6
+TOYOTA
+TUNDRA 4WD
+8
+22.7
+TOYOTA
+TUNDRA 4WD
+8
+22.7
+TOYOTA
+TUNDRA 4WD
+8
+15.7
+TOYOTA
+TUNDRA 4WD
+8
+21.7
+TOYOTA
+TUNDRA 4WD
+8
+16.2
+TOYOTA
+TUNDRA 4WD
+8
+24.1
+TOYOTA
+TUNDRA 4WD
+8
+16.3
+TOYOTA
+TUNDRA 4WD
+8
+23.8
+TOYOTA
+TUNDRA 4WD
+8
+16.4
+TOYOTA
+TUNDRA 4WD
+8
+23.5
+TOYOTA
+TUNDRA 4WD
+8
+24.6
+TOYOTA
+TUNDRA 4WD
+8
+17
+TOYOTA
+TUNDRA 4WD
+8
+25.7
+TOYOTA
+TUNDRA 4WD
+8
+17.4
+TOYOTA
+TUNDRA 4WD
+8
+15.9
+TOYOTA
+TUNDRA 4WD
+8
+16.1
+TOYOTA
+TUNDRA 4WD FFV
+8
+24.3
+TOYOTA
+TUNDRA 4WD FFV
+8
+16.2
+TOYOTA
+TUNDRA 4WD FFV
+8
+23.6
+TOYOTA
+TUNDRA 4WD FFV
+8
+16
+TOYOTA
+TUNDRA 4WD FFV
+8
+17.2
+TOYOTA
+TUNDRA 4WD FFV
+8
+11.6
+TOYOTA
+TUNDRA 4WD FFV
+8
+11.4
+TOYOTA
+TUNDRA 4WD FFV
+8
+16.7
+TOYOTA
+TUNDRA 4WD FFV
+8
+24.5
+TOYOTA
+TUNDRA 4WD FFV
+8
+16.6
+TOYOTA
+TUNDRA 4WD FFV
+8
+17.4
+TOYOTA
+TUNDRA 4WD FFV
+8
+11.9
+TOYOTA
+TUNDRA 4WD FFV
+8
+16.3
+TOYOTA
+VENZA
+6
+23.7
+TOYOTA
+VENZA
+6
+36.3
+TOYOTA
+VENZA
+4
+25.7
+TOYOTA
+VENZA
+4
+39.9
+TOYOTA
+VENZA
+4
+23.2
+TOYOTA
+VENZA AWD
+6
+35.1
+TOYOTA
+VENZA AWD
+6
+23
+TOYOTA
+VENZA AWD
+4
+23
+TOYOTA
+VENZA AWD
+4
+39.6
+TOYOTA
+VENZA AWD
+4
+25.7
+TOYOTA
+YARIS
+4
+50.3
+TOYOTA
+YARIS
+4
+50.5
+TOYOTA
+YARIS
+4
+39.5
+TOYOTA
+YARIS
+4
+39.4
+TOYOTA
+YARIS
+4
+51.8
+TOYOTA
+YARIS
+4
+53.3
+TOYOTA
+YARIS
+4
+40
+VOLKSWAGEN
+Beetle
+4
+24.5
+VOLKSWAGEN
+Beetle
+4
+40.8
+VOLKSWAGEN
+Beetle
+4
+21.6
+VOLKSWAGEN
+Beetle
+4
+29.1
+VOLKSWAGEN
+Beetle
+4
+28.4
+VOLKSWAGEN
+Beetle
+4
+29.2
+VOLKSWAGEN
+Beetle
+4
+42.8
+VOLKSWAGEN
+Beetle
+4
+27.9
+VOLKSWAGEN
+Beetle
+4
+23.6
+VOLKSWAGEN
+Beetle
+4
+26.5
+VOLKSWAGEN
+Beetle
+4
+29.4
+VOLKSWAGEN
+Beetle
+4
+44.3
+VOLKSWAGEN
+Beetle
+4
+30.3
+VOLKSWAGEN
+Beetle
+4
+23
+VOLKSWAGEN
+Beetle
+4
+25.7
+VOLKSWAGEN
+Beetle
+4
+43
+VOLKSWAGEN
+Beetle
+4
+29.2
+VOLKSWAGEN
+Beetle
+4
+22.9
+VOLKSWAGEN
+Beetle
+4
+24.1
+VOLKSWAGEN
+Beetle
+4
+27.7
+VOLKSWAGEN
+Beetle
+4
+28
+VOLKSWAGEN
+Beetle
+4
+29.2
+VOLKSWAGEN
+Beetle
+4
+22.8
+VOLKSWAGEN
+Beetle
+4
+26
+VOLKSWAGEN
+Beetle
+4
+44.7
+VOLKSWAGEN
+Beetle
+4
+42.8
+VOLKSWAGEN
+Beetle
+4
+25.1
+VOLKSWAGEN
+Beetle
+4
+24.3
+VOLKSWAGEN
+Beetle
+4
+27.6
+VOLKSWAGEN
+Beetle
+4
+29
+VOLKSWAGEN
+Beetle
+4
+43.9
+VOLKSWAGEN
+Beetle
+4
+29.2
+VOLKSWAGEN
+Beetle
+4
+21.7
+VOLKSWAGEN
+Beetle
+4
+24.7
+VOLKSWAGEN
+Beetle
+4
+27.9
+VOLKSWAGEN
+Beetle
+4
+40.8
+VOLKSWAGEN
+Beetle
+4
+27.3
+VOLKSWAGEN
+Beetle
+4
+21.8
+VOLKSWAGEN
+Beetle
+4
+28.5
+VOLKSWAGEN
+Beetle
+4
+23.9
+VOLKSWAGEN
+Beetle
+4
+29.1
+VOLKSWAGEN
+Beetle
+4
+41.4
+VOLKSWAGEN
+Beetle
+4
+28.1
+VOLKSWAGEN
+Beetle
+4
+26.1
+VOLKSWAGEN
+Beetle
+4
+26.2
+VOLKSWAGEN
+Beetle
+4
+22.6
+VOLKSWAGEN
+Beetle
+4
+44.7
+VOLKSWAGEN
+Beetle
+4
+29.9
+VOLKSWAGEN
+Beetle
+4
+25.6
+VOLKSWAGEN
+Beetle
+4
+29.8
+VOLKSWAGEN
+Beetle
+4
+30.3
+VOLKSWAGEN
+Beetle
+4
+46.2
+VOLKSWAGEN
+Beetle
+4
+30.4
+VOLKSWAGEN
+Beetle
+4
+46
+Volkswagen
+CC
+4
+28.4
+Volkswagen
+CC
+4
+22.6
+Volkswagen
+CC
+4
+24
+Volkswagen
+CC
+4
+26.9
+Volkswagen
+CC
+4
+42
+Volkswagen
+Eos
+4
+27.9
+Volkswagen
+Eos
+4
+20.4
+Volkswagen
+Eos
+4
+24.4
+Volkswagen
+Eos
+4
+27.5
+Volkswagen
+Eos
+4
+41.5
+VOLKSWAGEN
+Jetta
+4
+24.7
+VOLKSWAGEN
+Jetta
+4
+30.5
+VOLKSWAGEN
+Jetta
+4
+23.4
+VOLKSWAGEN
+Jetta
+4
+28.4
+VOLKSWAGEN
+Jetta
+4
+45.4
+VOLKSWAGEN
+Jetta
+4
+25.1
+VOLKSWAGEN
+Jetta
+4
+28.2
+VOLKSWAGEN
+Jetta
+4
+31.2
+VOLKSWAGEN
+Jetta
+4
+21.7
+VOLKSWAGEN
+Jetta
+4
+45
+VOLKSWAGEN
+Jetta
+4
+31.9
+VOLKSWAGEN
+Jetta
+4
+46
+VOLKSWAGEN
+Jetta
+4
+30.9
+VOLKSWAGEN
+Jetta
+4
+45.3
+VOLKSWAGEN
+Jetta
+4
+31.1
+VOLKSWAGEN
+Jetta
+4
+29.9
+VOLKSWAGEN
+Jetta
+4
+26.3
+VOLKSWAGEN
+Jetta Hybrid
+4
+57.5
+VOLKSWAGEN
+Jetta Hybrid
+4
+43.5
+VOLKSWAGEN
+Jetta Hybrid
+4
+65.5
+VOLKSWAGEN
+Passat
+6
+23
+VOLKSWAGEN
+Passat
+6
+20.7
+VOLKSWAGEN
+Passat
+6
+23.9
+VOLKSWAGEN
+Passat
+6
+37.3
+VOLKSWAGEN
+Passat
+6
+26
+Volkswagen
+Passat
+4
+28.9
+Volkswagen
+Passat
+4
+23.1
+Volkswagen
+Passat
+4
+23.5
+Volkswagen
+Passat
+4
+27.1
+Volkswagen
+Passat
+4
+43.3
+VOLKSWAGEN
+Passat
+4
+25.9
+VOLKSWAGEN
+Passat
+4
+28.6
+VOLKSWAGEN
+Passat
+4
+21.7
+VOLKSWAGEN
+Passat
+4
+23.6
+VOLKSWAGEN
+Passat
+4
+45
+VOLKSWAGEN
+Passat
+4
+30.3
+VOLKSWAGEN
+Passat
+4
+45.8
+VOLKSWAGEN
+Passat
+4
+31.6
+VOLKSWAGEN
+Passat
+4
+46.3
+VOLKSWAGEN
+Passat wagon
+4
+25.6
+VOLKSWAGEN
+Passat wagon
+4
+29.6
+VOLKSWAGEN
+Passat wagon
+4
+20.8
+VOLKSWAGEN
+Passat wagon
+4
+21
+VOLKSWAGEN
+Passat wagon
+4
+43.2
+VOLKSWAGEN
+Tiguan
+4
+24.9
+VOLKSWAGEN
+Tiguan
+4
+34
+VOLKSWAGEN
+Tiguan
+4
+26.3
+VOLKSWAGEN
+Tiguan
+4
+37.3
+VOLKSWAGEN
+Tiguan
+4
+37.5
+VOLKSWAGEN
+Tiguan
+4
+26.4
+VOLKSWAGEN
+Tiguan
+4
+25.5
+VOLKSWAGEN
+Tiguan
+4
+34.4
+VOLKSWAGEN
+Touareg
+6
+21.3
+VOLKSWAGEN
+Touareg
+6
+31.6
+VW
+Touareg
+6
+33.1
+VW
+Touareg
+6
+25.1
+AUDI
+A4
+4
+27.1
+AUDI
+A4
+4
+42.2
+AUDI
+A4
+4
+19.5
+AUDI
+A4
+4
+30.8
+AUDI
+A4
+4
+26.4
+AUDI
+A4
+4
+41
+AUDI
+A4
+4
+19
+AUDI
+A4
+4
+30
+AUDI
+A4 Allroad
+4
+26.7
+AUDI
+A4 Allroad
+4
+39.2
+AUDI
+A4 Allroad
+4
+19.2
+AUDI
+A4 Allroad
+4
+28.8
+AUDI
+A8
+6
+20.5
+AUDI
+A8
+6
+19.9
+AUDI
+A8
+6
+24.5
+AUDI
+A8
+6
+19.9
+AUDI
+A8
+6
+25.4
+AUDI
+A8
+6
+22.7
+AUDI
+A8
+6
+39.7
+AUDI
+A8
+6
+24.7
+AUDI
+A8
+8
+25.8
+AUDI
+A8
+8
+20
+AUDI
+A8
+8
+25
+AUDI
+A8
+8
+18.9
+AUDI
+A8
+8
+21.6
+AUDI
+A8
+8
+23
+AUDI
+A8
+8
+39.1
+AUDI
+A8
+8
+26.7
+AUDI
+A8
+8
+20.5
+AUDI
+A8
+8
+19
+AUDI
+A8
+8
+26.8
+AUDI
+A8
+8
+39.4
+AUDI
+A8
+8
+23
+AUDI
+A8
+8
+22.2
+AUDI
+A8L
+12
+19.8
+AUDI
+A8L
+12
+16.7
+AUDI
+A8L
+12
+14.1
+AUDI
+A8L
+12
+17.2
+AUDI
+A8L
+12
+28.6
+AUDI
+Q3
+4
+19.6
+AUDI
+Q3
+4
+22.5
+AUDI
+Q3
+4
+24.8
+AUDI
+Q3
+4
+38.5
+AUDI
+Q3
+4
+25.6
+AUDI
+Q3
+4
+39.9
+AUDI
+Q3
+4
+24.9
+AUDI
+Q3
+4
+24.8
+AUDI
+S3
+4
+25.4
+AUDI
+S3
+4
+24.6
+AUDI
+S3
+4
+41.5
+AUDI
+S3
+4
+28.8
+AUDI
+S3
+4
+28.5
+AUDI
+S8
+8
+19.1
+AUDI
+S8
+8
+24
+AUDI
+S8
+8
+17.1
+AUDI
+S8
+8
+36.4
+AUDI
+S8
+8
+19.9
+AUDI
+SQ5
+6
+21.2
+AUDI
+SQ5
+6
+17.8
+AUDI
+SQ5
+6
+19.3
+AUDI
+SQ5
+6
+20.8
+AUDI
+SQ5
+6
+32.9
+LAMBORGHINI
+Huracan
+10
+25.5
+LAMBORGHINI
+Huracan
+10
+19.8
+LAMBORGHINI
+Huracan
+10
+16.8
+LAMBORGHINI
+Huracan
+10
+16.3
+LAMBORGHINI
+Huracan
+10
+14.8
+VOLKSWAGEN
+Jetta
+4
+29.3
+VOLKSWAGEN
+Jetta
+4
+49.6
+VOLKSWAGEN
+Jetta
+4
+47.4
+VOLKSWAGEN
+Jetta
+4
+28.7
+VOLKSWAGEN
+Jetta
+4
+32.8
+VOLKSWAGEN
+Jetta
+4
+52.6
+VOLKSWAGEN
+Jetta
+4
+32.5
+VOLKSWAGEN
+Jetta
+4
+52.6
+VOLKSWAGEN
+Jetta
+4
+32.2
+VOLKSWAGEN
+Jetta
+4
+52.3
+VOLKSWAGEN
+Jetta
+4
+32.7
+VOLKSWAGEN
+Jetta
+4
+52.6
+VOLKSWAGEN
+Passat
+4
+31.1
+VOLKSWAGEN
+Passat
+4
+50.2
+VOLKSWAGEN
+Passat
+4
+30.9
+VOLKSWAGEN
+Passat
+4
+49.7
+VOLKSWAGEN
+Passat
+4
+31.2
+VOLKSWAGEN
+Passat
+4
+50.2
+VOLKSWAGEN
+Passat
+4
+31.2
+VOLKSWAGEN
+Passat
+4
+50.8
+Volvo
+S60 T5 AWD
+5
+40
+Volvo
+S60 T5 AWD
+5
+25.6
+Volvo
+S60 T5 FWD
+4
+53.8
+Volvo
+S60 T5 FWD
+4
+33.7
+Volvo
+S60 T5 FWD
+4
+30.6
+Volvo
+S60 T5 FWD
+4
+50.5
+Volvo
+S60 T6 AWD
+6
+23.3
+Volvo
+S60 T6 AWD
+6
+37.4
+Volvo
+S60 T6 AWD
+6
+25.8
+Volvo
+S60 T6 AWD
+6
+20.1
+Volvo
+S60 T6 AWD
+6
+20.6
+Volvo
+S60 T6 FWD
+4
+30.3
+Volvo
+S60 T6 FWD
+4
+49.1
+Volvo
+S60 T6 FWD
+4
+30.4
+Volvo
+S60 T6 FWD
+4
+49.3
+Volvo
+V60 Polestar T6 AWD
+6
+23.1
+Volvo
+V60 Polestar T6 AWD
+6
+25.2
+Volvo
+V60 Polestar T6 AWD
+6
+37
+Volvo
+V60 Polestar T6 AWD
+6
+19.4
+Volvo
+V60 Polestar T6 AWD
+6
+19.2
+Volvo
+XC60 3.2 AWD
+6
+22.9
+Volvo
+XC60 3.2 AWD
+6
+22.9
+Volvo
+XC60 3.2 AWD
+6
+18.4
+Volvo
+XC60 3.2 AWD
+6
+18.4
+Volvo
+XC60 3.2 AWD
+6
+19.2
+Volvo
+XC60 3.2 AWD
+6
+19.2
+Volvo
+XC60 3.2 AWD
+6
+22.4
+Volvo
+XC60 3.2 AWD
+6
+22.4
+Volvo
+XC60 3.2 AWD
+6
+34.7
+Volvo
+XC60 3.2 AWD
+6
+34.7
+Volvo
+XC60 3.2 AWD PZEV
+6
+21.7
+Volvo
+XC60 3.2 AWD PZEV
+6
+23.3
+Volvo
+XC60 3.2 AWD PZEV
+6
+18.7
+Volvo
+XC60 3.2 AWD PZEV
+6
+19.7
+Volvo
+XC60 3.2 AWD PZEV
+6
+33.9
+Volvo
+XC60 T5 AWD
+5
+19.9
+Volvo
+XC60 T5 AWD
+5
+19.8
+Volvo
+XC60 T5 AWD
+5
+22.4
+Volvo
+XC60 T5 AWD
+5
+35.2
+Volvo
+XC60 T5 AWD
+5
+22.8
+Volvo
+XC60 T5 FWD
+4
+30.8
+Volvo
+XC60 T5 FWD
+4
+43.8
+Volvo
+XC60 T6 AWD
+6
+21.5
+Volvo
+XC60 T6 AWD
+6
+32.2
+Volvo
+XC60 T6 AWD
+6
+21.9
+Volvo
+XC60 T6 AWD
+6
+18.7
+Volvo
+XC60 T6 AWD
+6
+18.4
+Volvo
+XC60 T6 FWD
+4
+27.8
+Volvo
+XC60 T6 FWD
+4
+42.9
+Volvo
+XC60 T6 FWD
+4
+27.9
+Volvo
+XC60 T6 FWD
+4
+42.6
+Volvo
+XC70 3.2 AWD
+6
+22.9
+Volvo
+XC70 3.2 AWD
+6
+22.9
+Volvo
+XC70 3.2 AWD
+6
+24.3
+Volvo
+XC70 3.2 AWD
+6
+24.3
+Volvo
+XC70 3.2 AWD
+6
+17.8
+Volvo
+XC70 3.2 AWD
+6
+17.8
+Volvo
+XC70 3.2 AWD
+6
+18.7
+Volvo
+XC70 3.2 AWD
+6
+18.7
+Volvo
+XC70 3.2 AWD
+6
+35.3
+Volvo
+XC70 3.2 AWD
+6
+35.3
+Volvo
+XC70 3.2 AWD PZEV
+6
+22.4
+Volvo
+XC70 3.2 AWD PZEV
+6
+34.4
+Volvo
+XC70 3.2 AWD PZEV
+6
+23.7
+Volvo
+XC70 3.2 AWD PZEV
+6
+18.7
+Volvo
+XC70 3.2 AWD PZEV
+6
+19.6
+Volvo
+XC70 T6 AWD
+6
+23.5
+Volvo
+XC70 T6 AWD
+6
+18.7
+Volvo
+XC70 T6 AWD
+6
+18.6
+Volvo
+XC70 T6 AWD
+6
+35.1
+Volvo
+XC70 T6 AWD
+6
+22.6

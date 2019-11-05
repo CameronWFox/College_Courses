@@ -1,0 +1,10 @@
+Coding for Lubuntu Work on Virtual Box
+sudo apt-get update
+sudo apt-get build-essential
+sudo apt-get install git
+	
+
+
+
+
+	

@@ -1,0 +1,469 @@
+
+	CS1181PA6 Code
+
+
+
+package CS1181pa6;
+
+import java.util.Scanner;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+/**
+ * Cameron Windsor Fox
+ * CS1181 
+ * Project 6
+ * Section 3
+ * Rick Volkers
+ * Sai
+ */
+public class CS1181PA6 
+{
+    public static void processOutput(RequestQueue output)
+    {
+        final int MAXEXCEPTIONS = 10;
+        
+        Delay delayObject = new Delay(57369);  
+        String data;
+        int numExceptionsInARow = 0;
+        
+        // We will count the number of exceptions in a row and
+        // when we get to MAXEXCEPTIONS, we will assume there is
+        // no more work to be done and exit the loop.
+        while(numExceptionsInARow < MAXEXCEPTIONS)
+        {
+            try
+            {
+                // Try to get a string from the output queue
+                data = output.dequeue();
+                // If we get one, we will output it and set the
+                // number of exceptions in a row back to 0
+                System.out.println(data);
+                numExceptionsInARow = 0;
+            }
+            catch(Exception e)
+            {
+                // Nothing in the queue, so count the exception
+                numExceptionsInARow++;
+                // Wait for a while so when we check the queue 
+                // there is a better chance there will be some 
+                // work to do.
+                delayObject.specificDelay(1000);
+            }
+        }
+        System.out.println("Output processing is done");
+    }
+
+    public static void main(String[] args) 
+    {
+        RequestQueue input = new MyRequestQueue();
+        RequestQueue output = new MyRequestQueue();
+        
+        Scanner userInput = new Scanner(System.in);
+        
+        System.out.println("Enter the number of requests: ");
+        int requests = userInput.nextInt();
+        
+        System.out.println("Enter the number of servers: ");
+        int servers = userInput.nextInt();
+        
+ 
+        // The following code creates a pool of worker threads, one for 
+        // each request server and one for the request generator
+        ExecutorService executor = Executors.newFixedThreadPool(servers + 1);
+        for (int i = 1; i <= servers; i++) {
+            Runnable reqsrvr = new RequestServer(input, output, i);
+            executor.execute(reqsrvr);
+        }
+        executor.execute(new RequestGenerator(input, requests));
+        
+        // Now that the system is up and running, we need to start processing
+        // the output from the output queue. Call a function to handle that.
+        processOutput(output);
+        
+        // Report on queue statistics - output the max lengths of the input and output queues
+        System.out.printf("Queue Stats: Input - MaxLength = %d, Output - MaxLength = %d\n", input.getMaxLength(), output.getMaxLength());
+        
+        // Wait on all the threads to complete their work
+        executor.shutdown();
+        while (!executor.isTerminated()) {}
+        System.out.println("Finished all threads");
+    } 
+}
+
+
+	Delay Code
+
+
+
+package CS1181pa6;
+
+import java.util.Random;
+
+/**
+ * This class is used to create delays of specific
+ * or random amounts of time.
+ * Cameron Windsor Fox
+ * CS1181 
+ * Project 6
+ * Section 3
+ * Rick Volkers
+ * Sai
+ */
+public class Delay 
+{
+    // Use an object of the Random class to
+    // generate random numbers for the delay periods
+    private final Random rand;
+    
+    /**
+     * The constructor takes a seed value so each Delay
+     * object will create a Random object which generates
+     * a different sequence of random values provided
+     * the seed values are different.
+     * 
+     * @param seed should be a large integer value
+     */
+    public Delay(int seed)
+    {
+        rand = new Random(seed);
+    }
+    
+    /**
+     * Create a random delay based on the input parameters.
+     * 
+     * @param min specifies the minimum number of milliseconds to delay
+     * @param range specifies the range for the random component of the delay
+     */
+    public void randomDelay(int min, int range)
+    {
+        // The delay time will be between min and min + range
+        goToSleep(min + rand.nextInt(range));
+    }
+    
+    /**
+     * Delay the specified number of milliseconds
+     * 
+     * @param delay the number of milliseconds to delay
+     */
+    public void specificDelay(int delay)
+    {
+        goToSleep(delay);
+    }
+    
+    /**
+     * This method causes the calling thread to stop execution
+     * for the specified number of milliseconds after which the
+     * thread wakes up and continues execution
+     * 
+     * @param msecs the number of milliseconds the thread will sleep
+     */
+    private void goToSleep(int msecs)
+    {
+        try
+        {
+            Thread.sleep(msecs);
+        }
+        catch(InterruptedException e)
+        {
+            // Nothing to do here.... we really don't expect this to happen
+        }
+    }
+}
+
+
+	MyRequestQueue Code
+
+/*
+ * This queue class must be implemented using your own 
+ * methods for linking nodes together in a linked data structure.
+ * You need to define a Node class inside of this class.
+ * You need to specify the member variables needed to
+ * maintain your queue and implement all the methods of the
+ * RequestQueue interface.
+ */
+package CS1181pa6;
+
+public class MyRequestQueue implements RequestQueue {
+
+    int size;
+    int maxSizeOfQueue;
+
+    /**
+     * This is a Node class created from scratch used to create nodes use3d in the class
+     * post: we know what is in the Node class
+     * pre: we do not know what is in the Node class
+     */
+    private class Node {
+
+        public String data;
+        public Node next;
+
+        public Node(String data, Node next) {
+            this.data = data;
+            this.next = next;
+        }
+    }
+    private Node head = null;
+    private Node tail = null;
+
+    /**
+     * this is the enqueue method used to add a string to the queue 
+     * pre: we do not know what string is added to the queue 
+     * post: we know what string is
+     * added to the queue
+     *
+     * @param input this is the string used for the enqueue method
+     */
+    @Override
+    public void enqueue(String input) {
+       Node newNode;
+
+        if (head == null) {
+            newNode = new Node(input, null);
+            head = newNode;
+            newNode.next = null;
+        
+        } else{
+            newNode = new Node(input, null);
+            tail = newNode;
+            newNode.next = null;
+        }
+
+        size++;
+        if (maxSizeOfQueue < size){
+            maxSizeOfQueue = size;
+        }
+    }
+
+    /**
+     * This is the dequeue method used to remove a string from the queue
+     * post: we know the string removed
+     * pre: we do not know the string that is removed
+     * @return  this returns first string added to the queue
+     * @throws java.lang.Exception this exception is thrown if the queue list is empty
+     */
+    @Override
+    public String dequeue() throws Exception {
+        
+        if (head == null) {
+            throw new Exception("The List is Empty!");
+        } 
+        String data = " ";
+        data = head.data;
+        head = head.next;
+
+        size--;
+        return data;
+    }
+
+    /**
+     * this is the max length method and is returns that max length of the queue
+     * pre: we do not know the max length
+     * post: we know the max length
+     * @return this returns the max length of the queue
+     */
+    @Override
+    public int getMaxLength() {
+        
+        return maxSizeOfQueue;
+    }
+}
+
+
+	QueueTester Code
+
+
+
+package CS1181pa6;
+
+/**
+ * Cameron Windsor Fox
+ * CS1181 
+ * Project 6
+ * Section 3
+ * Rick Volkers
+ * Sai
+ */
+
+public class QueueTester extends MyRequestQueue
+{
+    public static void main(String args[]) throws Exception
+    {
+        QueueTester QueueObject = new QueueTester();
+        
+        QueueObject.enqueue(" ");
+        QueueObject.dequeue();
+        QueueObject.getMaxLength();
+        
+        
+    }
+}
+
+	RequestGenerator Code
+
+
+
+
+package CS1181pa6;
+
+/**
+ * The RequestGenerator class runs in a separate thread of execution.
+ * The code that the thread executes must be inside the run method.
+ * The purpose of this class is to place strings onto a RequestQueue
+ * at random times.
+ * Cameron Windsor Fox
+ * CS1181 
+ * Project 6
+ * Section 3
+ * Rick Volkers
+ * Sai
+ */
+
+public class RequestGenerator implements Runnable
+{
+    private final RequestQueue output;
+    private final int numRequests;
+    
+
+    public RequestGenerator(RequestQueue output, int numRequests){
+        this.output = output;
+        this.numRequests = numRequests;
+    }
+
+    /**
+     * This is the run
+     */
+    @Override
+    public void run() 
+    {
+        Delay pauseSystem = new Delay(39726397);
+        for (int n = 0; n < numRequests; n++) {
+            pauseSystem.randomDelay(200, 300);
+            output.enqueue("Request # " + (n + 1));
+            
+        }
+            
+            
+        
+    }
+}
+
+	RequestQueue Code
+
+
+
+package CS1181pa6;
+
+/**
+ * Cameron Windsor Fox
+ * CS1181 
+ * Project 6
+ * Section 3
+ * Rick Volkers
+ * Sai
+ */
+public interface RequestQueue 
+{
+    /**
+     * This method is used to add a String to the end of the queue
+     * @param input the string object to be queued
+     */
+    void enqueue(String input);  
+    /**
+     * This method returns the String object from the front of the queue
+     * deleting that object from the queue
+     * @return the string from the front of the queue
+     * @throws Exception if the queue is empty
+     */
+    String dequeue() throws Exception;
+    /**
+     * This method reports the maximum length the queue has reached
+     * @return the maximum number of items in the queue since it was created
+     */
+    int getMaxLength();
+}
+
+	RequestServer Code
+
+
+
+package CS1181pa6;
+
+/**
+ * An object of this class can be run in a separate thread.
+ * The purpose of this class is to process requests from the incoming  
+ * request queue and then send the processed request to the output queue.
+ * All the code that a thread executes will be in the run method.
+ * Cameron Windsor Fox
+ * CS1181 
+ * Project 6
+ * Section 3
+ * Rick Volkers
+ * Sai
+ */
+
+public class RequestServer implements Runnable
+{
+    private final RequestQueue input;
+    private final RequestQueue output;
+    private final int serverID;
+
+
+    
+    public RequestServer(RequestQueue input, RequestQueue output, int serverID){
+        this.input = input;
+        this.output = output;
+        this.serverID = serverID;
+    }
+    
+    /**
+     * 
+     */
+    @Override
+    public void run() 
+    {
+        final int MAXEXCEPTIONS = 10;
+        Delay delayObject = new Delay(294739 * serverID);       
+        String data;
+        String prefix = "";
+        // Keep track of how many time in a row we try to dequeue and get an exception
+        // After MAXEXCEPTION times, we assume there are no more requests coming so we exit the loop
+        int numExceptionsInARow = 0;
+        // Keep track of how many requests we get from the input queue
+        int numberOfRequestsServed = 0;
+        // Create a string prefix to uniquely identify each instance of this class
+        // The prefix will contain serverID number of tabs followed by a colon and a blank
+        for(int i = 0; i < serverID; i++)
+        {
+            prefix += "\t";
+        }
+        prefix += serverID + ": ";
+        // After MAXEXCEPTIONS attempts at dequeueing have failed in a row, we just quit - no more work coming
+        while(numExceptionsInARow < MAXEXCEPTIONS)
+        {
+            // Wait for a while
+            delayObject.randomDelay(250, 1000);
+            try
+            {
+                // Try to read a string from the input queue
+                data = input.dequeue();
+                // If we got one, simulate the processing time by waiting a random amount - 100 msec min to 100 + range 500 msec max
+                delayObject.randomDelay(100, 500);
+                // Processing is done, so send to the output queue - our unique prefix plus the request string we processed
+                output.enqueue(prefix + data);
+                // Since we got data, set the number of exceptions in a row counter back to 0
+                numExceptionsInARow = 0;
+                // Keep track of how many requests we have handled
+                numberOfRequestsServed++;
+            }
+            catch(Exception e)
+            {
+                // Our attempt to dequeue failed, so increment numExceptions in a row 
+                ++numExceptionsInARow;
+            }
+        }
+        // Report statistics for this thread.
+        System.out.printf("RequestServer %d served %d requests - terminating!\n", serverID, numberOfRequestsServed);
+    }
+}

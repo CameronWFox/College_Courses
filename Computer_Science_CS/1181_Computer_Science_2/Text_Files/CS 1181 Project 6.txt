@@ -1,0 +1,180 @@
+
+	
+	MyRequestQueue Code
+
+/*
+ * This queue class must be implemented using your own 
+ * methods for linking nodes together in a linked data structure.
+ * You need to define a Node class inside of this class.
+ * You need to specify the member variables needed to
+ * maintain your queue and implement all the methods of the
+ * RequestQueue interface.
+ */
+package CS1181pa6;
+
+public class MyRequestQueue implements RequestQueue {
+
+    int size;
+    int maxSizeOfQueue;
+
+    /**
+     * This is a Node class created from scratch used to create nodes use3d in the class
+     * post: we know what is in the Node class
+     * pre: we do not know what is in the Node class
+     */
+    private class Node {
+
+        public String data;
+        public Node next;
+
+        public Node(String data, Node next) {
+            this.data = data;
+            this.next = next;
+        }
+    }
+    private Node head = null;
+    private Node tail = null;
+
+    /**
+     * this is the enqueue method used to add a string to the queue 
+     * pre: we do not know what string is added to the queue 
+     * post: we know what string is
+     * added to the queue
+     *
+     * @param input this is the string used for the enqueue method
+     */
+    @Override
+    public void enqueue(String input) {
+       Node newNode;
+
+        if (head == null) {
+            newNode = new Node(input, null);
+            head = newNode;
+            newNode.next = null;
+        
+        } else{
+            newNode = new Node(input, null);
+            tail = newNode;
+            newNode.next = null;
+        }
+
+        size++;
+        if (maxSizeOfQueue < size){
+            maxSizeOfQueue = size;
+        }
+    }
+
+    /**
+     * This is the dequeue method used to remove a string from the queue
+     * post: we know the string removed
+     * pre: we do not know the string that is removed
+     * @return  this returns first string added to the queue
+     * @throws java.lang.Exception this exception is thrown if the queue list is empty
+     */
+    @Override
+    public String dequeue() throws Exception {
+        
+        if (head == null) {
+            throw new Exception("The List is Empty!");
+        } 
+        String data = " ";
+        data = head.data;
+        head = head.next;
+
+        size--;
+        return data;
+    }
+
+    /**
+     * this is the max length method and is returns that max length of the queue
+     * pre: we do not know the max length
+     * post: we know the max length
+     * @return this returns the max length of the queue
+     */
+    @Override
+    public int getMaxLength() {
+        
+        return maxSizeOfQueue;
+    }
+}
+
+
+	QueueTester Code
+
+
+
+package CS1181pa6;
+
+/**
+ * Cameron Windsor Fox
+ * CS1181 
+ * Project 6
+ * Section 3
+ * Rick Volkers
+ * Sai
+ */
+
+public class QueueTester extends MyRequestQueue
+{
+    public static void main(String args[]) throws Exception
+    {
+        QueueTester QueueObject = new QueueTester();
+        
+        QueueObject.enqueue(" ");
+        QueueObject.dequeue();
+        QueueObject.getMaxLength();
+        
+        
+    }
+}
+
+	RequestGenerator Code
+
+
+
+
+package CS1181pa6;
+
+/**
+ * The RequestGenerator class runs in a separate thread of execution.
+ * The code that the thread executes must be inside the run method.
+ * The purpose of this class is to place strings onto a RequestQueue
+ * at random times.
+ * Cameron Windsor Fox
+ * CS1181 
+ * Project 6
+ * Section 3
+ * Rick Volkers
+ * Sai
+ */
+
+public class RequestGenerator implements Runnable
+{
+    private final RequestQueue output;
+    private final int numRequests;
+    
+
+    public RequestGenerator(RequestQueue output, int numRequests){
+        this.output = output;
+        this.numRequests = numRequests;
+    }
+
+    /**
+     * This is the run
+     */
+    @Override
+    public void run() 
+    {
+        Delay pauseSystem = new Delay(39726397);
+        for (int n = 0; n < numRequests; n++) {
+            pauseSystem.randomDelay(200, 300);
+            output.enqueue("Request # " + (n + 1));
+            
+        }
+            
+            
+        
+    }
+}
+
+	

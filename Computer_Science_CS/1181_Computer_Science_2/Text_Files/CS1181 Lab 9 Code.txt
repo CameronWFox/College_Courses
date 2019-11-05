@@ -1,0 +1,289 @@
+Main Code
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package cs1181pa9;
+
+import java.util.Scanner;
+
+/**
+ * Cameron Windsor Fox
+ * CS1181
+ * Project 9
+ * Section 3
+ * Rick Volkers
+ * Sai
+ */
+public class CS1181PA9 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        SearchDemo search = new SearchDemo();
+        double lowerBound = 0;
+        double middleNumber = 0;
+        double upperBound = 0;
+        //size of the array
+        int size = 100;
+        
+        // number you are searching for
+        int numberToFind = 0;
+        
+        
+        Scanner userInput = new Scanner(System.in);
+        search.fillDoubleArray(size);
+        
+        //method call
+        search.toString();
+        
+        String output;
+        System.out.println("The First, Last, and Middle Number in the Array: ");
+        
+        int test;
+        
+        lowerBound = userInput.nextDouble();
+        upperBound = userInput.nextDouble();
+        middleNumber = userInput.nextDouble();
+        
+        
+        test = search.interpotationSearch(lowerBound);
+        System.out.println("First Number in the Array: " + test);
+        
+        test = search.interpotationSearch(upperBound);
+        System.out.println("Last Number in the Array: " + test);
+        
+        test = search.interpotationSearch(middleNumber);
+        System.out.println("Middle Number in the Array: " + test);
+        
+        
+        test = search.recursionCall(0, 99, lowerBound);
+        System.out.println("Recursion First Number in the Array: " + test);
+        
+        test = search.recursionCall(0, 99, upperBound);
+        System.out.println("Recursion Last Number in the Array: " + test);
+        
+        test = search.recursionCall(0, 99, middleNumber);
+        System.out.println("Recursion Middle Number in the Array: " + test);
+        
+        
+        test = search.interpotationSearch(lowerBound - 1);
+        System.out.println("Number less than the First Number in the Array: " + test);
+        
+        test = search.interpotationSearch(upperBound + 1);
+        System.out.println("Number greater than the Last Number in the Array: " + test);
+        
+        test = search.interpotationSearch(middleNumber + 1);
+        System.out.println("Missing Middle Number in the Array: " + test);
+        
+        
+        test = search.recursionCall(0, 99, lowerBound - 1);
+        System.out.println("Recursion Number less than the First Number in the Array: " + test);
+        
+        test = search.recursionCall(0, 99, upperBound + 1);
+        System.out.println("Recursion Number greater than the Last Number in the Array: " + test);
+        
+        test = search.recursionCall(0, 99, middleNumber + 1);
+        System.out.println("Recursion Missing Middle Number in the Array: " + test);
+    }
+    
+}
+
+
+
+Search Demo code
+
+
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package cs1181pa9;
+
+import java.util.Arrays;
+import java.util.Random;
+
+/**
+ * Cameron Windsor Fox 
+ * CS1181 
+ * Project 9 
+ * Section 3 
+ * Rick Volkers 
+ * Sai
+ */
+public class SearchDemo {
+
+    private double[] randomArray;
+    private Random randomNumbers;
+
+    /**
+     * this is an array method that initialized the array of doubles
+     * pre: we don not have the array initialized
+     * post: we have the array initialized
+     * @param size this is the size of the array
+     * @param numberToFind the number to search for
+     */
+    public void array(int size, double numberToFind) {
+        this.randomArray = new double[size];
+    }
+
+    /**
+     * this filles the array with random numbers
+     * pre: we do not have the array filled
+     * post: we have the array filled
+     * @param size this is the size of the array
+     */
+    public void fillDoubleArray(int size) {
+        randomArray = new double[size];
+        Random rand = new Random();
+        for (int i = 0; i < size; i++) {
+            randomArray[i] = rand.nextInt(10_000 * size) / 10.0;
+        }
+        shellSort(randomArray);
+    }
+
+    /**
+     * this s the shell sort method that sorts the array using shell sort
+     * pre: we do not have the array sorted
+     * post: we have the array sorted
+     * @param randomArray this is the name of the array
+     */
+    public void shellSort(double[] randomArray) {
+        int increment = randomArray.length / 2;
+        while (increment > 0) {
+            for (int i = increment; i < randomArray.length; i++) {
+                int j = i;
+                double temp = randomArray[i];
+                while (j >= increment && randomArray[j - increment] > temp) {
+                    randomArray[j] = randomArray[j - increment];
+                    j = j - increment;
+                }
+                randomArray[j] = temp;
+            }
+            if (increment == 2) {
+                increment = 1;
+            } else {
+                increment *= (5.0 / 11);
+            }
+        }
+    }
+
+    /**
+     * this is the first search method used
+     * pre: we do not have a search set up
+     * post: we have a search set up
+     * @param numberToFind this is the number that you search for
+     * @return this returns -1 if the number is not found
+     */
+    public int interpotationSearch(double numberToFind) {
+
+        int lowerBound = 0;
+        int upperBound = randomArray.length - 1;
+        int middleNumber;
+        double dvub = randomArray[upperBound];
+        double dvlb = randomArray[lowerBound];
+
+        if (numberToFind < randomArray[lowerBound] || numberToFind > randomArray[upperBound]) {
+            return -1;
+        }
+        if (randomArray[lowerBound] == numberToFind) {
+            return lowerBound;
+        }
+        if (randomArray[upperBound] == numberToFind) {
+            return upperBound;
+        }
+
+        while (randomArray[upperBound] >= numberToFind && randomArray[lowerBound] <= numberToFind) {
+            if (randomArray[upperBound] - randomArray[lowerBound] == 0) {
+                return (upperBound + lowerBound) / 2;
+            }
+            middleNumber = (int) (lowerBound + ((numberToFind - dvlb) / (dvub - dvlb))
+                    * (upperBound - lowerBound));
+
+            if (randomArray[middleNumber] > numberToFind) {
+                upperBound = middleNumber - 1;
+                dvub = randomArray[upperBound];
+            } else if (randomArray[middleNumber] < numberToFind) {
+                lowerBound = middleNumber + 1;
+                dvlb = randomArray[lowerBound];
+            } else {
+                return middleNumber;
+            }
+        }
+
+        return -1;
+    }
+
+    /**
+     * this is the method used to call the recursion search
+     * pre: we do not have the recursion called
+     * post: we have the recursion called
+     * @param lowerBound the start number of the array
+     * @param upperBound the end number of the array
+     * @param numberToFind the number you are searching for
+     * @return returns the call for the private recursion method
+     */
+    public int recursionCall(int lowerBound, int upperBound, double numberToFind){
+        return recursionBinarySearch(lowerBound, upperBound, numberToFind);
+    }
+    
+    /**
+     * this is the recursion search method
+     * pre: we do not have the recursion set up
+     * post: we have the recursion search set up
+     * @param lowerBound the start number of the array
+     * @param upperBound the end number of the array
+     * @param numberToFind the number you are searching for
+     * @return returns -1 if the number you are searching for is not found
+     */
+    private int recursionBinarySearch(int lowerBound, int upperBound, double numberToFind){
+        double lb = randomArray[lowerBound];
+        double ub = randomArray[upperBound];
+        
+        double check = lowerBound + ((numberToFind - lb) / (ub - lb)) * (upperBound - lowerBound);
+        int middle = (int) check;
+        
+        if (randomArray[middle] == numberToFind){
+            return middle;
+        }
+        if (numberToFind < lb || numberToFind > ub){
+            return -1;
+        }
+        
+        else if (numberToFind < randomArray[middle]){
+            upperBound = middle - 1;
+            return recursionBinarySearch(lowerBound, upperBound, numberToFind);
+        }
+        else if (numberToFind > randomArray[middle]){
+            lowerBound = middle + 1;
+            return recursionBinarySearch(lowerBound, upperBound, numberToFind);
+        }
+        return -1;
+    }
+    /**
+     * This toString method is used to display the array of doubles
+     * @return the string containing the sorted array
+     */
+    @Override
+    public String toString() {
+        String sortedRandomArray = Arrays.toString(randomArray);
+        for (int i = 0; i < 100; i++) {
+            if (i % 6 == 0) {
+
+                System.out.println("");
+                System.out.print(randomArray[i] + "\t");
+
+            } else {
+
+                System.out.print(randomArray[i] + "\t");
+            }
+        }
+        return sortedRandomArray;
+    }
+}
+
+
